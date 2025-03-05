@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "c774470b-9994-4ab7-b77e-edca9b43e68e",
+  "name": "SD_player_dead",
+  "symbol": "sprite_sd_player_dead",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "66433a9d-f86f-48d6-83f4-eb978cbb6290",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "90eadef0-a7a1-4964-9c59-f504f456e85c",
+          "frames": [
+            {
+              "id": "393e0888-b83a-483c-90f9-e3be99ecfde6",
+              "tiles": [
+                {
+                  "id": "c1845999-4edb-46a0-b5fa-9574be7b286e",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "3af7f1e4-868f-41e0-9935-ea54297156ac",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1e1876dc-9783-4a37-a854-aafd308c76c3",
+          "frames": [
+            {
+              "id": "20612d7b-0ee4-4a35-a2c9-ef65ec08923a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dec3497e-9313-4a78-9243-61dbfda50c0d",
+          "frames": [
+            {
+              "id": "71c99917-a432-4cff-b909-1399af19579e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cae08114-9e2e-4b9f-b158-fc25ff8687b0",
+          "frames": [
+            {
+              "id": "a5f9540a-5ee3-48ac-8e4d-60d39d1617f0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "90449c08-1300-48b1-9b7e-99bc359bbc00",
+          "frames": [
+            {
+              "id": "9ca36b8d-b9b0-4a77-812b-0a8d80567f08",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec04e384-255a-483a-97bf-b85b6ee58cb1",
+          "frames": [
+            {
+              "id": "5e168273-4216-464d-96aa-62ba7aba2c08",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fdcfa8c7-1ed5-4b03-a0ac-fdf9a16ee039",
+          "frames": [
+            {
+              "id": "4d7f60e8-ccac-4a07-9fc0-bd3134be7a5f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ddffa8db-5b31-48b2-a5b6-d091b162e9cb",
+          "frames": [
+            {
+              "id": "ca1c7be0-5164-4ecc-9d9e-cfb7d53fbeef",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_player_dead.png",
+  "checksum": "71d71289587e8788a017ea10a5f46d578567a7fc"
+}

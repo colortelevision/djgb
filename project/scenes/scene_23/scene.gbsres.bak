@@ -1,0 +1,49 @@
+{
+  "_resourceType": "scene",
+  "id": "93c3418f-8dec-469b-b3e5-5b4301394ca2",
+  "_index": 22,
+  "name": "Scene 23",
+  "backgroundId": "da69ce33-b48b-4dd1-8a5a-6ca36ce752c6",
+  "tilesetId": "",
+  "width": 192,
+  "height": 18,
+  "type": "PLATFORM",
+  "paletteIds": [
+    null,
+    "5aa84324-9f37-47d1-9121-a3710a3c4fd3",
+    "bddace7a-c5ea-4a7f-ac3f-854c0fd7a897"
+  ],
+  "spritePaletteIds": [
+    "",
+    "b550d28a-9cb7-4f19-82fb-d839725f2419"
+  ],
+  "collisions": "003c0+0f!005+0f52+00!0f30+0017+0f1b+004+0f2+0034+0f2+002+0f6+002+0f4+006+0f4+0058+0fa+00e+0f2+0034+0f2+002+0f6+002+0f4+006+0f4+0058+0fa+00e+0f2+0032+0f2+008+0f2+003+0f!004+0f2+005e+0fa+00e+0f2+0032+0f2+008+0f2+003+0f!004+0f2+005e+0fa+00e+0f2+0026+01!00!0f3+00!02!005+0f2+008+0f2+003+0f!004+0f2+00a+0f6+004e+0fa+00e+0f2+0026+01!00!0f!00!0f!00!02!005+0f2+008+0f2+003+0f!004+0f!00b+0f6+0037+0f5+0010+0fc+00e+0f2+0016+0f!00!0f!00d+0f3+00!0f3+005+0f4+002+0f6+003+0f3+002+0f2+002+0f4+001d+0f2+0019+0f2+001c+0fc+00e+0f2+0014+0f!00!0f!00!0f!00!0f!003+0f!0015+0f2+002f+0f2+004+0f2+00b+0f2+00b+0f3+0016+0f12+002+0f2+002+0f2+002+0f2+002+0f2+0012+0f!00!0f!00!0f!00!0f!00!0f!003+0f!00!0f!0013+0f2+002f+0f2+004+0f2+004+0f2+005+0f2+00a+0f4+0016+0f12+002+0f2+002+0f2+002+0f2+002+0f2+0010+0f!00!0f!00!0f!00!0f!00!0f!00!0f!003+0f!00!0f!0044+0f2+004+0f2+004+0f2+005+0f2+009+0f5+0016+0f12+002+0f2+002+0f2+002+0f2+002+0f50+003+0f25+002+0f2+002+0fc+007+0f8+007+0f70+003+0f25+002+0f2+002+0fc+007+0f8+007+0f21+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_23",
+  "x": 344,
+  "y": 480,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "f561bd0f-b71b-4881-8be8-bae940137dc9"
+      },
+      "id": "64141f9f-eb2a-485c-abd7-9ffe31f24a11"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "21",
+        "value": {
+          "type": "number",
+          "value": 0
+        }
+      },
+      "id": "6a1ef4b9-752f-4f3c-9fb7-a03c58eff081"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "2ea6144e-df05-4fb0-b52e-d14b5078ad67"
+}

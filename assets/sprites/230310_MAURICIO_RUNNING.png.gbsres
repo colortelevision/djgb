@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "9116e70e-bf4f-4f0e-8f54-ccdc49154f52",
+  "name": "230310_MAURICIO_RUNNING",
+  "symbol": "sprite_230310_mauricio_runn",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "b02b4636-1031-4639-93ce-b050a05ebbda",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "18e46eba-066a-4f82-8203-1baa57dd3906",
+          "frames": [
+            {
+              "id": "904f4b64-a904-4f8a-bc57-80471f44b2eb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2cfb520b-b7c8-43e1-8230-f3e72148399b",
+          "frames": [
+            {
+              "id": "73222201-2da8-4ae4-8305-cd008c5558f9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "805e7874-cdef-4bbc-8448-23f6c7ca1281",
+          "frames": [
+            {
+              "id": "423a9e6f-82a9-4e49-8d94-418dd4c3dbf0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "54d16cf6-66b8-43fc-9c3a-2533f34ff03d",
+          "frames": [
+            {
+              "id": "e25f2268-f673-4ce7-90e5-fd9623ecae0d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "53338ac2-142a-47e3-be00-2040ebf7aa5f",
+          "frames": [
+            {
+              "id": "15f2dcf9-7b83-4909-ac80-993b12cbc918",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "76426c7e-fe60-442f-8807-8115d3904bca",
+          "frames": [
+            {
+              "id": "0ca8bdb4-1f52-4a90-b814-c955e3b5cf11",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e53b8406-ead1-4e92-b9c6-973746eb7086",
+          "frames": [
+            {
+              "id": "92e5b287-236a-43cd-83c8-f794ba7abd07",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5fc666ef-0fff-4d52-a362-acfc3180e550",
+          "frames": [
+            {
+              "id": "b6d7e1dd-209d-4036-8d6b-046cbc59b487",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "230310_MAURICIO_RUNNING.png",
+  "checksum": "74fc6bdc84069f0301760210933becdc0c504eb8"
+}

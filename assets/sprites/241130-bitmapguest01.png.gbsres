@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c707d1f6-5931-4173-bc75-a348f44f3999",
+  "name": "241130-bitmapguest01",
+  "symbol": "sprite_241130_bitmapguest01",
+  "width": 64,
+  "height": 32,
+  "states": [
+    {
+      "id": "b2c0fb68-a259-4505-85d1-105776da189c",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "79ad8a0a-345a-42a7-b913-ffeabd5b288a",
+          "frames": [
+            {
+              "id": "dd30ad47-1bdb-40c0-824f-59a3452b16b2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "63d5e7c6-841a-4c54-971e-4360c8ce3ec2",
+          "frames": [
+            {
+              "id": "8937dd91-2a9d-420a-aada-73d7eb4be8a6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ba32727e-ee44-43bc-9765-6facb41bc851",
+          "frames": [
+            {
+              "id": "6f049220-2a28-4623-bab3-94e264a51f9a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8f666027-f080-4f55-b83d-eb883bde67d9",
+          "frames": [
+            {
+              "id": "a9b8eae6-73a7-42f9-8f60-79185b0aed9f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2da6dbef-de58-49d6-93ac-52a7eacbdfeb",
+          "frames": [
+            {
+              "id": "b6e1a651-5c8b-463a-ab7a-5cd587fb8cb9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d720a5db-07d6-4173-a43a-da45b0402139",
+          "frames": [
+            {
+              "id": "8305514a-33e6-4ce7-8d0f-17e8487e7059",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "807d7511-6a3c-4e67-a545-5c8c032eb687",
+          "frames": [
+            {
+              "id": "fd4b025f-af26-4c9b-9730-23c4b978ed3e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "16d1ace1-12b2-44fd-9392-eb3aac696fc3",
+          "frames": [
+            {
+              "id": "1ffa7e34-c48a-4821-a8e3-1955ff4a7cde",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "241130-bitmapguest01.png",
+  "checksum": "08371334c6f0bb73eea6740b46aa5fe1cfe5eaf1"
+}

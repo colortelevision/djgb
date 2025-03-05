@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c4b5f35e-6fdb-488e-aa91-713556d7107a",
+  "name": "CTV_102222 nickey spritesheet",
+  "symbol": "sprite_ctv_102222_nickey_sp",
+  "width": 112,
+  "height": 32,
+  "states": [
+    {
+      "id": "a05fe0cc-6920-48d0-9a79-7bedf4218da0",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "2a80d196-df84-4f34-b57d-ddb69a3c3e01",
+          "frames": [
+            {
+              "id": "1f792082-473c-463e-bb6b-65e8f512c405",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9ca59576-5a9c-41e5-a8c9-1cf6cfa9825b",
+          "frames": [
+            {
+              "id": "e3e42b6e-d925-4795-bab9-6bcb59ffca39",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8b0b7a80-95f9-4c88-9d07-aaf01928af4a",
+          "frames": [
+            {
+              "id": "5b05de49-dfc6-4a37-bdf0-ff1cde054999",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9560374d-d05b-4aae-bead-6207d1e13ee7",
+          "frames": [
+            {
+              "id": "02e45fa8-82bb-4ba2-8bdf-5900744d9754",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "88ed702d-8801-4adb-b928-7f0d6007a79c",
+          "frames": [
+            {
+              "id": "4a8f2c1c-cdc5-4039-bedb-fba6d13d07cf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dcdda671-f3ae-4af1-a463-dba3921c679a",
+          "frames": [
+            {
+              "id": "cadad064-64eb-4d90-bad5-c066c0a9a05c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "77995592-b29b-4207-bab0-ae08b8d155c0",
+          "frames": [
+            {
+              "id": "ae69c629-7de9-4cb7-a97f-f11856f066da",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e279f5b4-a869-4617-98db-a3e4e3a4b57a",
+          "frames": [
+            {
+              "id": "919c81f9-350f-4abd-a44b-9f1ec06ff0b5",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "CTV_102222 nickey spritesheet.png",
+  "checksum": "e00b5956d91734f4ad473006685569ff26ed02ad"
+}

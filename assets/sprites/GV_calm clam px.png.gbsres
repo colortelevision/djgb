@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "4159560b-ab87-4ae3-9feb-12e16a813111",
+  "name": "GV_calm clam px",
+  "symbol": "sprite_gv_calm_clam_px",
+  "width": 32,
+  "height": 30,
+  "states": [
+    {
+      "id": "04f56906-0a76-4e2e-81c3-afe541e0e745",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "891ff6e9-48bd-4322-b3e4-d4da2eb4b1d5",
+          "frames": [
+            {
+              "id": "aa648fac-b415-4939-84df-d42311674e16",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3f3bab7a-00d4-4965-8f27-5f2bafe291a7",
+          "frames": [
+            {
+              "id": "fe973e95-719f-49c8-8163-931142489de4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7b44875e-6e69-498c-84a6-31b269b7e2d0",
+          "frames": [
+            {
+              "id": "a287a3fe-4be2-4094-acf4-10ceda1daee2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "370da265-2aa7-48aa-baa1-3942f11a79fd",
+          "frames": [
+            {
+              "id": "ced109e4-fa68-4cef-9cc6-46006a0bdf2e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "be539cb3-d2f7-44db-8fd7-ff193ddd2ccf",
+          "frames": [
+            {
+              "id": "cc4cee6c-c791-4283-96ca-d259fa74bb1c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5c081771-2185-45f9-82ef-d8da2f5b4ae9",
+          "frames": [
+            {
+              "id": "1af134c4-95d9-46f2-818c-d7eb78e0737c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "94aaaadf-003b-4230-a392-9211076f958b",
+          "frames": [
+            {
+              "id": "60bb6cd2-2b33-4442-891c-120508019367",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1744e568-1d6a-4e43-b5d4-7d4d73711ef0",
+          "frames": [
+            {
+              "id": "81d43f67-c641-4260-a6c6-e23dad4193de",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "GV_calm clam px.png",
+  "checksum": "66098640d65fea19db31dd9d9ae03408f63516dd"
+}

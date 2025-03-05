@@ -1,0 +1,11 @@
+{
+  "_resourceType": "palette",
+  "id": "4f14f714-1e77-4619-a518-7bfd0f37b796",
+  "name": "amber_terminal",
+  "colors": [
+    "000000",
+    "00F888",
+    "509878",
+    "F89020"
+  ]
+}

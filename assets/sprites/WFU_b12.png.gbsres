@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "9e564ba2-fb4b-4252-9c34-f4d1c5120788",
+  "name": "WFU_b12",
+  "symbol": "sprite_wfu_b12",
+  "width": 80,
+  "height": 32,
+  "states": [
+    {
+      "id": "d6a4ad9e-fce7-4bf3-b885-883866ae864d",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "8f83e7f9-b744-40b7-8604-1e7b688e948f",
+          "frames": [
+            {
+              "id": "89c47ce0-de8e-410e-8b95-15469feece00",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ed49baae-f2ad-4eea-bd4a-e25519177154",
+          "frames": [
+            {
+              "id": "abca1778-b19a-4278-815e-7f90a41f585e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "69c05ab4-c12a-46d0-9b0d-7318916486a1",
+          "frames": [
+            {
+              "id": "5720909e-09c2-42d6-8cc3-56bbbebabff1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "54b240d9-8fc3-4a86-b568-66d2c0136a38",
+          "frames": [
+            {
+              "id": "9146f853-9a99-4923-b66f-ee021d0240d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9c45c060-ec28-47ef-a5b4-6e351aca413e",
+          "frames": [
+            {
+              "id": "59a4cc0e-42ed-481e-bab2-b1c341fe7542",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "011d1617-880e-4d25-8890-b86c8d972b72",
+          "frames": [
+            {
+              "id": "aa8e300f-3b39-4a2a-a4c0-690222a02281",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f2a68cb3-303a-4949-b3ae-eb49c6b1c05d",
+          "frames": [
+            {
+              "id": "5f9c218a-1996-4e37-bdea-8cb175330d4e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1eb9e8dc-1bc2-40e6-8a4f-00b61b27502a",
+          "frames": [
+            {
+              "id": "a02f5109-437d-4864-a6c0-fe911c57901c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "WFU_b12.png",
+  "checksum": "cad562545bd29a80fe98e58833c89e427abf42a5"
+}

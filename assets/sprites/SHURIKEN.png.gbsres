@@ -1,0 +1,158 @@
+{
+  "_resourceType": "sprite",
+  "id": "27771929-044e-4c9d-8949-d320964c866f",
+  "name": "SHURIKEN",
+  "symbol": "sprite_shuriken",
+  "width": 16,
+  "height": 32,
+  "states": [
+    {
+      "id": "d74cb919-d41f-4684-962e-944c93b1e3ab",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "e2a02943-ddff-4c9a-8786-f1bc24b43e75",
+          "frames": [
+            {
+              "id": "f2bf1fa3-4b1c-402d-ba64-7071ebe12a2f",
+              "tiles": [
+                {
+                  "id": "1755cc93-9c55-431e-9566-e825840c6ba5",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": true,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "fb1c437a-709c-41c6-a196-9f598d5f7ab4",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": true,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "bf7f2b90-6a80-408d-a5d0-bfbf5414a5ff",
+              "tiles": [
+                {
+                  "id": "a887745e-9b05-4a16-85be-0c75367c7e04",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": true,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 6,
+                  "priority": false
+                },
+                {
+                  "id": "3dd7c9b4-294e-4fe9-8ce1-995dd56a1d4d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": true,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 6,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e62ce0b8-1cd4-4ce8-84c7-64cc924eb3ca",
+          "frames": [
+            {
+              "id": "c93c3301-ce3f-4c99-8d64-61d22ffad767",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "107ac067-90cd-4738-99bd-3ebda27a667b",
+          "frames": [
+            {
+              "id": "0750cd2d-ad68-48de-bfff-cd25ff2e5bcf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b16e1dff-c318-4862-8f99-87153fa49fd7",
+          "frames": [
+            {
+              "id": "b3359387-35a3-4263-bd2c-d7947ba982a8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0a139495-d676-4ff0-a6c6-c059b74f5ef9",
+          "frames": [
+            {
+              "id": "a0f29010-c621-40b2-ac73-3664a1173cde",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bd60762d-8c63-4878-99bf-25a4caad2d12",
+          "frames": [
+            {
+              "id": "57999ce9-3e5e-4e9b-a2e7-c2bd46fba966",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6d46b103-a28b-498a-96f8-82e78fb94239",
+          "frames": [
+            {
+              "id": "a5d1116c-356b-431c-ae9d-19b74936de4a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ea62de3c-7572-4ed5-bf24-6cdb3967d3f0",
+          "frames": [
+            {
+              "id": "32e03f4c-8ba1-4efb-a5a7-de66e61cb301",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SHURIKEN.png",
+  "checksum": "27fd654a3208426f9b46340a2c64adb70ae4dfcd"
+}

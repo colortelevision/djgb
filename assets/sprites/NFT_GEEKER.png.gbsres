@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "df544153-5bf3-4dc0-bbd8-82d29b235f0c",
+  "name": "NFT_GEEKER",
+  "symbol": "sprite_nft_geeker",
+  "width": 171,
+  "height": 170,
+  "states": [
+    {
+      "id": "8b142f1c-a7c1-4388-b8f2-c0490f085437",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "860d44ea-c108-4b00-85ac-789edbb58c7b",
+          "frames": [
+            {
+              "id": "dadd2e28-2a43-4ecf-82db-039cee66d7c0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1352b904-4757-4d3f-9e80-687b46a95bed",
+          "frames": [
+            {
+              "id": "cbf41378-bbf4-4ea3-a7dd-09144c2d981f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7c5b1b23-d6a8-4f56-a4b4-1c81cb1f1dd5",
+          "frames": [
+            {
+              "id": "51acca28-cebf-403f-a184-bb21878a4e49",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d346e9cd-3f94-4b2b-8886-ce0ceba60e5f",
+          "frames": [
+            {
+              "id": "8dac0d58-bf1e-4e16-b795-e449219577a1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "766d0fa2-4d64-4f9a-aa0e-eea7ed0d7c2b",
+          "frames": [
+            {
+              "id": "2ea9c602-44f5-47a9-af48-5de83cd52169",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8d8a5e02-0672-44d6-877d-1bab9cb697aa",
+          "frames": [
+            {
+              "id": "4f422a38-bb91-4d7a-ba78-175e5012de9e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d3fe48e4-9010-4342-9490-a82f14db2c01",
+          "frames": [
+            {
+              "id": "164b716f-50c0-41c9-9923-c4162538c979",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9006320e-eff2-4876-996f-948c11ce0396",
+          "frames": [
+            {
+              "id": "a4f38fd4-2613-418a-babf-9a4cf75d737c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "NFT_GEEKER.png",
+  "checksum": "22fda987e66d4569467c371ee0d3f15b9ad6094f"
+}

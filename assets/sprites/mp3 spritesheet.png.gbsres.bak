@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "9dac8a72-3a45-47ee-93cb-a9e468b8707f",
+  "name": "mp3 spritesheet",
+  "symbol": "sprite_mp3_spritesheet",
+  "width": 16,
+  "height": 64,
+  "states": [
+    {
+      "id": "da8864ce-d9c1-4da5-a8ec-2b584b9c5220",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5c8c22ea-5be1-4a19-ba4e-4d0f4ef7ce76",
+          "frames": [
+            {
+              "id": "0de4ef7e-7aed-47a9-86d2-36abc16bdd33",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "16003372-4ef4-4108-9a37-b4c036f95be5",
+          "frames": [
+            {
+              "id": "9d9c539a-1e8f-42bf-b387-879a3d9e07fc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "228e1df2-d64b-48e9-95f4-02873920e0c0",
+          "frames": [
+            {
+              "id": "26a1b16a-6848-4ef7-8cb4-8459c8f2301c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "57cdfc1c-287a-4258-8979-9bb3e08cda7c",
+          "frames": [
+            {
+              "id": "9015f69b-9dc0-416f-a3c1-e84daee2c3ba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4bacdc38-13c8-4952-907b-8d83027b9d8c",
+          "frames": [
+            {
+              "id": "2b40b80e-08b8-48b0-9788-c015c407afd6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2b938a51-7d77-40b6-9c06-e42720a20e66",
+          "frames": [
+            {
+              "id": "e4c61bf5-33ab-4042-8b72-6d2c5b4823b0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "28b87b5d-37fc-4f37-8770-d09cd1502773",
+          "frames": [
+            {
+              "id": "40611d56-e28a-478f-a6a4-2b3672d00752",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7488dfc5-1f48-48e6-8643-7c0f8ca9af59",
+          "frames": [
+            {
+              "id": "f067a269-a4cc-4174-8adf-9a19fee379ad",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "mp3 spritesheet.png",
+  "checksum": "e7afbe0faa796ebd879ebf502f519073a2296723"
+}

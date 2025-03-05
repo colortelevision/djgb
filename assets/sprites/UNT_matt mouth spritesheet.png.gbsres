@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "29f83753-6e4f-436a-af89-a166f9061bdc",
+  "name": "UNT_matt mouth spritesheet",
+  "symbol": "sprite_unt_matt_mouth_sprit",
+  "width": 32,
+  "height": 32,
+  "states": [
+    {
+      "id": "083458d8-32dc-45ad-96d1-4ae45b94a047",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "6c15a340-752f-484e-ab84-04b9d5273c47",
+          "frames": [
+            {
+              "id": "231f2ec6-395a-4624-9c60-9115727da01e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6b7b7b7b-924c-4c0d-a804-f08934ca70e8",
+          "frames": [
+            {
+              "id": "f5b2af57-768c-41a0-a59a-e0f58d1904fc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "241eebc7-74b5-49af-b227-905b268feab6",
+          "frames": [
+            {
+              "id": "2f4ce572-1036-4b70-b5a1-6595efce1167",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3310c133-d91a-4f86-b849-1b78ad91f588",
+          "frames": [
+            {
+              "id": "69daaf50-e04c-4870-aaea-2c7b6de43ccc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a9ebccca-6bf9-4b05-a988-b834225b1404",
+          "frames": [
+            {
+              "id": "95cbbd54-82e9-494f-8cf7-f7b279687472",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "62e5b2ba-d3eb-4e49-b3cf-147d085fc209",
+          "frames": [
+            {
+              "id": "05c622ab-d4b3-4e44-8b58-a9422d8d6603",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e47aae62-6bda-4a3d-b5e3-261424712dd0",
+          "frames": [
+            {
+              "id": "d2d8aacc-eb14-4797-81ef-22976137d83c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f254f092-9682-4fde-b4f1-4906d722334b",
+          "frames": [
+            {
+              "id": "bc7663de-10de-4fdb-9a46-7fe88f9003b0",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_matt mouth spritesheet.png",
+  "checksum": "c3988bb9bfda1808f6bbbff98749ecd7b45c7d7c"
+}

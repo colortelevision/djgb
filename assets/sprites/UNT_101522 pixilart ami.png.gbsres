@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "cf8aaa34-9bc0-4655-9e58-669997428fbb",
+  "name": "UNT_101522 pixilart ami",
+  "symbol": "sprite_unt_101522_pixilart_",
+  "width": 640,
+  "height": 640,
+  "states": [
+    {
+      "id": "7ef89837-3947-4e4a-8bdc-30634bd7aeda",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "bea7d835-fe18-45af-8598-dd60f2989e1e",
+          "frames": [
+            {
+              "id": "f2b0394d-7d4a-4caf-952b-e3760bbe613c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d395bef5-7f19-45b2-be95-9ff00b02fe2e",
+          "frames": [
+            {
+              "id": "c6b99ced-c70a-4f2c-84d2-1b428d9707cb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "643d9f52-3cd6-49e8-904b-9ed6558318f8",
+          "frames": [
+            {
+              "id": "6126cf88-9ac2-43b3-b79c-aa4fadb89d4d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "871f89df-c269-40cf-a954-b49e0718ca6d",
+          "frames": [
+            {
+              "id": "5c44cac8-5df6-4eab-abcc-d0eca9b5da20",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "09a5b5cf-811c-444b-a2ba-56fce6c4e9ee",
+          "frames": [
+            {
+              "id": "ff364981-b837-4125-8b22-885fbfe17569",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f22ce66c-b67c-4e60-add5-7a1e10dde7b1",
+          "frames": [
+            {
+              "id": "cf95a761-d2c2-40ba-bf2e-60d138ca72c8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3986e6ec-f983-4a51-b2b6-99c6b7026449",
+          "frames": [
+            {
+              "id": "87f5602d-3449-43bc-9590-53ee1cc8fc32",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "85e6aac7-f574-49b1-b744-21bf45d313cc",
+          "frames": [
+            {
+              "id": "95976b98-e996-47fa-b232-9a59eca430d3",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_101522 pixilart ami.png",
+  "checksum": "c89b501d535fe60b4dcf307602ae840c9e5ca769"
+}

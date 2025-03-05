@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "e07eef76-56db-4703-80eb-0f5823b77d22",
+  "name": "mrfuji",
+  "symbol": "sprite_mrfuji",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "cbfb2db8-bcd2-43da-9d97-26d36c1f17a1",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "0c5e94ca-c130-49c6-a36a-480af87894a0",
+          "frames": [
+            {
+              "id": "20a19372-009e-4b93-baf7-f96d684fc8e8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4a15c937-7bc6-441b-979c-b8cd36100981",
+          "frames": [
+            {
+              "id": "134a70df-a78b-4733-9e81-80351457cb6a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "91e07609-f55b-4a39-9e5f-2228e0b8f5b5",
+          "frames": [
+            {
+              "id": "9e2b9541-5203-4e6a-bd41-170c025fbb38",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b6d92468-bf39-4e7f-bd5f-17d4c1cd4c68",
+          "frames": [
+            {
+              "id": "f1a6c05c-3b72-444f-b0d5-2f55d94fd25b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "55d88e8e-2c24-4917-8a75-e1872ad57469",
+          "frames": [
+            {
+              "id": "e155143f-6847-4561-98f2-b55ca37614b9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "11a222de-382d-4146-9740-aa2ac8985823",
+          "frames": [
+            {
+              "id": "f4fb422b-7299-49b2-be14-191b79914c32",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "472fcf47-b315-4834-820f-5aca1bae68fa",
+          "frames": [
+            {
+              "id": "0da4def3-d23b-457c-a170-647f72aa7f44",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "00cb1ba2-0ae8-4404-8e1d-6d71459fe71a",
+          "frames": [
+            {
+              "id": "d3d58a8a-f3f0-469c-a45d-9287ec4909f7",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "mrfuji.png",
+  "checksum": "4cc10827ed58e970fad77c81f24f9f254774f38c"
+}

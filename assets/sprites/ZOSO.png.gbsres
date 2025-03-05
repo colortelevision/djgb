@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "0b51db7e-e334-478c-8a94-a583308e2b6b",
+  "name": "ZOSO",
+  "symbol": "sprite_zoso",
+  "width": 58,
+  "height": 44,
+  "states": [
+    {
+      "id": "e6e307bb-8338-4ece-9f51-c945227ac42b",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "0d3d64a9-2f4f-4d71-b330-5d4bd2fad988",
+          "frames": [
+            {
+              "id": "72008b44-064a-4cb3-92af-39a79dbc71a1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2df342cd-752e-4889-b860-c0b818f7dd84",
+          "frames": [
+            {
+              "id": "d34cb851-e96f-4af1-913f-82ed0a2c41c6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c2b7f58c-b8c2-4de8-887b-7ca0281f4907",
+          "frames": [
+            {
+              "id": "758ef01b-663a-4eb0-b06c-7b7c5901d875",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3431fd88-ed9f-46e3-aad2-494f4a2abf66",
+          "frames": [
+            {
+              "id": "9416400c-228f-424a-ad1e-a56d26dff602",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "89b4404b-426b-4c20-8767-04fd9c9259b0",
+          "frames": [
+            {
+              "id": "e0b9b51b-1de8-451c-a563-d9a71e99f89f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef879c05-44e2-4fde-86ca-63b6bcd62c56",
+          "frames": [
+            {
+              "id": "c69ea1fe-ec1f-4c17-ac75-50eabd06f8d2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "afd04c15-6563-486f-8b60-9a49b49c6db9",
+          "frames": [
+            {
+              "id": "16de8cb0-fd55-45a7-ab1f-9204cc18326b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "da7fd314-54b7-4d3f-a0b5-d758dfc9f72a",
+          "frames": [
+            {
+              "id": "89772fd0-e9a5-4b60-8d61-374ea45e3557",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "ZOSO.png",
+  "checksum": "ba96a0bcbdc9a7824f4517f5159da2e8531145f6"
+}

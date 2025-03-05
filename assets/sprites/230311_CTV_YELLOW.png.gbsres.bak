@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c2088be1-e810-4b32-bd12-300332d3fc00",
+  "name": "230311_CTV_YELLOW",
+  "symbol": "sprite_230311_ctv_yellow",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "2a0055ab-ec65-4d49-b995-2e44ab5df0a5",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "03d40d57-349d-4ed7-b259-cc686cef5d0a",
+          "frames": [
+            {
+              "id": "1fa0f725-5e3c-4288-a336-2fe3d808eb3a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0eef0571-d4d8-47dc-a014-7390619a91d4",
+          "frames": [
+            {
+              "id": "2003791d-e37b-4c50-9cfb-a523b3c46d50",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1b9889cb-200a-4e0f-9207-44b0e5388c30",
+          "frames": [
+            {
+              "id": "6d68cc4b-f7b9-4937-b285-cc1313477ebe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "11a5486f-3a91-4705-8038-2b9d4b4f680e",
+          "frames": [
+            {
+              "id": "2799cad6-f912-4e29-b99b-0278921db734",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7e858b07-b617-460a-95cd-08ffaee4d146",
+          "frames": [
+            {
+              "id": "73fe6207-b0f8-4b2b-a906-6bba224b8c82",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d476d11b-04c6-4ea7-94db-f9812c64aece",
+          "frames": [
+            {
+              "id": "7cb7746a-0e09-4036-86ea-d268a227ba4d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "94f88d85-0eaa-4c89-af3c-a990051c0ecd",
+          "frames": [
+            {
+              "id": "302f56db-4b52-4a85-af9d-63482f80f6ef",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "079d45ae-e25b-4656-a9e4-81de17d5a8d1",
+          "frames": [
+            {
+              "id": "d67e519c-59be-46c3-a529-16c2f5a40fb6",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "230311_CTV_YELLOW.png",
+  "checksum": "8671c02a7b82c51d2857ec4b73cf82abcf8fee6b"
+}

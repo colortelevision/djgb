@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "08911614-21d3-45d9-bdef-03243832d4a9",
+  "name": "250214-HB-ROBOT",
+  "symbol": "sprite_250214_hb_robot",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "a64ab722-9a01-4e96-9072-3f60f9708cbe",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "f5576819-cdd4-4160-a2ad-08bb6a4db30e",
+          "frames": [
+            {
+              "id": "c542d514-4c3b-4501-bc40-cb4980f54845",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "529c4eb8-4aa4-46a2-b600-4a47c08a290d",
+          "frames": [
+            {
+              "id": "e95fe53f-d782-4f61-b6bb-bd23f4bff4a3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ff25b34e-30a6-4897-988c-1863c78d10d6",
+          "frames": [
+            {
+              "id": "a9ba695b-33ad-42fb-8ad5-85c30b28362b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1667e762-3e79-4f2a-92fc-88203c08923a",
+          "frames": [
+            {
+              "id": "83fc867c-e02e-4a0e-85e9-652a9e582dff",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c91668e9-751e-4291-8972-64f21cfc2b0e",
+          "frames": [
+            {
+              "id": "3d3ac0a8-ee6c-433f-8209-567db607d224",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ba75dc7-17e4-4506-aca5-d6d780d159f1",
+          "frames": [
+            {
+              "id": "769f9c9f-0908-47ce-b166-a7b3f2aba560",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a7e5e516-a84e-4d0d-b7f0-eb406f2fb158",
+          "frames": [
+            {
+              "id": "bf341b48-15af-4e0f-aa33-fcaa918eb9b9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f39f6bfc-646c-4f21-9992-5332a46f0f88",
+          "frames": [
+            {
+              "id": "b4dd6ae4-d2e5-4506-b6c7-1283f8f20eb9",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "250214-HB-ROBOT.png",
+  "checksum": "d8753a66d937d471affaf95efc8933d98376413a"
+}

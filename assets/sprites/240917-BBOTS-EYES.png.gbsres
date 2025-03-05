@@ -1,0 +1,220 @@
+{
+  "_resourceType": "sprite",
+  "id": "465eed5c-e923-43aa-a8c7-7fd7f582ed76",
+  "name": "240917-BBOTS-EYES",
+  "symbol": "sprite_240917_bbots_eyes",
+  "width": 64,
+  "height": 16,
+  "states": [
+    {
+      "id": "efd742f7-48e9-4769-a41e-64635b2d5205",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "ef58e0b9-3679-4759-a5a3-84f0b60b67cd",
+          "frames": [
+            {
+              "id": "478f3e40-e286-41e9-b690-acdac7603b2f",
+              "tiles": [
+                {
+                  "id": "81321dc6-392c-4475-9a49-95ae53677a26",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "b0e280b8-9710-4ba6-a692-11c57d0efcfb",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "3c8c367d-607f-42fb-9931-e8c2fafd2043",
+              "tiles": [
+                {
+                  "id": "a09cdd48-5584-45f2-b4f3-3afd0e7063de",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "54296908-d787-4571-b441-5ff36e61fba9",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "7a5fef00-c1bd-4330-899e-288aceafb893",
+              "tiles": [
+                {
+                  "id": "0af81588-c644-4493-ad52-5cb8f2e39f04",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "fe06c183-1826-4ae0-a98d-4f9fe8d0b720",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "1c28c8d5-b863-4a7c-ae37-8525a85f106e",
+              "tiles": [
+                {
+                  "id": "3cb1854d-162d-4dcb-8f4c-9252aa1adb7e",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 48,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "690e2b9b-eb6a-4581-b609-d08bb34c0177",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 56,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "83e002af-2ecb-444b-968d-5dc925b734b0",
+          "frames": [
+            {
+              "id": "ebeaad99-d852-4b84-a318-a4a9327ef491",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cf257bed-8dc6-42b4-b8c9-40f9055d1cc7",
+          "frames": [
+            {
+              "id": "b7f025e0-da39-430a-96c5-64c9d659f92a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2dc8eba8-4d0c-4d67-8294-616cc44016e9",
+          "frames": [
+            {
+              "id": "80711422-3757-4ad0-8d2d-3b13542d5fda",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8e170bbd-9e0d-416b-ac5f-5f6e9bc79f94",
+          "frames": [
+            {
+              "id": "fc550401-29c1-4e86-945e-bb53254a942b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "020dd20b-f755-4b34-8ff5-2c64cdca8206",
+          "frames": [
+            {
+              "id": "294fde86-3f99-4f46-a042-2cc644ff654d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b15764e-098a-424b-99b4-458d3b8e7f94",
+          "frames": [
+            {
+              "id": "5dc556b8-8210-4e13-bc80-646c560c675a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3e889db1-5c77-4b59-a526-0d3a5510002f",
+          "frames": [
+            {
+              "id": "f2e2ff4b-941d-4598-bc08-40642f098fa1",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 8,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "240917-BBOTS-EYES.png",
+  "checksum": "892262875308eb060dd4ab891d205daefb224716"
+}

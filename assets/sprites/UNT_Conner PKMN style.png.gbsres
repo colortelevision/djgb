@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "69e2255d-5b87-480f-823d-d9a15f688e18",
+  "name": "UNT_Conner PKMN style",
+  "symbol": "sprite_unt_conner_pkmn_styl",
+  "width": 32,
+  "height": 58,
+  "states": [
+    {
+      "id": "6ff4746b-440d-4dac-915e-75cf20d617ac",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "c1a7226c-4d59-4fba-9eee-802e2647048a",
+          "frames": [
+            {
+              "id": "3b5d29ea-a9f2-442a-8e2a-4270aad78fbd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "65cc8eed-a45f-4a51-87d4-e48f794cb742",
+          "frames": [
+            {
+              "id": "53618c20-ba34-4c72-af4d-102b8ed1a282",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dfc195d8-0bb2-4237-914d-73d7fd47b812",
+          "frames": [
+            {
+              "id": "3edb1009-dd4d-455c-8d5a-78f0568f1c15",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4cb5460b-fe8f-4022-8e1f-0c01510ff9ff",
+          "frames": [
+            {
+              "id": "42f013ef-abdb-4e84-b645-b7af6432ae9f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8b27a41e-f8b7-4d91-bbc9-fc6c85f2d57f",
+          "frames": [
+            {
+              "id": "4f3d2938-3d72-4fc6-b380-058e67258aaa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "51e187df-1d99-4242-ad72-1655f6032163",
+          "frames": [
+            {
+              "id": "6a04c74b-9052-4d03-bb8e-4420e6aa2f44",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9ecf91ab-bee4-4025-972c-8498dbd7b927",
+          "frames": [
+            {
+              "id": "de8c7228-ced0-4f3a-9ac8-ec5ccb949ffe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ea4ba430-9e30-433b-8bb2-34dbc9c482c0",
+          "frames": [
+            {
+              "id": "5bcc41f1-a35e-4064-b7a6-c4ee42a0df2d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_Conner PKMN style.png",
+  "checksum": "7a4bd258ea82aad53660015517523e7af0b2b6df"
+}

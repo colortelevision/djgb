@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "8c6b9474-8632-4605-8f0a-5e0f5a95407d",
+  "name": "UNT_110122 untitled portraits gameboy 4x with doodies parker fixed",
+  "symbol": "sprite_unt_110122_untitled_",
+  "width": 160,
+  "height": 144,
+  "states": [
+    {
+      "id": "3d002b46-515f-4f00-a816-906ab01cbd55",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b6af69e5-adea-4cb4-b98f-cae8a7492d3d",
+          "frames": [
+            {
+              "id": "6bd74470-8ad1-46e5-b95e-06f375261022",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8148b48a-d75c-433d-a13f-aa3b900a1959",
+          "frames": [
+            {
+              "id": "8f14cabf-597a-440b-9639-f488f5e92fcb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "579ab019-fedb-466e-a5d0-a7cf47e04633",
+          "frames": [
+            {
+              "id": "7ddcc624-7758-4751-8c32-d079604e57f4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5b276238-1d5b-4b6b-b616-1f7a1f9613ef",
+          "frames": [
+            {
+              "id": "7e168028-4e34-4241-a06e-d165c6816e5d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0db4eba2-70f4-4c9a-8a82-b77560ea5d75",
+          "frames": [
+            {
+              "id": "c9ec6938-7257-47ba-97dd-207de489b7e7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e49197b9-0d61-4336-a778-9d36397b1f61",
+          "frames": [
+            {
+              "id": "90b75591-454a-477c-81d7-47a0683b0005",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "babddea8-0411-4453-b795-e060b41a3702",
+          "frames": [
+            {
+              "id": "875f1032-29c8-4108-9624-138e29a460ed",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "479bf042-e420-4b11-b4b8-b29a6c5f06cf",
+          "frames": [
+            {
+              "id": "99389add-c949-4f4e-b097-64d5ac4b52d9",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_110122 untitled portraits gameboy 4x with doodies parker fixed.png",
+  "checksum": "9f5263e3217baa9deb21febde52de04b12b44528"
+}

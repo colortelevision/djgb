@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "ac1e9255-c4da-4b44-a50b-249c0fd9917a",
+  "name": "untitledplats",
+  "symbol": "sprite_untitledplats",
+  "width": 88,
+  "height": 160,
+  "states": [
+    {
+      "id": "f76e85b3-ed16-4253-917f-b0a3b24bf024",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5c3ade51-70ed-4294-b9f3-5b3932e55a77",
+          "frames": [
+            {
+              "id": "4213c42d-afad-491b-a6db-71f486de3644",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0cb374fb-212d-41a1-bb97-218d22d97d40",
+          "frames": [
+            {
+              "id": "8aa0f524-cd70-4666-a62c-b452521b516a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "76ed34d9-a53b-4412-b7da-643898c884bb",
+          "frames": [
+            {
+              "id": "ecb65fab-924c-4231-b81f-6a592671d1a5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0331a9be-b287-41ca-a359-8273c0062519",
+          "frames": [
+            {
+              "id": "53ec3a0e-49d3-40d0-bc21-c2855017fce1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "182b15d4-ce3c-4e90-b90f-a417eac5b8c9",
+          "frames": [
+            {
+              "id": "14712851-1749-4775-aeea-c9ed0ced4d27",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "14ff89f0-b0c5-41a3-9c09-e7a55d1eb774",
+          "frames": [
+            {
+              "id": "39fcff63-95d1-4b9d-a014-d2f53b6f7151",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4959cba3-3522-4635-8ff2-4c76e2486283",
+          "frames": [
+            {
+              "id": "839b6a92-e7d9-458a-be0b-71e0b8c2901e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d4bdac38-6e40-42b8-a583-20f271507383",
+          "frames": [
+            {
+              "id": "41b80d2f-c611-4ff8-bd3f-5cff91f2559d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "untitledplats.png",
+  "checksum": "6c866e97a5393e92a573953ce1aba1c44da4169a"
+}

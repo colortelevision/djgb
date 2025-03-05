@@ -1,0 +1,69 @@
+{
+  "_resourceType": "script",
+  "id": "c7973672-b5f1-43e0-bd9e-2f8d99f689bf",
+  "name": "Script 14",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_14",
+  "script": [
+    {
+      "id": "e24021a2-bc2d-4ae0-8c33-0040ad804fd0",
+      "command": "EVENT_GROUP",
+      "args": {
+        "__collapse": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_ACTOR_SET_STATE",
+            "args": {
+              "actorId": "$self$",
+              "spriteStateId": "shooting",
+              "loopAnim": false
+            },
+            "id": "e2f5b9e8-5830-47c3-9fbf-df4c373e9de9"
+          },
+          {
+            "command": "EVENT_SOUND_PLAY_EFFECT",
+            "args": {
+              "type": "crash",
+              "priority": "medium",
+              "pitch": 4,
+              "frequency": 200,
+              "duration": 0.6,
+              "wait": true,
+              "effect": 0
+            },
+            "id": "29be04df-7715-497a-af80-67f1427c1d47"
+          },
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": [
+                "oh my bad...\nsnuck up on me there"
+              ],
+              "__section": "text",
+              "avatarId": "",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": -1,
+              "speedOut": -1,
+              "closeWhen": "key",
+              "closeButton": "a",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30
+            },
+            "id": "50c79d8b-c774-4e17-a26b-7c54868e663a"
+          }
+        ]
+      }
+    }
+  ]
+}

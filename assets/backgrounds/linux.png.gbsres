@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "8ec65ea0-a846-4761-95e0-dbe4ebf59d99",
+  "name": "linux",
+  "symbol": "bg_linux",
+  "width": 6,
+  "height": 8,
+  "imageWidth": 48,
+  "imageHeight": 64,
+  "tileColors": "",
+  "filename": "linux.png"
+}

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "85de5e79-59f3-415b-abb2-1b6273b6c43c",
+  "name": "CTV_230101_chibitv_Spritesheet_GB",
+  "symbol": "sprite_ctv_chibitv_s_0",
+  "width": 64,
+  "height": 80,
+  "states": [
+    {
+      "id": "face11e0-be6e-497d-a315-0477e8c2ad7b",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "ae55ee03-0b62-4b14-bb1c-59b4ca5775a4",
+          "frames": [
+            {
+              "id": "ec7cf452-ecf9-41a2-8faf-99283e431091",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "177768e0-f70d-431a-aaf7-f4034423587b",
+          "frames": [
+            {
+              "id": "a3960658-7c07-4467-9cba-3581b4791306",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5f2efcbe-c448-4d5d-b697-104aa3183999",
+          "frames": [
+            {
+              "id": "1c1e6b86-928e-4956-a332-e75f8cfbe0f9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a9059683-eb02-4b6b-9986-52df4be30225",
+          "frames": [
+            {
+              "id": "c063a3bc-a58b-460d-b762-95e8005f97ce",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f87d0f74-02c9-497e-99f7-b813fe264299",
+          "frames": [
+            {
+              "id": "d57075c3-d02c-4b30-af4a-3a9d536a8858",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "443c69e2-1ee2-452f-9671-8eaf18f657ea",
+          "frames": [
+            {
+              "id": "b6445b8f-0d2e-489e-a18b-64fd59e3c117",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "503b5079-e2ab-4d19-9270-128adca63d61",
+          "frames": [
+            {
+              "id": "b630fefa-54c5-471e-b175-b36f975bb4ba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "16b5dfc4-f1c6-4b53-a189-4d80808997dd",
+          "frames": [
+            {
+              "id": "784b2e49-3fac-4c4c-9202-4642abb1d202",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "CTV_230101_chibitv_Spritesheet_GB.png",
+  "checksum": "e551d1dffadd3b4771127291280adb1c01f2d59c"
+}

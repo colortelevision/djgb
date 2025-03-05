@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "1b30795b-2ccc-43a4-be23-d721401fb92c",
+  "name": "skytemple",
+  "symbol": "bg_skytemple",
+  "width": 60,
+  "height": 24,
+  "imageWidth": 480,
+  "imageHeight": 192,
+  "tileColors": "015a0+",
+  "filename": "skytemple.png"
+}

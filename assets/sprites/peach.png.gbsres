@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "9afc663d-36d9-4363-9c18-6fe2afac5a81",
+  "name": "peach",
+  "symbol": "sprite_peach",
+  "width": 48,
+  "height": 32,
+  "states": [
+    {
+      "id": "a177425f-2b37-4108-9b7a-be36bce00080",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "4866e0d1-0095-4936-b368-317a9e87c2bc",
+          "frames": [
+            {
+              "id": "4d0d5d7a-5c6d-4448-a926-bf98fe7550bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "45321372-fdce-46ed-bcce-1718b7d81849",
+          "frames": [
+            {
+              "id": "dffb4652-e74c-4ddb-9c8d-8ec5cc18e489",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a246a20-21f2-44f9-a8b7-7de1c4a04788",
+          "frames": [
+            {
+              "id": "a3339e9f-6d92-4a29-b75a-ea9a00d98b05",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "70816df9-42b3-4435-a776-f7e29902071f",
+          "frames": [
+            {
+              "id": "f0fca95a-f5b7-40ad-ad84-2696fb37ba1a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c18f6f17-46b0-40c1-b6c5-42fac98eebdf",
+          "frames": [
+            {
+              "id": "d569782c-5e48-4a7e-8628-f48c87acccb5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "23362a4d-8466-4454-9e26-60eec0a02ea6",
+          "frames": [
+            {
+              "id": "45002378-27ad-4a7f-958e-6f28e59a3044",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "33f6f272-42c1-46e8-a7e8-d1b9ec7e7d03",
+          "frames": [
+            {
+              "id": "e83b1c5e-e00f-4304-a2eb-1d0650181852",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9d5d0346-aa1d-4937-9cdd-b844d5343a40",
+          "frames": [
+            {
+              "id": "11f7c42b-dea9-486a-bb7e-8c0c4ca22920",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "peach.png",
+  "checksum": "8a7e944bf48acd06b1143bc2018f0ae23f3ca542"
+}

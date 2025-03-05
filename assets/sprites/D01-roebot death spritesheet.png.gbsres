@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "f13c8635-253e-4eae-a340-22b4fe2d185b",
+  "name": "D01-roebot death spritesheet",
+  "symbol": "sprite_d01_roebot_death_spr",
+  "width": 112,
+  "height": 24,
+  "states": [
+    {
+      "id": "631cee4f-4aed-403e-b430-6df398fdd556",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "79ad0cb3-2906-483c-9566-92bb6b8ad74a",
+          "frames": [
+            {
+              "id": "0656766b-ff65-4dc7-ad01-e59eb4e53e00",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5443eb3a-34fd-45f2-ace8-45ff67998e6b",
+          "frames": [
+            {
+              "id": "5f537d88-991e-468a-9c1e-07146b63b7d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ca26ee6b-36c7-4eaf-9a16-7caecf6ca01c",
+          "frames": [
+            {
+              "id": "63072261-e396-4627-b02b-f005b28860c8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7c1dd290-10f5-4afe-827b-18a17ae17f62",
+          "frames": [
+            {
+              "id": "68927604-deec-4bab-a735-2d8c7fc4df9b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "80abc405-87e5-4aa2-bec4-a15feaea09a1",
+          "frames": [
+            {
+              "id": "7d3168c1-d952-4b19-9ceb-6591822403bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "88574604-6aca-425a-955c-abd142e3d8be",
+          "frames": [
+            {
+              "id": "acadb20c-5025-4021-b738-78f6ec88a85f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "19b62c5f-e163-4f69-91be-aae87d225f00",
+          "frames": [
+            {
+              "id": "cfcffc30-ad1f-4c36-89cc-7e66d039def0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bd578e40-3f7c-4f4c-a1ed-14ea01e9b4e0",
+          "frames": [
+            {
+              "id": "c9fb2a9d-5cf7-45be-bc34-4da23b443e2a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "D01-roebot death spritesheet.png",
+  "checksum": "ee9ee439ac5d26c33b44a4bb179f2a6f0fbec04d"
+}

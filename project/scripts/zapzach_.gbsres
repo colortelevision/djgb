@@ -1,0 +1,28 @@
+{
+  "_resourceType": "script",
+  "id": "2dd0d035-22d3-4896-9657-5ec18044bf06",
+  "name": "zapZach  ",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_17",
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "93c3418f-8dec-469b-b3e5-5b4301394ca2",
+        "x": {
+          "type": "number",
+          "value": 51
+        },
+        "y": {
+          "type": "number",
+          "value": 15
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "89838227-7a69-436f-979a-8d6192ec78a0"
+    }
+  ]
+}

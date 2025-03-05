@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "692320a5-0c14-4392-a1c4-c1a0036ed5b6",
+  "name": "D01-player_platform 2",
+  "symbol": "sprite_d01_player_platform_",
+  "width": 88,
+  "height": 160,
+  "states": [
+    {
+      "id": "974ef1d7-6fef-43dd-b244-d11dbb805b4f",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "333b559d-4fff-4019-8c92-85974045dade",
+          "frames": [
+            {
+              "id": "39a4180b-eddb-4cb3-b099-f2d8bc6d8854",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f9465581-329a-491a-9b50-9ca95033c283",
+          "frames": [
+            {
+              "id": "3713fdd5-3c41-434d-a6af-6e206ca3334c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d5d6842e-e856-402d-995c-112ba6aad3e0",
+          "frames": [
+            {
+              "id": "11d35e7d-b447-4986-b819-8dcdd49666a3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9adb3d90-2dd3-4be1-afd7-f10db79e8753",
+          "frames": [
+            {
+              "id": "2a521224-e187-48f1-954c-a1f63964879b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0e01e1ad-027f-4de8-a2ce-38dca4834e9a",
+          "frames": [
+            {
+              "id": "f04b94e0-481f-4d2a-bbf8-c1152fb5d2e2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7844103e-2a5a-4c1a-9084-ea5323e1c278",
+          "frames": [
+            {
+              "id": "097bfd39-11d9-4b2e-a11c-23c3d5299b8a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b4c6f08e-3a6f-4060-aea0-a4f34b58d947",
+          "frames": [
+            {
+              "id": "74ed9e71-a21c-4338-ad0b-e7282f213a2b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c9e5795f-3eba-4560-a5fb-d4a2173cacbe",
+          "frames": [
+            {
+              "id": "5431a216-6956-4deb-b5ab-e0942a62ec9c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "D01-player_platform 2.png",
+  "checksum": "a95ad3f7a2f25a4969888df3cd5484063a800b36"
+}

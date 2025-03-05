@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "fc775be7-8777-4506-958c-7064ddd4d1d1",
+  "name": "MM_AUTOTUNE",
+  "symbol": "song_mm_autotune",
+  "settings": {},
+  "filename": "MM_AUTOTUNE.uge",
+  "type": "uge"
+}

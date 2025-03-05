@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "976f46a4-0b1e-4b18-83ef-17a3255692f5",
+  "name": "robotsandsheetmusic",
+  "symbol": "sprite_robotsandsheetmusic",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "cf412acd-c61a-41fe-bc42-2ec492f453c1",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "83a120ac-2ced-4888-aad5-d48fe0d5957f",
+          "frames": [
+            {
+              "id": "5a50df05-3f16-4fcd-a52f-85208de73ed5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "128914e6-6050-41e7-9953-5a1dbde16bc5",
+          "frames": [
+            {
+              "id": "71bbc048-acad-40e7-81f4-b88034970a8b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "91961147-3f75-433e-98a9-e566b1021f55",
+          "frames": [
+            {
+              "id": "eaa180fa-04ad-4f28-883d-78c341873686",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2b1f4323-f99b-4e6f-97bf-5f9a01fb230e",
+          "frames": [
+            {
+              "id": "161d9683-3f40-4483-9295-7cb17e4bfd66",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "27b26b20-2109-49d7-8a8f-3e9b136640cc",
+          "frames": [
+            {
+              "id": "179fb4b8-0afe-4a06-9307-a941372ba30b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b853afaf-7218-48d1-a52e-e232b389f1cf",
+          "frames": [
+            {
+              "id": "f509172e-830d-4d73-ab35-a48f478fe4c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0190d268-f68c-41a0-b7f2-d54821ac6094",
+          "frames": [
+            {
+              "id": "0841f7bf-2584-4d30-804f-96cf2216ac58",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "76d5c185-31f2-4aac-9320-183c4fb0e858",
+          "frames": [
+            {
+              "id": "70f16e7e-980f-4382-9497-32fcb6249f14",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "robotsandsheetmusic.png",
+  "checksum": "5761ac6090dce45eab10fb1b03bdebf48d2bda14"
+}

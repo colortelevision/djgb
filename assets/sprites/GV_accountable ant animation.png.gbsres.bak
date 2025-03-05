@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "a2b3fbae-e0ba-47c6-b957-1b93761f6a56",
+  "name": "GV_accountable ant animation",
+  "symbol": "sprite_gv_accountable_ant_a",
+  "width": 96,
+  "height": 64,
+  "states": [
+    {
+      "id": "16a0f855-322e-499b-b352-3e0ff176c8d2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "8596e70e-fdfe-4b3f-be1f-f6cd0da0339a",
+          "frames": [
+            {
+              "id": "244ba345-4b3d-4301-9d26-97fc6c0a4577",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8da468c5-a358-46bd-822c-e82aa495c13f",
+          "frames": [
+            {
+              "id": "75d7adc0-2441-4f98-b8c8-01bb75751c9b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31ebc285-99e4-4812-ae64-5d220726e688",
+          "frames": [
+            {
+              "id": "764c6b01-ef73-48db-9c53-aa6a00ed810d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "12e55ceb-fbe1-4de5-9681-7bc2ea17bb52",
+          "frames": [
+            {
+              "id": "e9a7c339-4354-4dac-9fcb-9f146bbc6a95",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "48e69646-71b3-4610-bad5-884dd38f5927",
+          "frames": [
+            {
+              "id": "7d81ffbf-049d-47fb-8337-8d411a152f72",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7e7a687-7a06-4fd0-bba9-aac6f8a04311",
+          "frames": [
+            {
+              "id": "d913a5f3-237d-4fc4-b219-a3d231753e71",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "13f3cd97-b3ab-4e40-b255-c7d81401e094",
+          "frames": [
+            {
+              "id": "dbae1e92-7695-4ff3-9138-05ff6144b340",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bfe86856-2f88-4720-8951-4a09102aec9a",
+          "frames": [
+            {
+              "id": "4961013f-33e0-4dec-9c01-1662bf37a2f8",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "GV_accountable ant animation.png",
+  "checksum": "23e5b99649b747090d4b29630a71cd5088029c70"
+}

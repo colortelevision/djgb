@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "09994135-4baa-46af-9b19-038a68c4f355",
+  "name": "240917-BOTS-HANDS3",
+  "symbol": "sprite_240917_bots_hands3",
+  "width": 64,
+  "height": 8,
+  "states": [
+    {
+      "id": "a52babcc-2d84-4b84-aafd-a687883ce2ab",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "bc9ed713-f514-4021-b03d-4bb9efb34f55",
+          "frames": [
+            {
+              "id": "9c4a79f2-766a-4c97-a9e2-d226c051903b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0010f800-92ea-4be2-9f64-353e87c86418",
+          "frames": [
+            {
+              "id": "f4774bac-c823-4a26-9aa7-11d61814c5b0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "438a9033-1432-40fe-8ff0-7fd06f01ce6c",
+          "frames": [
+            {
+              "id": "a085c8cf-8502-45c3-89f0-f7a261c5cdb8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "494db947-7733-42bf-a3f2-340caddb961e",
+          "frames": [
+            {
+              "id": "ee194ebd-d904-4b95-88e0-0bd54cf5e814",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e839acef-f252-4ae1-8736-fc47a9805f72",
+          "frames": [
+            {
+              "id": "56985ee4-b53f-4a44-9961-be37f03c121b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "348b4a36-f2d3-416c-a47f-c68f1c8fe9fe",
+          "frames": [
+            {
+              "id": "70c80513-f166-48b4-b4ca-122c96f9c446",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "53d0aa11-8974-4757-a153-b0179cd5d894",
+          "frames": [
+            {
+              "id": "2c9ca922-efec-42a4-8f33-16d1043495f5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ebd56438-26d8-41ea-ae9d-0b1d1897b723",
+          "frames": [
+            {
+              "id": "c6b8dad7-3487-485b-9f97-113fed255706",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "240917-BOTS-HANDS3.png",
+  "checksum": "649e00b1c9a9b4f3c39962010e47afdc0d5d9165"
+}

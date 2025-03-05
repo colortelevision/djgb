@@ -1,0 +1,91 @@
+{
+  "_resourceType": "settings",
+  "startSceneId": "afbca12f-bb04-41f2-bfaf-b627a9b874ce",
+  "startX": 2,
+  "startY": 14,
+  "startMoveSpeed": 1,
+  "startAnimSpeed": 15,
+  "startDirection": "right",
+  "showCollisionExtraTiles": false,
+  "collisionLayerOpacity": 50,
+  "sgbEnabled": false,
+  "customHead": "",
+  "defaultBackgroundPaletteIds": [
+    "71df34a8-cef4-4807-95d8-5b7d6bf7bd53",
+    "default-bg-2",
+    "default-bg-3",
+    "default-bg-4",
+    "default-bg-5",
+    "default-bg-6",
+    "dmg",
+    "20ade3d2-1055-4d5c-9623-846acfb0f491"
+  ],
+  "defaultSpritePaletteIds": [
+    "4ce823d4-1fbc-4be5-b471-cc6192d8c50e",
+    "71df34a8-cef4-4807-95d8-5b7d6bf7bd53",
+    "5aa84324-9f37-47d1-9121-a3710a3c4fd3",
+    "93bc2d47-a54a-4755-8ea2-87d530ccecc6",
+    "ea0973c9-a6c6-473e-80b7-6d656be6ad98",
+    "bac43bf2-2578-44ee-998c-7cb11cb63086",
+    "17d779d0-f0d5-4b13-aaed-4b71a812b525",
+    "20ade3d2-1055-4d5c-9623-846acfb0f491"
+  ],
+  "defaultSpritePaletteId": "default-sprite",
+  "defaultUIPaletteId": "default-ui",
+  "playerPaletteId": "",
+  "defaultFontId": "948c169c-8e4b-491c-a5f0-66898bbf45d9",
+  "defaultCharacterEncoding": "",
+  "defaultPlayerSprites": {
+    "TOPDOWN": "2ea6144e-df05-4fb0-b52e-d14b5078ad67",
+    "PLATFORM": "f3db3c72-cb86-4d4e-94d4-aff78a7298f6",
+    "ADVENTURE": "2ea6144e-df05-4fb0-b52e-d14b5078ad67",
+    "SHMUP": "2f2d492c-dba2-434c-93c9-d1301e88d5e9",
+    "POINTNCLICK": "0c4bd46f-69da-4d4f-b562-350ed5e6e156",
+    "LOGO": "c2088be1-e810-4b32-bd12-300332d3fc00"
+  },
+  "musicDriver": "huge",
+  "cartType": "mbc5",
+  "batterylessEnabled": false,
+  "customColorsWhite": "E8F8E0",
+  "customColorsLight": "B0F088",
+  "customColorsDark": "509878",
+  "customColorsBlack": "202850",
+  "customControlsUp": [
+    "ArrowUp",
+    "w"
+  ],
+  "customControlsDown": [
+    "ArrowDown",
+    "s"
+  ],
+  "customControlsLeft": [
+    "ArrowLeft",
+    "a"
+  ],
+  "customControlsRight": [
+    "ArrowRight",
+    "d"
+  ],
+  "customControlsA": [
+    "Alt",
+    "z",
+    "j"
+  ],
+  "customControlsB": [
+    "Control",
+    "k",
+    "x"
+  ],
+  "customControlsStart": [
+    "Enter"
+  ],
+  "customControlsSelect": [
+    "Shift"
+  ],
+  "colorMode": "color",
+  "generateDebugFilesEnabled": false,
+  "compilerPreset": 3000,
+  "scriptEventPresets": {},
+  "scriptEventDefaultPresets": {},
+  "runSceneSelectionOnly": false
+}

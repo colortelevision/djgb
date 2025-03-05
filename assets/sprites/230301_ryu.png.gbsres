@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "4a1d3989-1f0e-4b52-9093-97d7585e7c53",
+  "name": "230301_ryu",
+  "symbol": "sprite_230301_ryu",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "83b6bd6d-6111-4a57-adf2-d5fcb36ee096",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "07d28d70-a972-4905-bf82-ffd85f2dbae1",
+          "frames": [
+            {
+              "id": "288d66f5-7730-4a5c-bde3-014f2def00d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "192916c0-b845-4bc4-b267-59cdc20f3c26",
+          "frames": [
+            {
+              "id": "81bfb2c9-508d-43b2-ab28-22f5e5ea9dea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "811c1a81-6439-47dd-8271-ceb52d075e30",
+          "frames": [
+            {
+              "id": "d2c411a6-adb0-4f50-a2e6-180f63e660c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f13910a4-6e33-4142-a362-392a44dadb69",
+          "frames": [
+            {
+              "id": "9198d492-eb08-49b1-b6e6-a75828d3f486",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "77e24bed-df05-4719-bf63-09969ac5bbc8",
+          "frames": [
+            {
+              "id": "9c9a1c76-837a-4796-a2aa-bba5b14b20c8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eab47f16-9212-4939-ae22-ad213b1828f1",
+          "frames": [
+            {
+              "id": "a92e7e58-136f-41d9-aa98-d678423c26db",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "377b1ad5-a5c4-4a35-b024-18099825740d",
+          "frames": [
+            {
+              "id": "e686c9ac-b53c-4ca3-bc7e-7f1b074401cd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fcabe14d-d233-42c3-b94a-d1928eb442c8",
+          "frames": [
+            {
+              "id": "e47e6b38-c7df-4256-9687-3f73ba1d7127",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "230301_ryu.png",
+  "checksum": "83756f9f743ab8daaa1025bbde4a05b2a8b55f1c"
+}

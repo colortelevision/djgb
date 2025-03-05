@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c6abf60c-137b-40a6-9b4e-8731f25ced93",
+  "name": "SD_112222 stick dueling RPG GB Sprite sheet 16px - Copy",
+  "symbol": "sprite_sd_stick_duel_1",
+  "width": 96,
+  "height": 32,
+  "states": [
+    {
+      "id": "e3749c5b-44e2-48e6-b80c-c883826412e2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "585bcb0a-b248-4ebb-867e-27e41090fa44",
+          "frames": [
+            {
+              "id": "339ce399-0f3d-4e96-9507-30d7161400f8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d99ad662-cf6d-4ddb-9306-43ab1653643a",
+          "frames": [
+            {
+              "id": "accbfa9c-ec4e-46ab-b689-a235e2a09254",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f0892683-7e83-4c33-aee4-63451faaa9b9",
+          "frames": [
+            {
+              "id": "18ad9b60-05d1-4dc3-9fff-4bd0cc9d46cf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "82f0dbab-b38b-45e9-a100-8fd8fb37b848",
+          "frames": [
+            {
+              "id": "ef0ac7c9-cff8-4c40-a306-bda780c2a942",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "df695661-e8f7-4440-9a5f-44a6af147ecb",
+          "frames": [
+            {
+              "id": "c65f7df7-3d75-4a50-8f6e-50a034365ad5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e8e86978-1e54-4795-a9bd-6617d45e5900",
+          "frames": [
+            {
+              "id": "00f905a8-a60e-4209-933c-870f62ac143e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "78adced9-0a31-40d2-95e8-343bb50a1034",
+          "frames": [
+            {
+              "id": "3ac789de-7b87-498b-a60a-1cb587d2b115",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5a6752ca-7513-43b2-8ce8-2bcdb6890544",
+          "frames": [
+            {
+              "id": "1feb90a9-bf77-44da-b3e3-0c01b9b8a086",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_112222 stick dueling RPG GB Sprite sheet 16px - Copy.png",
+  "checksum": "b97189fae0fc876046cb5da8bf768b233672a11e"
+}

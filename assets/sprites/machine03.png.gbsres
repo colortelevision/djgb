@@ -1,0 +1,153 @@
+{
+  "_resourceType": "sprite",
+  "id": "7ff60b4b-237a-4ab0-af6c-5d451216a018",
+  "name": "machine03",
+  "symbol": "sprite_machine03",
+  "width": 32,
+  "height": 24,
+  "states": [
+    {
+      "id": "951f3b98-5ca0-46a9-88a3-3241900502fa",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "86826a9f-5151-4d69-a617-6b3749b7662c",
+          "frames": [
+            {
+              "id": "9c491211-5720-4323-adc8-49f407990afc",
+              "tiles": [
+                {
+                  "id": "e87c03df-55c3-434f-866d-2e70bd947bd2",
+                  "x": -8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 3,
+                  "priority": false
+                },
+                {
+                  "id": "1e0d7cb7-23e8-4840-a681-f410b2d01012",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 3,
+                  "priority": false
+                },
+                {
+                  "id": "b6b2178b-9925-49b8-be0d-14ab10dbffc9",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 3,
+                  "priority": false
+                },
+                {
+                  "id": "40493ce5-f6a0-42dd-9245-8b204fff050c",
+                  "x": 16,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 3,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fab4f473-c846-4dd1-9a7b-462c5c67423f",
+          "frames": [
+            {
+              "id": "6b221bbd-e684-4d53-9b9b-6356919cfb97",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "935fb115-e478-49b0-a60f-e4c946967781",
+          "frames": [
+            {
+              "id": "60aae212-829e-4fef-814a-b42851e38256",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "28217486-223c-4de6-ac5e-89bcb4e33f62",
+          "frames": [
+            {
+              "id": "8d516e6a-0c05-42e8-a965-7e7964d273b6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "de2dd268-613f-4122-a560-53f380a48efb",
+          "frames": [
+            {
+              "id": "ab671bda-9c3f-415e-aa58-dbf4b5aedfe1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eaa7c557-295b-476c-9f86-1337af811a43",
+          "frames": [
+            {
+              "id": "741089fe-cf49-477e-81b7-5274bbe4a651",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4254c344-43c0-47bb-adfc-9ba539e671f8",
+          "frames": [
+            {
+              "id": "8404242b-e3e6-4357-b277-34e8c2f3f159",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a7b4946a-3c6a-4429-9b53-7bcd01f79815",
+          "frames": [
+            {
+              "id": "5194fb89-89b0-4d1b-b4de-4c95d40d9c47",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 3,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "machine03.png",
+  "checksum": "3f08b81a97c5d87eaa9295521b3846c82622c02e"
+}

@@ -1,0 +1,329 @@
+{
+  "_resourceType": "actor",
+  "id": "965734d4-f56e-4e3a-b674-12856790caa4",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "912d2ea4-f9f9-4e15-a1fb-ed3acb36d4f8",
+  "prefabId": "",
+  "direction": "right",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_28",
+  "script": [
+    {
+      "command": "EVENT_IF",
+      "args": {
+        "condition": {
+          "type": "eq",
+          "valueA": {
+            "type": "variable",
+            "value": "L0"
+          },
+          "valueB": {
+            "type": "number",
+            "value": 0
+          }
+        },
+        "__collapseElse": false
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": [
+                "yo i been stuck in here\nsince like 2004...lol",
+                "but looks like u got\na new mini-sprite!",
+                "i cant get up under\nthese fuggin bricks ",
+                "so u gotta get out\n& come back for ya boi",
+                "no worries, there'll be\na handsome reward\nfor ur troubles",
+                "i invested in hella stonks\nbefore i fell in here",
+                "radio shack, toys r us\nblockbuster, circuit city",
+                "so yeah\nimma be a skr8 \nchillionaire\n8)  "
+              ],
+              "__section": "text",
+              "avatarId": "",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": -1,
+              "speedOut": -1,
+              "closeWhen": "key",
+              "closeButton": "a",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30,
+              "__collapse": false
+            },
+            "id": "8814922e-702a-43eb-9195-66920aac31cb"
+          },
+          {
+            "command": "EVENT_ACTOR_EMOTE",
+            "args": {
+              "actorId": "$self$",
+              "emoteId": "a410a4c7-a37d-48ea-917b-f531ba557841",
+              "__collapse": false
+            },
+            "id": "82d95fbd-4b67-49d3-b4e3-e0d8bb813e70"
+          },
+          {
+            "command": "EVENT_INC_VALUE",
+            "args": {
+              "variable": "L0",
+              "__collapse": false
+            },
+            "id": "b329092d-d4cc-47e4-b1a5-2800e4da4eff"
+          }
+        ],
+        "false": [
+          {
+            "command": "EVENT_IF",
+            "args": {
+              "condition": {
+                "type": "eq",
+                "valueA": {
+                  "type": "variable",
+                  "value": "L0"
+                },
+                "valueB": {
+                  "type": "number",
+                  "value": 1
+                }
+              },
+              "__collapseElse": true
+            },
+            "children": {
+              "true": [
+                {
+                  "command": "EVENT_TEXT",
+                  "args": {
+                    "text": [
+                      "no worries, there'll be\na handsome reward\nfor ur troubles",
+                      "i invested in hella stonks\nbefore i fell in here",
+                      "radio shack,\ntoys r us,\nblockbuster, \ncircuit city",
+                      "so yeah...\nimma be a skr8 \nchillionaire\n8)  "
+                    ],
+                    "__section": "layout",
+                    "avatarId": "",
+                    "minHeight": 4,
+                    "maxHeight": 7,
+                    "textX": 1,
+                    "textY": 1,
+                    "textHeight": 5,
+                    "position": "bottom",
+                    "clearPrevious": true,
+                    "showFrame": "true",
+                    "speedIn": -1,
+                    "speedOut": -1,
+                    "closeWhen": "key",
+                    "closeButton": "a",
+                    "closeDelayTime": 0.5,
+                    "closeDelayFrames": 30,
+                    "__collapse": false
+                  },
+                  "id": "b93f4445-d5b0-4c2c-a1bf-701d21e3eb18"
+                }
+              ],
+              "false": []
+            },
+            "id": "f1293902-b802-4865-b480-5f8bf5b358e5"
+          }
+        ]
+      },
+      "id": "f3247dc3-4258-4462-a62f-4c2d5eb6a92c"
+    },
+    {
+      "command": "EVENT_ACTOR_EMOTE",
+      "args": {
+        "actorId": "$self$",
+        "emoteId": "e20504d8-3d88-4b71-b6d3-0e291bab970b"
+      },
+      "id": "a9dc3655-da55-448c-92b2-c158fb2bc930"
+    }
+  ],
+  "startScript": [
+    {
+      "command": "EVENT_PALETTE_SET_SPRITE",
+      "args": {
+        "palette0": "keep",
+        "palette1": "keep",
+        "palette2": "keep",
+        "palette3": "keep",
+        "palette4": "keep",
+        "palette5": "keep",
+        "palette6": "keep",
+        "palette7": "keep",
+        "__collapse": true
+      },
+      "id": "5468a5a4-76f8-4ca3-8d77-c87032fe4fad"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "L0",
+        "value": {
+          "type": "number",
+          "value": 0
+        },
+        "__collapse": true
+      },
+      "id": "07923a87-3322-4129-be3f-7d991f9ca06c"
+    },
+    {
+      "command": "EVENT_IF",
+      "args": {
+        "condition": {
+          "type": "eq",
+          "valueA": {
+            "type": "variable",
+            "value": "20"
+          },
+          "valueB": {
+            "type": "number",
+            "value": 1
+          }
+        },
+        "__collapseElse": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_ACTOR_SET_POSITION",
+            "args": {
+              "actorId": "$self$",
+              "x": {
+                "type": "number",
+                "value": 53
+              },
+              "y": {
+                "type": "number",
+                "value": 15
+              }
+            },
+            "id": "0bb9c00b-b2ce-4e87-abc7-ece8e984864e"
+          }
+        ],
+        "false": []
+      },
+      "id": "32cf45af-4ae4-49de-bf83-a2d66a53f4e5"
+    }
+  ],
+  "updateScript": [
+    {
+      "command": "EVENT_IF",
+      "args": {
+        "condition": {
+          "type": "eq",
+          "valueA": {
+            "type": "variable",
+            "value": "L0"
+          },
+          "valueB": {
+            "type": "number",
+            "value": 0
+          }
+        },
+        "__collapseElse": false
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_ACTOR_SET_DIRECTION",
+            "args": {
+              "actorId": "965734d4-f56e-4e3a-b674-12856790caa4",
+              "direction": {
+                "type": "direction",
+                "value": "left"
+              }
+            },
+            "id": "f78ce239-02c7-499d-8bdb-cb43924aa5da"
+          }
+        ],
+        "false": [
+          {
+            "command": "EVENT_IF",
+            "args": {
+              "condition": {
+                "type": "eq",
+                "valueA": {
+                  "type": "variable",
+                  "value": "21"
+                },
+                "valueB": {
+                  "type": "number",
+                  "value": 1
+                }
+              },
+              "__collapseElse": false
+            },
+            "children": {
+              "true": [
+                {
+                  "command": "EVENT_ACTOR_SET_DIRECTION",
+                  "args": {
+                    "actorId": "$self$",
+                    "direction": {
+                      "type": "direction",
+                      "value": "right"
+                    }
+                  },
+                  "id": "876cb0fa-8b51-4cb6-afcb-80abdcd2efc0"
+                }
+              ],
+              "false": [
+                {
+                  "command": "EVENT_IF",
+                  "args": {
+                    "condition": {
+                      "type": "eq",
+                      "valueA": {
+                        "type": "variable",
+                        "value": "21"
+                      },
+                      "valueB": {
+                        "type": "number",
+                        "value": 2
+                      }
+                    },
+                    "__collapseElse": true
+                  },
+                  "children": {
+                    "true": [
+                      {
+                        "command": "EVENT_PLAYER_SET_SPRITE",
+                        "args": {
+                          "spriteSheetId": "6c61446b-d405-4d96-8ff1-fea785f556b1"
+                        },
+                        "id": "7b5ff9cc-a3f1-4024-9e9b-968c8c4487ea"
+                      }
+                    ],
+                    "false": []
+                  },
+                  "id": "0450e4ce-00f4-42c9-ac21-6da128fd0f55"
+                }
+              ]
+            },
+            "id": "18f98ff4-037e-4bdb-9ec9-98200f96179a"
+          }
+        ]
+      },
+      "id": "ac1384d3-aca7-487e-a3d1-a96555c959cd"
+    }
+  ],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 34,
+  "y": 15,
+  "_index": 0
+}

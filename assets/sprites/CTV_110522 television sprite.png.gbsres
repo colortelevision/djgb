@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "fef6d6dd-a1ac-472d-b846-01dd75e03731",
+  "name": "CTV_110522 television sprite",
+  "symbol": "sprite_ctv_110522_televisio",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "4216aa7d-4cbd-41f0-b054-526809a22fc2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "28f6c2a9-a7ee-40e9-8502-d7a4b5557636",
+          "frames": [
+            {
+              "id": "0b257620-ff44-4d83-83e0-255254070175",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c0bef07c-4518-45da-8efb-7e54a9ca9749",
+          "frames": [
+            {
+              "id": "be33a5ae-4e98-4498-9d68-86fb968b23aa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1d6043a5-7158-4381-97d9-e787ef82fb3c",
+          "frames": [
+            {
+              "id": "e6f17648-df6e-4fe0-aa71-f82b980d876b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b0289982-c01c-478b-93b7-50c9fbf56728",
+          "frames": [
+            {
+              "id": "1f6d53fc-24c9-4440-acdd-ba8ca87eb659",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b5da99ec-5f27-4435-bc10-665d4fd274f6",
+          "frames": [
+            {
+              "id": "4e6c531f-1bea-48d9-8f39-cb0e46377ab9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "69d0b76e-15c5-46af-b18e-6bbb33748697",
+          "frames": [
+            {
+              "id": "c0198812-2788-4a64-bcdf-4eba55a17067",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e65cca33-137f-44a0-b0e2-ab8727b7e807",
+          "frames": [
+            {
+              "id": "eb3a7858-8660-45e0-ae58-19acf5c023a4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "da95d5ea-faf2-4a36-9152-9fc9495c9b92",
+          "frames": [
+            {
+              "id": "f5c34d86-75b3-4b17-9a8a-1b25fa803d8b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "CTV_110522 television sprite.png",
+  "checksum": "80620a43cb3515825996d622e5afb1091a7febfc"
+}

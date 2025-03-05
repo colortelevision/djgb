@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c797dc0c-6786-42c4-8ffa-521e7fde90aa",
+  "name": "UNT_CREWdemo",
+  "symbol": "sprite_unt_crewdemo",
+  "width": 160,
+  "height": 144,
+  "states": [
+    {
+      "id": "89c43045-1a17-4509-9d53-66c410b9aaa5",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "d142f1aa-85c0-4fc6-962c-1629d95a9898",
+          "frames": [
+            {
+              "id": "381ed86a-c6fa-4d78-a23c-4e8918fb2eb1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7990c2c7-3772-4f4c-b63b-60ff51f9b054",
+          "frames": [
+            {
+              "id": "3d306989-aab9-4ace-bc75-fe6eb45867a7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "34cb386a-a18c-4dd0-8546-c272ed8d9204",
+          "frames": [
+            {
+              "id": "4d3ce296-7e34-47d6-9a49-a676947d0790",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5221a969-2219-4a3f-b1ee-a992cc756cb9",
+          "frames": [
+            {
+              "id": "efb1b8d1-8c34-43ec-bd03-7bda448b9b22",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "882c7d33-b834-47fa-bef9-edf9c28c4000",
+          "frames": [
+            {
+              "id": "9ab3a654-14f0-46ba-a419-b05c9f776d64",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a4e26f20-7f1a-42c4-a617-d2040d01625d",
+          "frames": [
+            {
+              "id": "2e19dce6-b2fb-4298-bcbb-d39ba3f37e62",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "add86a46-415a-4a11-ba9b-1e0ff26dbc27",
+          "frames": [
+            {
+              "id": "7d6d6ff6-f2a5-4dc9-b5e4-39682adff8d4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bba257bb-2c0b-4b73-b2b2-4cc6657c1487",
+          "frames": [
+            {
+              "id": "163afafb-3433-4bd8-9793-0fb0a005422e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_CREWdemo.png",
+  "checksum": "4dfb241d796e65df001c61e074a093b16aa16c7e"
+}

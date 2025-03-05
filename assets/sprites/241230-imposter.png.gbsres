@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "cea7d2d1-23ce-47bf-a9b7-fa8e9c15721c",
+  "name": "241230-imposter",
+  "symbol": "sprite_241230_imposter",
+  "width": 64,
+  "height": 32,
+  "states": [
+    {
+      "id": "078e9d65-2b19-4f55-841f-0506d4700884",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "de5eebaa-a614-4ef8-9186-f56a2324c275",
+          "frames": [
+            {
+              "id": "7cd503d1-cace-46ae-beb1-63a3227db3f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "259227dc-8e0f-4bfb-aedd-79317bdc25e5",
+          "frames": [
+            {
+              "id": "f5981343-e171-4b2b-92ac-e6c7e989c93d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "29125716-dc91-4e51-ae47-cbbc83e7050b",
+          "frames": [
+            {
+              "id": "b446fce6-cf46-45c6-bca6-e2364ad9b51a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4502b1ba-c3b3-40c3-916e-b243bf7040aa",
+          "frames": [
+            {
+              "id": "efc65120-a7e9-4c3c-af98-0e1248fc85dc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "53e50053-9003-4fe6-a926-18cce917ba09",
+          "frames": [
+            {
+              "id": "0d67f15f-226b-423b-88e7-3c3abcbf4366",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5a9101fd-5230-429f-b79e-93ecd0ee8626",
+          "frames": [
+            {
+              "id": "be317e09-7a61-46bd-8a0a-92fe0acbf571",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2052f7eb-58c9-4126-bb0a-38f279261d7d",
+          "frames": [
+            {
+              "id": "1ac422b7-8d05-43d1-bd23-2ccc3a9eda82",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "be3fc0eb-9b81-4a52-bcaf-ee6d549d7d23",
+          "frames": [
+            {
+              "id": "8cf71fd3-1c49-475c-b058-a44d426bad05",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "241230-imposter.png",
+  "checksum": "ce065e3bf927fa39831efb1a9fc5a7871b3a9730"
+}

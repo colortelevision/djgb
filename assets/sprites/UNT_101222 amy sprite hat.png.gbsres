@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d36709de-6a0f-4df1-bd25-6ce1b9966116",
+  "name": "UNT_101222 amy sprite hat",
+  "symbol": "sprite_unt_101222_amy_sprit",
+  "width": 36,
+  "height": 62,
+  "states": [
+    {
+      "id": "6674b5c6-26f7-4959-9253-e7882663cb1e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "eee66b17-4153-4239-bc80-26afe5af245b",
+          "frames": [
+            {
+              "id": "a4c1889f-26ae-472a-bf8a-63674f505c81",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "64251423-f3c2-4770-af98-723c8e164db5",
+          "frames": [
+            {
+              "id": "a59f81bd-c739-43a0-9d74-6dc165a8d460",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c4329bd0-006e-45f9-8af9-72b1d5e2b8ac",
+          "frames": [
+            {
+              "id": "eb23c662-7dd9-47a7-affe-1cfde38bee21",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e196dd9e-5886-48ba-93a1-1d975717a92a",
+          "frames": [
+            {
+              "id": "36f6caad-983e-4a8d-a80d-5bd9ba0ad172",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "30e385b5-b998-42f3-a6b7-535efdc0bb74",
+          "frames": [
+            {
+              "id": "2c6bf5b6-772c-406a-aeac-951d747a8b0c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e7f94a71-33c1-4af9-9475-d603578241fa",
+          "frames": [
+            {
+              "id": "ac70ecc5-5ef6-4fa7-a09f-830e520ccd6b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5227000f-f0b5-48dc-8e28-2758787a3694",
+          "frames": [
+            {
+              "id": "a26ef059-92a6-4cdf-a919-fadae8b6fe09",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "da5861cb-d5f7-4a3d-b077-936bd8f80eab",
+          "frames": [
+            {
+              "id": "2b3d33de-a8ab-4724-9e3b-dc0ac31cb6b5",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_101222 amy sprite hat.png",
+  "checksum": "7e23c50ec7daa2a6ae1204cd19dd927bcdf0a6a1"
+}

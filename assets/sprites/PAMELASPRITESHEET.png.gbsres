@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c370a1f3-69c6-4b8d-a0ed-a6560e5aedaa",
+  "name": "PAMELASPRITESHEET",
+  "symbol": "sprite_pamelaspritesheet",
+  "width": 160,
+  "height": 32,
+  "states": [
+    {
+      "id": "176f2114-01d3-4812-bb7a-5e061fdbba89",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "af9e52d0-cfb5-4241-b0b6-ac15ed9d6312",
+          "frames": [
+            {
+              "id": "862d510e-d579-4f68-b0a8-2ac5ce69a0a2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aabf7f67-bc6b-4c22-8c0b-dc93cca62746",
+          "frames": [
+            {
+              "id": "c0d7bd93-cb4f-4464-8788-2fd51dbd0f88",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "428ec19e-8ba6-49b4-a36b-ac77f9e0a802",
+          "frames": [
+            {
+              "id": "1a1e4f66-b97c-4a34-9934-381f8e6ab58c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e8007902-2de1-402e-b462-64c21b0fadf1",
+          "frames": [
+            {
+              "id": "1388ecd5-bc90-4ba9-a509-b24ac5aaf605",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "315d0a2e-82fc-4348-85ea-0c3b9a24e727",
+          "frames": [
+            {
+              "id": "0f85667d-8385-463f-ac1c-47a278031e5c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "755043da-c910-496e-bdfb-cbb02e1c33f3",
+          "frames": [
+            {
+              "id": "c4ac5260-5d5d-42bb-bafa-d283a410020e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "52da4149-684a-45f5-a8f7-eadc0ca5dfcf",
+          "frames": [
+            {
+              "id": "ff0d5ff3-912e-40c5-a6bd-6c5c8821ed8c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a22be494-a20f-4f47-a88b-a14d5e073b27",
+          "frames": [
+            {
+              "id": "0dc85eb2-a6f4-4dfa-bbfb-4f0e69cef0e4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "PAMELASPRITESHEET.png",
+  "checksum": "d39a75cd9599800cec9a13f1f0e4ea745cf59af5"
+}

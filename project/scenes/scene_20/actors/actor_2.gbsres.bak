@@ -1,0 +1,61 @@
+{
+  "_resourceType": "actor",
+  "id": "756ae1eb-9166-421f-9b30-9de833b18ce5",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "85de5e79-59f3-415b-abb2-1b6273b6c43c",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_31",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!#cB0T_Beta[v0.12]\n !F:948c169c-8e4b-491c-a5f0-66898bbf45d9!Hello, Girl. =D\n Welcome to my server!",
+          "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!#cB0T_Beta[v0.12]\n !F:948c169c-8e4b-491c-a5f0-66898bbf45d9!I am the local host,\n #cB0T_Beta[v0.12]!",
+          "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!#cB0T_Beta[v0.12]\n !F:948c169c-8e4b-491c-a5f0-66898bbf45d9!If you have a question,\n you must upgrade to a",
+          "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!#cB0T_Beta[v0.12]\n !F:948c169c-8e4b-491c-a5f0-66898bbf45d9!PREMIUM_USER_ACCT!\n Otherwise, no B0T",
+          "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!#cB0T_Beta[v0.12]\n !F:948c169c-8e4b-491c-a5f0-66898bbf45d9!\n  will  ever  help  you.\n",
+          "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!#cB0T_Beta[v0.12]\n  !F:948c169c-8e4b-491c-a5f0-66898bbf45d9!But don't let that\n  scare you :o",
+          "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!#cB0T_Beta[v0.12]\n !F:948c169c-8e4b-491c-a5f0-66898bbf45d9!All B0TS \n are your best\n friends",
+          "\\002\\7...forever! ;]]]",
+          "\\002\\1!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!#cB0T_Beta[v0.12]\n  !F:948c169c-8e4b-491c-a5f0-66898bbf45d9!Have fun!!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 3,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 0,
+        "textHeight": 3,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": true,
+        "speedIn": 1,
+        "speedOut": 0,
+        "closeWhen": "key",
+        "closeButton": "any",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "589ec359-a0f8-4e5e-a5ba-acb28999dede"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 6,
+  "y": 12,
+  "_index": 1
+}

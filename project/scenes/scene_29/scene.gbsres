@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "c52173af-fdb9-43df-a200-0dff58704d70",
+  "_index": 28,
+  "name": "Scene 29",
+  "backgroundId": "da69ce33-b48b-4dd1-8a5a-6ca36ce752c6",
+  "tilesetId": "",
+  "width": 192,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_29",
+  "x": 968.1190795898438,
+  "y": 724.0182495117188,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "d3911a5e-43e6-4c27-b009-324e9e98db25",
+  "name": "240401-DUNGEON",
+  "symbol": "bg_240401_dungeon",
+  "width": 28,
+  "height": 32,
+  "imageWidth": 224,
+  "imageHeight": 256,
+  "tileColors": "",
+  "filename": "240401-DUNGEON.png"
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "46528cf7-bb94-4cff-9bb2-7d0db24f2b56",
+  "name": "tuc",
+  "symbol": "bg_tuc",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "tuc.png"
+}
