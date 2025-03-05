@@ -7,7 +7,7 @@
   "tilesetId": "",
   "width": 20,
   "height": 85,
-  "type": "TOPDOWN",
+  "type": "PLATFORM",
   "paletteIds": [
     "a9577501-86bc-4691-a3a4-0ab8002f7d13",
     "17d779d0-f0d5-4b13-aaed-4b71a812b525",
@@ -23,7 +23,15 @@
   "symbol": "scene_26",
   "x": 1656,
   "y": 488,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "c55ef246-8ef9-4bd9-8f19-aa751577b7f8"
+      },
+      "id": "a82313da-fd86-4404-9f67-247619b25b03"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": []
