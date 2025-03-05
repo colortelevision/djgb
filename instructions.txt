@@ -1,0 +1,24 @@
+if you're reading this, we have both leveled up our GIT skills. round of applause for the team.
+
+
+open the following link and scroll down. click on the link that says MAC OS X ARM BUILD, and that will download the latest gb-studio (4.2.x) 
+
+https://github.com/chrismaltby/gb-studio/actions/runs/13504340919
+
+once downloaded, i think you should be able to just open it up, and open the .gbsproj file from this folder. it wont work with older versions of gb-studio
+
+command+4 will open the music section and you can peruse the current catalogue of Gameboy music. 
+
+
+
+UNRELATED NOTE, 
+
+i think I've set up git from your computer before, but if not we'll do that whenever you get a chance to remote desktop me in.
+
+we'll be able to keep an ongoing folder with notes, ideas, instructions, COMMANDS, files, etc that we can both update and sync between us. 
+
+it's super powerful especially once we're building a website from scratch, 
+
+for example i can make a webpage from a template file for a tutorial guide, and just show you where to paste stuff, the command to update and BOOM its added to that website
+
+we getting dere <3
