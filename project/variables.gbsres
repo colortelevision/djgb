@@ -92,6 +92,11 @@
       "symbol": "var_music_house_playing"
     },
     {
+      "id": "20",
+      "name": "qZapped",
+      "symbol": "var_qzapped"
+    },
+    {
       "id": "21",
       "name": "MU",
       "symbol": "var_mu"
@@ -167,9 +172,24 @@
       "symbol": "var_zakmet"
     },
     {
-      "id": "20",
-      "name": "qZapped",
-      "symbol": "var_qzapped"
+      "id": "69",
+      "name": "g1-checkin",
+      "symbol": "var_g1_checkin"
+    },
+    {
+      "id": "70",
+      "name": "g1-complete",
+      "symbol": "var_g1_complete"
+    },
+    {
+      "id": "71",
+      "name": "g2-checkin",
+      "symbol": "var_g2_checkin"
+    },
+    {
+      "id": "72",
+      "name": "gatesCleared",
+      "symbol": "var_gatescleared"
     }
   ],
   "constants": [

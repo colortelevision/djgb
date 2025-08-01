@@ -1,0 +1,84 @@
+{
+  "_resourceType": "actor",
+  "id": "126d9ba8-805b-4e73-a773-21e59906e43e",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "a0feaba4-1d1e-4bae-82a0-d95fccc4318e",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_34",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Strip off that crown,\nbitch, or no entry."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "41b61063-c6cd-4df1-a396-ee80442ca0a6"
+    },
+    {
+      "command": "EVENT_ACTOR_GET_POSITION",
+      "args": {
+        "actorId": "$self$",
+        "vectorX": "L0",
+        "vectorY": "L0"
+      },
+      "id": "c3a01500-2775-48b4-9c0d-229568296070"
+    },
+    {
+      "command": "EVENT_SCENE_PUSH_STATE",
+      "args": {},
+      "id": "4999a054-7c92-41ae-a142-9ac1b1d36fee"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "fd223a5f-7148-4705-98a7-b0ef56cb5c74",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "a0081db5-6b3d-4ef6-a2ba-9ed3d2f8bb79"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 16,
+  "y": 33,
+  "_index": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_resourceType": "script",
+  "id": "421fefc8-449b-4a25-b667-2a605b9b8fdf",
+  "name": "die",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_18",
+  "script": [
+    {
+      "command": "EVENT_SOUND_PLAY_EFFECT",
+      "args": {
+        "type": "tone",
+        "priority": "medium",
+        "pitch": 4,
+        "frequency": 200,
+        "duration": 0.16,
+        "wait": false,
+        "effect": 0
+      },
+      "id": "e9c718a0-1c0d-4bdf-8e52-761a300f24e6"
+    },
+    {
+      "command": "EVENT_CAMERA_SHAKE",
+      "args": {
+        "time": 0.3,
+        "frames": 30,
+        "shakeDirection": "horizontal",
+        "magnitude": {
+          "type": "number",
+          "value": 5
+        }
+      },
+      "id": "8828f04d-9b0b-4693-bf22-5bc66d612672"
+    },
+    {
+      "command": "EVENT_ACTOR_SET_STATE",
+      "args": {
+        "actorId": "$self$",
+        "spriteStateId": "beaT",
+        "loopAnim": false
+      },
+      "id": "6581d208-d0e7-446e-a28a-5ca14942b51e"
+    },
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "ad71c1b9-d480-440f-9351-456d36c5adfe"
+      },
+      "id": "66f94a6c-95e5-41c5-8220-40c7145bce59"
+    }
+  ]
+}

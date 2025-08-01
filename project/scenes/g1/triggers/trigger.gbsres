@@ -1,0 +1,97 @@
+{
+  "_resourceType": "trigger",
+  "id": "79191222-6259-4305-8ef1-5b0f1937d37f",
+  "name": "",
+  "prefabId": "",
+  "x": 12,
+  "y": 45,
+  "symbol": "trigger_51",
+  "prefabScriptOverrides": {},
+  "width": 8,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_IF",
+      "args": {
+        "condition": {
+          "type": "not",
+          "value": {
+            "type": "variable",
+            "value": "69"
+          }
+        },
+        "__collapseElse": false
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_ACTOR_EMOTE",
+            "args": {
+              "actorId": "126d9ba8-805b-4e73-a773-21e59906e43e",
+              "emoteId": "c8d5eadd-dced-43df-8367-1e4d9bfc7923"
+            },
+            "id": "90c59681-4677-48c0-8794-be741bc8973e"
+          },
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": [
+                "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!Oi, you crusty \nunderworld cock-goblin,",
+                "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!open the fuckin' gate\nor I'll ram my ",
+                "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!divine strap-on so far\nup your ass you'll be",
+                "!F:0c7c1705-dab6-476e-a5ce-17de23b3d591!shitting holy sparkles\nfor eternity!"
+              ],
+              "__section": "behavior",
+              "avatarId": "6845dca5-d9d8-472a-93a7-81889d878516",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": -1,
+              "speedOut": -1,
+              "closeWhen": "key",
+              "closeButton": "a",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30
+            },
+            "id": "9e95d059-b0e6-422f-9e3c-ce3c664d4403"
+          },
+          {
+            "command": "EVENT_SET_VALUE",
+            "args": {
+              "variable": "69",
+              "value": {
+                "type": "true"
+              }
+            },
+            "id": "295dfdee-286d-46ce-9185-3405a0cdb78c"
+          }
+        ],
+        "false": [
+          {
+            "command": "EVENT_IF",
+            "args": {
+              "condition": {
+                "type": "variable",
+                "value": "69"
+              },
+              "__collapseElse": true
+            },
+            "children": {
+              "true": [],
+              "false": []
+            },
+            "id": "ad31b22c-cb42-43fa-a14f-6f67ee4ee46a"
+          }
+        ]
+      },
+      "id": "d88cd238-f5fd-4b6a-99b9-0951f5d2a1a5"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}

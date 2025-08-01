@@ -9,8 +9,8 @@
     {
       "id": "61110513-61ea-46c1-807e-f63a28559d58",
       "name": "",
-      "animationType": "multi",
-      "flipLeft": true,
+      "animationType": "fixed",
+      "flipLeft": false,
       "animations": [
         {
           "id": "57cbde0e-0e21-4e8f-b620-f55c2d3dfcae",
@@ -19,29 +19,29 @@
               "id": "5d143aaa-eae7-4f9d-9d0c-07a294dfe696",
               "tiles": [
                 {
-                  "id": "c7baab8e-ce4c-47e3-bfbd-81c443f81937",
+                  "id": "d604f009-e66a-45dc-a20a-5430c3808018",
                   "x": 0,
                   "y": 0,
-                  "sliceX": 64,
+                  "sliceX": 0,
                   "sliceY": 0,
-                  "palette": 0,
                   "flipX": false,
                   "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
                   "objPalette": "OBP0",
-                  "paletteIndex": 3,
                   "priority": false
                 },
                 {
-                  "id": "c3a1156d-3be6-49ce-9722-c0d6ef917ca9",
+                  "id": "79fb769e-06ea-4644-94b8-d3688279fae7",
                   "x": 8,
                   "y": 0,
-                  "sliceX": 72,
+                  "sliceX": 8,
                   "sliceY": 0,
-                  "palette": 0,
                   "flipX": false,
                   "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
                   "objPalette": "OBP0",
-                  "paletteIndex": 3,
                   "priority": false
                 }
               ]
@@ -248,34 +248,7 @@
           "frames": [
             {
               "id": "3496d364-68d3-49de-bcd0-d8e683c653d7",
-              "tiles": [
-                {
-                  "id": "c8186ecc-9105-44e1-9480-3f1daf7ad81b",
-                  "x": 8,
-                  "y": 0,
-                  "sliceX": 40,
-                  "sliceY": 0,
-                  "palette": 0,
-                  "flipX": false,
-                  "flipY": false,
-                  "objPalette": "OBP0",
-                  "paletteIndex": 3,
-                  "priority": false
-                },
-                {
-                  "id": "0bb99bb7-cb12-4fbb-9ecc-a7618947167b",
-                  "x": 0,
-                  "y": 0,
-                  "sliceX": 48,
-                  "sliceY": 0,
-                  "palette": 0,
-                  "flipX": false,
-                  "flipY": false,
-                  "objPalette": "OBP0",
-                  "paletteIndex": 3,
-                  "priority": false
-                }
-              ]
+              "tiles": []
             }
           ]
         },
@@ -284,34 +257,7 @@
           "frames": [
             {
               "id": "ce737a24-8c73-4614-a87c-7bfbd5b1cb2d",
-              "tiles": [
-                {
-                  "id": "b52c7337-e519-42ec-8a1a-9d4d1d325501",
-                  "x": 0,
-                  "y": 0,
-                  "sliceX": 96,
-                  "sliceY": 0,
-                  "palette": 0,
-                  "flipX": false,
-                  "flipY": false,
-                  "objPalette": "OBP0",
-                  "paletteIndex": 3,
-                  "priority": false
-                },
-                {
-                  "id": "13b3a26d-27e6-405e-9da5-151bb603b21b",
-                  "x": 8,
-                  "y": 0,
-                  "sliceX": 104,
-                  "sliceY": 0,
-                  "palette": 0,
-                  "flipX": false,
-                  "flipY": false,
-                  "objPalette": "OBP0",
-                  "paletteIndex": 3,
-                  "priority": false
-                }
-              ]
+              "tiles": []
             }
           ]
         },
@@ -354,7 +300,7 @@
       ]
     }
   ],
-  "numTiles": 12,
+  "numTiles": 14,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
@@ -363,5 +309,5 @@
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_CONNERRPG.png",
-  "checksum": "1d010ddaa22659e506e93b88bdfde8a0ade4c2ab"
+  "checksum": "57c73462383d78c37cefc67c4a054d87b2c5d136"
 }

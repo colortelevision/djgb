@@ -92,6 +92,11 @@
       "symbol": "var_music_house_playing"
     },
     {
+      "id": "20",
+      "name": "qZapped",
+      "symbol": "var_qzapped"
+    },
+    {
       "id": "21",
       "name": "MU",
       "symbol": "var_mu"
@@ -160,6 +165,26 @@
       "id": "93c3418f-8dec-469b-b3e5-5b4301394ca2__L1",
       "name": "PHASE",
       "symbol": "var_phase"
+    },
+    {
+      "id": "965734d4-f56e-4e3a-b674-12856790caa4__L0",
+      "name": "zakMet",
+      "symbol": "var_zakmet"
+    },
+    {
+      "id": "69",
+      "name": "g1-checkin",
+      "symbol": "var_g1_checkin"
+    },
+    {
+      "id": "70",
+      "name": "g1-complete",
+      "symbol": "var_g1_complete"
+    },
+    {
+      "id": "71",
+      "name": "g2-checkin",
+      "symbol": "var_g2_checkin"
     }
   ],
   "constants": [

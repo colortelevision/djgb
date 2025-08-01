@@ -5,7 +5,7 @@
   "name": "Enemies/Turnip",
   "frame": 0,
   "animate": true,
-  "spriteSheetId": "f88eea80-c5b4-4e10-b49f-7a8aa8bd477e",
+  "spriteSheetId": "65cb3890-d8a8-4d24-b654-8813a70daf47",
   "paletteId": "",
   "moveSpeed": 0.5,
   "animSpeed": 15,

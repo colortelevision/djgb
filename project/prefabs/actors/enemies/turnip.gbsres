@@ -5,12 +5,12 @@
   "name": "Enemies/Turnip",
   "frame": 0,
   "animate": true,
-  "spriteSheetId": "65cb3890-d8a8-4d24-b654-8813a70daf47",
+  "spriteSheetId": "0c4bd46f-69da-4d4f-b562-350ed5e6e156",
   "paletteId": "",
   "moveSpeed": 0.5,
   "animSpeed": 15,
   "persistent": false,
-  "collisionGroup": "1",
+  "collisionGroup": "2",
   "script": [
     {
       "id": "944433b0-0259-461a-bcec-d7c3b7b65bf3",
@@ -134,7 +134,8 @@
             "id": "f2214149-4257-4bc0-b945-0de1976d8597",
             "command": "EVENT_ACTOR_DEACTIVATE",
             "args": {
-              "actorId": "$self$"
+              "actorId": "$self$",
+              "__collapse": false
             }
           },
           {
@@ -149,7 +150,8 @@
               "y": {
                 "type": "number",
                 "value": 0
-              }
+              },
+              "__collapse": false
             }
           }
         ],

@@ -1,0 +1,62 @@
+{
+  "_resourceType": "scene",
+  "id": "c52173af-fdb9-43df-a200-0dff58704d70",
+  "_index": 28,
+  "name": "g2",
+  "backgroundId": "fb3baff8-5820-46a2-b80e-eb443c1c4495",
+  "tilesetId": "",
+  "width": 28,
+  "height": 62,
+  "type": "PLATFORM",
+  "paletteIds": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "4703d9ac-2db7-4e91-a225-11e5726c2c7f",
+    "93bc2d47-a54a-4755-8ea2-87d530ccecc6"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "0044+0f2+00c+0f2+00c+0f10+008+0f2+002+0f2+00c+0f2+008+0f6+00c+0f2+004+0f2+002+0f2+0010+0f2+004+0f6+0010+0f4+002+0f2+0014+0f8+0014+0f4+0018+0f4+0018+0f4+0010+0fc+0010+0f2+006+0f4+00d+0f5+008+0f2+00c+0f2+002+0f2+008+0f2+008+0f6+00c+0f2+008+0f2+002+0f2+00c+0f2+004+0f2+022+0f2+0010+0f2+004+0f2+002+0f2+0010+0f2+004+0f2+002+0f2+0010+0f2+004+0f6+0010+0f2+008+0f2+002+0f2+00c+0f2+008+0f6+00c+0f2+00c+0f2+002+0f2+008+0f2+00c+0f2+022+0f2+008+0f2+0010+0f2+002+0f2+004+0f2+0010+0f6+004+0f2+0014+0f2+002+0f4+0014+0fc+00a+0f2+008+0f4+002+0f2+00a+0f2+008+0f2+004+0f6+0010+0f2+004+0f2+002+0f2+0010+0f2+008+0f6+00c+0f2+008+0f2+002+0f2+00c+0f2+00c+0f6+008+0f2+00c+0f2+002+0f2+008+0f2+0010+0f6+004+0f2+0010+0f2+002+0f2+004+0f2+0010+0f2+002+0f2+004+0f2+0010+0f6+004+0f2+00c+0f2+002+0f2+008+0f2+00c+0f6+008+0f2+008+0f2+002+0f2+00a+0f!00!0f2+008+0f6+00a+0f!00!0f2+004+0f2+002+0f2+0010+0f2+004+0f6+0010+0f4+002+0f2+0014+0f8+0014+0f4+008+0f2+00a+0f8+008+0f2+00a+0f2+002+0f4+0010+0f6+004+0f2+0010+0f2+002+0f2+004+0f2+00c+0f6+008+0f2+00c+0f2+002+0f2+008+0f2+008+0f6+00c+0f2+008+0f2+002+0f2+00c+0fc+0010+0f2+008+0f2+0048+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_29",
+  "x": 2712,
+  "y": 440,
+  "script": [
+    {
+      "command": "EVENT_ADD_FLAGS",
+      "args": {
+        "variable": "72",
+        "flag1": true,
+        "flag2": false,
+        "flag3": false,
+        "flag4": false,
+        "flag5": false,
+        "flag6": false,
+        "flag7": false,
+        "flag8": false,
+        "flag9": false,
+        "flag10": false,
+        "flag11": false,
+        "flag12": false,
+        "flag13": false,
+        "flag14": false,
+        "flag15": false,
+        "flag16": false,
+        "__collapse": false
+      },
+      "id": "645c4a78-6e88-43a4-9e4f-878a74c6f09c"
+    },
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "9b9102c1-bb2a-460f-9251-7fdd42c1ef09"
+      },
+      "id": "787d0ec4-a1c4-4977-8e86-b21db909222b"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
