@@ -5,7 +5,7 @@
   "type": "TOPDOWN",
   "name": "caves/Underground",
   "symbol": "scene_underground",
-  "x": 88,
+  "x": 400,
   "y": 1872,
   "width": 32,
   "height": 32,

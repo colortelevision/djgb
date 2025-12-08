@@ -3,8 +3,6 @@
   "id": "02b4a622-8365-4218-a9c7-53b9e86b3e50",
   "name": "CTV_102122 tv man spritesheet",
   "symbol": "sprite_ctv_102122_tv_man_sp",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "623b2b62-120d-448a-8425-272b7c0855f4",
@@ -589,13 +587,17 @@
     }
   ],
   "numTiles": 24,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "CTV_102122 tv man spritesheet.png",
+  "width": 64,
+  "height": 64,
   "checksum": "38b9ff2462ed36493da692ddb70587be0a6994c7"
 }

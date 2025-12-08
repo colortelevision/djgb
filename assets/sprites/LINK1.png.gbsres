@@ -3,8 +3,6 @@
   "id": "e0dcc4a9-f7a8-43a2-bd0f-91d874d6663d",
   "name": "LINK1",
   "symbol": "sprite_link1",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "b94e0296-7206-4556-bd46-f682db81a352",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "LINK1.png",
+  "width": 64,
+  "height": 64,
   "checksum": "545aa83efa505ca61f00bead6d70f8166ab9a559"
 }

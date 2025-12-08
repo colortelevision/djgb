@@ -3,8 +3,6 @@
   "id": "7fe22fb1-9ad0-487e-98c5-a5f66a4141c5",
   "name": "SD_player_battle",
   "symbol": "sprite_sd_player_battle",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "5b7c879e-67d3-4225-936e-f5bbdf9c319d",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_player_battle.png",
+  "width": 32,
+  "height": 16,
   "checksum": "f296a1a7e70c526d19f47a0454f5e00c7aec29c6"
 }

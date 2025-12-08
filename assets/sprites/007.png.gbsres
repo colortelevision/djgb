@@ -3,8 +3,6 @@
   "id": "70bea390-9883-4547-b34a-085647f980f2",
   "name": "007",
   "symbol": "sprite_007",
-  "width": 768,
-  "height": 128,
   "states": [
     {
       "id": "73713ee3-4c23-44da-8439-4d6be0f11a38",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "007.png",
+  "width": 768,
+  "height": 128,
   "checksum": "25fc0fb1de15e38466ed60aa3609062cbecad579"
 }

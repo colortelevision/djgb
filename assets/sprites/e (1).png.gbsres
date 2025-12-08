@@ -3,8 +3,6 @@
   "id": "c553ad15-57f2-4841-abd6-78d1d0cdd874",
   "name": "e (1)",
   "symbol": "sprite_e_1_",
-  "width": 86,
-  "height": 32,
   "states": [
     {
       "id": "a6e18245-15ba-4fb9-ab19-e6c99e067b2d",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "e (1).png",
+  "width": 86,
+  "height": 32,
   "checksum": "723953113e3541655bd72514068a3035ab859d49"
 }

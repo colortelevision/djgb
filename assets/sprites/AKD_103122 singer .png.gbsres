@@ -3,8 +3,6 @@
   "id": "17be8584-862c-42f3-a1aa-083580334abf",
   "name": "AKD_103122 singer ",
   "symbol": "sprite_akd_103122_singer_",
-  "width": 36,
-  "height": 64,
   "states": [
     {
       "id": "7a610dd4-abac-4193-8612-d22c906984ea",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "AKD_103122 singer .png",
+  "width": 36,
+  "height": 64,
   "checksum": "dc719a5a00e8cb2492508fac235f15825c8de598"
 }

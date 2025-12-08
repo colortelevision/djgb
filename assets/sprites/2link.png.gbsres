@@ -3,8 +3,6 @@
   "id": "c9a2f3b0-2776-4d9e-9fbc-dc94f5169f58",
   "name": "2link",
   "symbol": "sprite_2link",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "ce089aee-7175-416e-818b-ad6cc952a3c5",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "2link.png",
+  "width": 64,
+  "height": 64,
   "checksum": "34e2108fcd0e429a7b5ae1f3ea478499f4144250"
 }

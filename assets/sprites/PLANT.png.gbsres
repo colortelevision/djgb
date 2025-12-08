@@ -3,8 +3,6 @@
   "id": "646ff9ea-c270-45ba-b7cd-534d5f546cd4",
   "name": "PLANT",
   "symbol": "sprite_plant",
-  "width": 48,
-  "height": 48,
   "states": [
     {
       "id": "eeea5215-ca5a-4682-806b-3084c8073def",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "PLANT.png",
+  "width": 48,
+  "height": 48,
   "checksum": "11404362b36686e1c2282d4e3b465910e41f7919"
 }

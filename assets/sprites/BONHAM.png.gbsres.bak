@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d1cf9ca3-16be-4f89-a784-bacd46a9ac5f",
+  "name": "BONHAM",
+  "symbol": "sprite_bonham",
+  "width": 46,
+  "height": 40,
+  "states": [
+    {
+      "id": "3f090e93-0096-45b9-b96d-bbb293f3628c",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "7d3e9ca7-f6a9-4c0a-9cb3-b9e6d53f5cd3",
+          "frames": [
+            {
+              "id": "d86188d5-878d-4ef2-9964-b31ffe594e21",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "487c433e-5743-4720-b1a2-82ea83c5916b",
+          "frames": [
+            {
+              "id": "1a381d56-6d2e-40d7-ae98-888a934a46ae",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "421e9e97-e7db-42ed-a3c1-2000f3d3de2b",
+          "frames": [
+            {
+              "id": "4696829f-ba38-4582-9cbf-96f8cba20b09",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "acec7ccc-4420-4436-863f-47e0c2cd88c4",
+          "frames": [
+            {
+              "id": "0a900edd-fdc9-4287-a212-d5605378eea5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "92e48494-ea5a-453e-a0d7-c52ad6ee6233",
+          "frames": [
+            {
+              "id": "b2644930-9157-4f07-818b-c92660afbc16",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a1c2a61-63ef-44cc-874a-d53c07842914",
+          "frames": [
+            {
+              "id": "c8a79e9b-d5f9-4809-b480-403e89513725",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "505dfb03-91df-4e5c-a41d-73f83efa7ff6",
+          "frames": [
+            {
+              "id": "77d2ba8f-4103-48ee-aaa0-67cdd6072424",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2e861e13-3dce-40ab-8785-99c764fce6e6",
+          "frames": [
+            {
+              "id": "5aee9a1f-bd50-43a3-a24a-6e27c5e0be8c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "BONHAM.png",
+  "checksum": "19a38a09232c8eb68ec5da518bb5255ce3f4e579"
+}

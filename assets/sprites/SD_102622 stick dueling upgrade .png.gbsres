@@ -3,8 +3,6 @@
   "id": "df01bbd1-6d28-4821-be34-cdc78347fce3",
   "name": "SD_102622 stick dueling upgrade ",
   "symbol": "sprite_sd_102622_stick_duel",
-  "width": 640,
-  "height": 96,
   "states": [
     {
       "id": "130c9821-0ab6-4c94-a96c-a6bb6c5d1975",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_102622 stick dueling upgrade .png",
+  "width": 640,
+  "height": 96,
   "checksum": "5395f54b86b1a4053f9aa17671d3df90f2b05386"
 }

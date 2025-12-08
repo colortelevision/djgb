@@ -3,8 +3,6 @@
   "id": "92c66bb9-06de-4384-98bc-20b6fb97467c",
   "name": "UNT_Matt PKMN style",
   "symbol": "sprite_unt_matt_pkmn_style",
-  "width": 27,
-  "height": 56,
   "states": [
     {
       "id": "ce8d7f68-8d5f-41a1-951e-5bb7f5bd9d8a",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_Matt PKMN style.png",
+  "width": 27,
+  "height": 56,
   "checksum": "7d185aac6c7574428e4b1328818520c78311ac00"
 }

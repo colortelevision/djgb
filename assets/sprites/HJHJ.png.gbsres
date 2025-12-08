@@ -3,8 +3,6 @@
   "id": "4de3309c-037e-4603-a6cb-0aec9cad65d7",
   "name": "HJHJ",
   "symbol": "sprite_hjhj",
-  "width": 22,
-  "height": 34,
   "states": [
     {
       "id": "544b8b62-a717-4691-a063-c87906e507ab",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "HJHJ.png",
+  "width": 22,
+  "height": 34,
   "checksum": "7f357f5a3107aabf1cd123baa86b98ddb907f931"
 }

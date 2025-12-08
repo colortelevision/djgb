@@ -5,7 +5,7 @@
   "type": "SHMUP",
   "name": "space/Space Battle",
   "symbol": "scene_space_battle",
-  "x": 60,
+  "x": 372,
   "y": 2104,
   "width": 255,
   "height": 18,

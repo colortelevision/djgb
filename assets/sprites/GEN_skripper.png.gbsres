@@ -3,8 +3,6 @@
   "id": "3f2d9953-40b3-470b-8c14-a4e4c6df051c",
   "name": "GEN_skripper",
   "symbol": "sprite_gen_skripper",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "bcea4ad6-db87-41a2-af80-d21f51fb15f3",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GEN_skripper.png",
+  "width": 96,
+  "height": 16,
   "checksum": "a0224f08b4be220b786f784919903bd3cc64c82c"
 }

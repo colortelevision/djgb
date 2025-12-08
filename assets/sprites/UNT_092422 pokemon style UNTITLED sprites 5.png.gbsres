@@ -3,8 +3,6 @@
   "id": "e7424a27-9b59-403f-a2e5-ecc3cf3f6599",
   "name": "UNT_092422 pokemon style UNTITLED sprites 5",
   "symbol": "sprite_unt_092422_pokemon_s",
-  "width": 160,
-  "height": 144,
   "states": [
     {
       "id": "688711a0-789e-44f9-97ca-7ba71b2efdd6",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_092422 pokemon style UNTITLED sprites 5.png",
+  "width": 160,
+  "height": 144,
   "checksum": "4dfb241d796e65df001c61e074a093b16aa16c7e"
 }

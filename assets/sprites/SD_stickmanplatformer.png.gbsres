@@ -3,8 +3,6 @@
   "id": "09881972-28d6-4176-acc7-faa881de88c7",
   "name": "SD_stickmanplatformer",
   "symbol": "sprite_sd_stickmanplatforme",
-  "width": 416,
-  "height": 91,
   "states": [
     {
       "id": "3c7b8469-71a3-4ea4-a115-d438e55291e4",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_stickmanplatformer.png",
+  "width": 416,
+  "height": 91,
   "checksum": "a88f4722ae8c8bdb7d65c84b193b8e372fa033a9"
 }

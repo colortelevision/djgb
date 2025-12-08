@@ -3,8 +3,6 @@
   "id": "cea7d2d1-23ce-47bf-a9b7-fa8e9c15721c",
   "name": "241230-imposter",
   "symbol": "sprite_241230_imposter",
-  "width": 64,
-  "height": 32,
   "states": [
     {
       "id": "078e9d65-2b19-4f55-841f-0506d4700884",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "241230-imposter.png",
+  "width": 64,
+  "height": 32,
   "checksum": "ce065e3bf927fa39831efb1a9fc5a7871b3a9730"
 }

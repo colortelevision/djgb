@@ -3,8 +3,6 @@
   "id": "f4adec94-9f5c-45d0-8328-3000f828e54c",
   "name": "GV_Accountable Ant",
   "symbol": "sprite_gv_accountable_ant",
-  "width": 32,
-  "height": 32,
   "states": [
     {
       "id": "eaf21760-7b39-4387-afb9-4dc365c4d66f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GV_Accountable Ant.png",
+  "width": 32,
+  "height": 32,
   "checksum": "d12e83ea0a628c380c989a06f4b2be291cbacabb"
 }

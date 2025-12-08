@@ -3,8 +3,6 @@
   "id": "894cbfe6-22a9-4b0a-bf29-2ca75711a638",
   "name": "UNT_ryu",
   "symbol": "sprite_unt_ryu",
-  "width": 43,
-  "height": 56,
   "states": [
     {
       "id": "2e9b78ce-ebae-4a48-8e56-71ab268b968f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_ryu.png",
+  "width": 43,
+  "height": 56,
   "checksum": "c5b0fd145c0b20b51e2bd624327cdbb564d7c100"
 }

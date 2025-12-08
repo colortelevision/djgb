@@ -3,8 +3,6 @@
   "id": "6c61446b-d405-4d96-8ff1-fea785f556b1",
   "name": "X3D_112022 zak sprite art",
   "symbol": "sprite_x3d_112022_zak_sprit",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "82ecf368-bc91-4164-93e6-a06ec01c11f9",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "X3D_112022 zak sprite art.png",
+  "width": 16,
+  "height": 16,
   "checksum": "c8ef3f8ebdf6fae02963c5f5ba42bd0bc58b49d8"
 }

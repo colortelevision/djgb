@@ -3,8 +3,6 @@
   "id": "692320a5-0c14-4392-a1c4-c1a0036ed5b6",
   "name": "D01-player_platform 2",
   "symbol": "sprite_d01_player_platform_",
-  "width": 88,
-  "height": 160,
   "states": [
     {
       "id": "974ef1d7-6fef-43dd-b244-d11dbb805b4f",
@@ -536,13 +534,17 @@
     }
   ],
   "numTiles": 17,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "D01-player_platform 2.png",
+  "width": 88,
+  "height": 160,
   "checksum": "a95ad3f7a2f25a4969888df3cd5484063a800b36"
 }

@@ -3,8 +3,6 @@
   "id": "53f6cdf0-d993-4996-b833-efb21ace0082",
   "name": "UNT_ami rpg",
   "symbol": "sprite_unt_ami_rpg",
-  "width": 128,
-  "height": 16,
   "states": [
     {
       "id": "d010d249-e39c-4ac4-bbee-cc359d1c1137",
@@ -332,13 +330,17 @@
     }
   ],
   "numTiles": 16,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_ami rpg.png",
+  "width": 128,
+  "height": 16,
   "checksum": "ec70b5bf483f42e1081ea4e8bb1576f198def5a9"
 }

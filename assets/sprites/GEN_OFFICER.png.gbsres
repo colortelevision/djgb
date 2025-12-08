@@ -3,8 +3,6 @@
   "id": "1b05f4be-2d0a-4fd1-89d0-3f0dd2083aec",
   "name": "GEN_OFFICER",
   "symbol": "sprite_gen_officer",
-  "width": 128,
-  "height": 16,
   "states": [
     {
       "id": "ac2ae3b2-9d04-4743-bd75-01896c90c985",
@@ -332,13 +330,17 @@
     }
   ],
   "numTiles": 15,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GEN_OFFICER.png",
+  "width": 128,
+  "height": 16,
   "checksum": "0e68f8f06e60a968217768373a0ee422cd4d9782"
 }

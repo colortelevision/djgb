@@ -5,6 +5,7 @@
   "symbol": "actor_florist",
   "prefabId": "",
   "name": "Florist",
+  "coordinateType": "tiles",
   "x": 47,
   "y": 47,
   "frame": 0,
@@ -17,6 +18,7 @@
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "script": [],
   "startScript": [

@@ -3,8 +3,6 @@
   "id": "53201e78-8382-437e-a741-563f498d0b91",
   "name": "UNT_Conner",
   "symbol": "sprite_unt_conner",
-  "width": 32,
-  "height": 58,
   "states": [
     {
       "id": "40f77bc6-73f5-4e6e-a9fe-fe097831475d",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_Conner.png",
+  "width": 32,
+  "height": 58,
   "checksum": "7a4bd258ea82aad53660015517523e7af0b2b6df"
 }

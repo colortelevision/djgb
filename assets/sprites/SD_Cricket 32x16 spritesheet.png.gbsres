@@ -3,8 +3,6 @@
   "id": "95427ca1-589a-422f-bdce-5d1dd666e72c",
   "name": "SD_Cricket 32x16 spritesheet",
   "symbol": "sprite_sd_cricket_32x16_spr",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "2324793b-6879-4451-8a17-1d9fc262bf20",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_Cricket 32x16 spritesheet.png",
+  "width": 32,
+  "height": 16,
   "checksum": "ab3a9e906173ac0cf8b953b3b274dd6990ff63a6"
 }

@@ -3,8 +3,6 @@
   "id": "f25fffa7-b000-4f11-9a3c-74517e7cabb5",
   "name": "IRL_DJ SPritesheet 16x16",
   "symbol": "sprite_irl_dj_spritesheet_1",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "93a6de25-57ee-4560-832e-8c0339d6360e",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_DJ SPritesheet 16x16.png",
+  "width": 96,
+  "height": 16,
   "checksum": "4c3d557173caacde16c14968c7029cf910a39409"
 }

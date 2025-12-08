@@ -3,8 +3,6 @@
   "id": "b4845aec-11e3-475b-8a9a-0a01b920c710",
   "name": "space_mine",
   "symbol": "sprite_space_mine",
-  "width": 64,
-  "height": 32,
   "states": [
     {
       "id": "4fd1d8ed-7831-4835-81ca-708435f5effc",
@@ -346,14 +344,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "space_mine.png",
-  "checksum": "287419e44a11c4a58732ef5ea7b0c51709be3279",
-  "numFrames": 4
+  "width": 64,
+  "height": 32,
+  "checksum": "287419e44a11c4a58732ef5ea7b0c51709be3279"
 }

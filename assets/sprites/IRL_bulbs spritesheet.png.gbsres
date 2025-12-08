@@ -3,8 +3,6 @@
   "id": "eeff2693-385d-4775-adee-8069756113df",
   "name": "IRL_bulbs spritesheet",
   "symbol": "sprite_irl_bulbs_spriteshee",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "e21cfed7-047b-4d11-b738-367f2fefb2d7",
@@ -436,13 +434,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_bulbs spritesheet.png",
+  "width": 64,
+  "height": 64,
   "checksum": "a3c054cd038d6dc2c350b45eef503678934bacaf"
 }

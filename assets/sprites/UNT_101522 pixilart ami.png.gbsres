@@ -3,8 +3,6 @@
   "id": "cf8aaa34-9bc0-4655-9e58-669997428fbb",
   "name": "UNT_101522 pixilart ami",
   "symbol": "sprite_unt_101522_pixilart_",
-  "width": 640,
-  "height": 640,
   "states": [
     {
       "id": "7ef89837-3947-4e4a-8bdc-30634bd7aeda",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_101522 pixilart ami.png",
+  "width": 640,
+  "height": 640,
   "checksum": "c89b501d535fe60b4dcf307602ae840c9e5ca769"
 }

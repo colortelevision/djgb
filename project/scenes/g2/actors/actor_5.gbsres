@@ -1,20 +1,25 @@
 {
   "_resourceType": "actor",
   "id": "110517ea-fac2-4b0f-9607-8791926bef4b",
+  "_index": 5,
+  "symbol": "actor_40",
+  "prefabId": "",
   "name": "",
+  "coordinateType": "tiles",
+  "x": 10,
+  "y": 51,
   "frame": 0,
   "animate": false,
   "spriteSheetId": "7292498e-e29a-4f26-9f25-b73a9f218b54",
-  "prefabId": "",
+  "paletteId": "",
   "direction": "down",
   "moveSpeed": 1,
   "animSpeed": 15,
-  "paletteId": "",
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "1",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_40",
   "script": [
     {
       "id": "4036a635-57ce-450d-9360-da486c906ab1",
@@ -57,7 +62,11 @@
               },
               "moveType": "horizontal",
               "useCollisions": true,
-              "__collapse": true
+              "__collapse": true,
+              "collideWith": [
+                "walls",
+                "actors"
+              ]
             },
             "id": "cee2b6b9-0609-4eae-b589-a0a484beb11a"
           }
@@ -147,7 +156,11 @@
                     },
                     "moveType": "horizontal",
                     "useCollisions": true,
-                    "__collapse": false
+                    "__collapse": false,
+                    "collideWith": [
+                      "walls",
+                      "actors"
+                    ]
                   },
                   "id": "803ff4f6-6de5-4cef-9003-b6ceb4472627"
                 }
@@ -177,7 +190,11 @@
                           },
                           "moveType": "horizontal",
                           "useCollisions": true,
-                          "__collapse": false
+                          "__collapse": false,
+                          "collideWith": [
+                            "walls",
+                            "actors"
+                          ]
                         },
                         "id": "69725d88-fa0b-4f25-bb3d-7bf521dbca1f"
                       }
@@ -299,8 +316,5 @@
   ],
   "hit1Script": [],
   "hit2Script": [],
-  "hit3Script": [],
-  "x": 10,
-  "y": 51,
-  "_index": 5
+  "hit3Script": []
 }

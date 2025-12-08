@@ -3,8 +3,6 @@
   "id": "dfa75239-299d-41fe-a6cd-9e9438da1938",
   "name": "npc001",
   "symbol": "sprite_npc001",
-  "width": 48,
-  "height": 16,
   "states": [
     {
       "id": "5b288202-b73c-4afe-a3eb-eca2823e6f8f",
@@ -169,14 +167,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "npc001.png",
-  "checksum": "325c2370daedcc0afc0f8e6df58e4da01731dfc3",
-  "numFrames": 3
+  "width": 48,
+  "height": 16,
+  "checksum": "325c2370daedcc0afc0f8e6df58e4da01731dfc3"
 }

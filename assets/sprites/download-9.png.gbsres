@@ -3,8 +3,6 @@
   "id": "43b5d1d9-2b74-41a4-bbd3-1038b517426b",
   "name": "download-9",
   "symbol": "sprite_download_9",
-  "width": 56,
-  "height": 56,
   "states": [
     {
       "id": "14b0533b-bca8-4e3e-ac4e-3f8aa0e20e5d",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "download-9.png",
+  "width": 56,
+  "height": 56,
   "checksum": "fabf474e6f0e25519ed4fc4a8e528d8efe772ce8"
 }

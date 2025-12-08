@@ -3,8 +3,6 @@
   "id": "10ad5969-f0df-4fbb-bb23-227d993b6f44",
   "name": "SD_110722 cricket",
   "symbol": "sprite_sd_110722_cricket",
-  "width": 85,
-  "height": 80,
   "states": [
     {
       "id": "32cd8a8f-4786-4035-8333-c0aa8db27a67",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_110722 cricket.png",
+  "width": 85,
+  "height": 80,
   "checksum": "3b3b0c64ae2bfae8059a5d0b69b1a8d283b367d6"
 }

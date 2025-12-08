@@ -3,8 +3,6 @@
   "id": "2b67e870-d37b-4da0-bad7-08d95ac9716a",
   "name": "RPG_Zero_style",
   "symbol": "sprite_rpg_zero_style",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "ced90c18-24a0-407f-89cf-0711d2b32c10",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "RPG_Zero_style.png",
+  "width": 96,
+  "height": 16,
   "checksum": "a1baf12f8582703277fb15191bce6276e4ff0a2e"
 }

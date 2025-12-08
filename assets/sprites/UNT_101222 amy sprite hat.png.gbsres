@@ -3,8 +3,6 @@
   "id": "d36709de-6a0f-4df1-bd25-6ce1b9966116",
   "name": "UNT_101222 amy sprite hat",
   "symbol": "sprite_unt_101222_amy_sprit",
-  "width": 36,
-  "height": 62,
   "states": [
     {
       "id": "6674b5c6-26f7-4959-9253-e7882663cb1e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_101222 amy sprite hat.png",
+  "width": 36,
+  "height": 62,
   "checksum": "7e23c50ec7daa2a6ae1204cd19dd927bcdf0a6a1"
 }

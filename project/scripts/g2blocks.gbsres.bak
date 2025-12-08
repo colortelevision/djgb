@@ -4,14 +4,19 @@
   "name": "g2Blocks",
   "description": "",
   "variables": {},
-  "actors": {},
+  "actors": {
+    "0": {
+      "id": "0",
+      "name": "Actor A"
+    }
+  },
   "symbol": "script_19",
   "script": [
     {
       "id": "85b5d5b1-df0b-4151-bae8-b674bd0adaaf",
       "command": "EVENT_GROUP",
       "args": {
-        "__collapse": true
+        "__collapse": false
       },
       "children": {
         "true": [
@@ -21,7 +26,7 @@
               "actorId": "$self$",
               "spriteStateId": "dance",
               "loopAnim": false,
-              "__collapse": false,
+              "__collapse": true,
               "__comment": true
             },
             "id": "e7dc8cdd-43ee-4d5b-9b9b-a0a9d7f91151"
@@ -40,16 +45,16 @@
             "args": {
               "actorId": "player",
               "operation": "up",
-              "otherActorId": "$self$",
-              "__collapseElse": true,
-              "__collapse": true
+              "otherActorId": "0",
+              "__collapseElse": false,
+              "__collapse": false
             },
             "children": {
               "true": [
                 {
                   "command": "EVENT_ACTOR_MOVE_RELATIVE",
                   "args": {
-                    "actorId": "$self$",
+                    "actorId": "0",
                     "x": {
                       "type": "number",
                       "value": 0
@@ -71,15 +76,15 @@
                   "args": {
                     "actorId": "player",
                     "operation": "down",
-                    "otherActorId": "$self$",
-                    "__collapseElse": true
+                    "otherActorId": "0",
+                    "__collapseElse": false
                   },
                   "children": {
                     "true": [
                       {
                         "command": "EVENT_ACTOR_MOVE_RELATIVE",
                         "args": {
-                          "actorId": "$self$",
+                          "actorId": "0",
                           "x": {
                             "type": "number",
                             "value": 0
@@ -106,7 +111,7 @@
           {
             "command": "EVENT_IF_ACTOR_AT_POSITION",
             "args": {
-              "actorId": "$self$",
+              "actorId": "0",
               "x": {
                 "type": "number",
                 "value": 4
@@ -115,7 +120,7 @@
                 "type": "number",
                 "value": 11
               },
-              "__collapseElse": true
+              "__collapseElse": false
             },
             "children": {
               "true": [
@@ -124,9 +129,9 @@
                   "args": {
                     "actorId": "player",
                     "operation": "up",
-                    "otherActorId": "$self$",
-                    "__collapseElse": true,
-                    "__collapse": true
+                    "otherActorId": "0",
+                    "__collapseElse": false,
+                    "__collapse": false
                   },
                   "children": {
                     "true": [
@@ -138,73 +143,75 @@
                         "id": "2df725f0-7b77-4628-b280-a1a505382f1a"
                       }
                     ],
-                    "false": []
+                    "false": [
+                      {
+                        "command": "EVENT_IF_ACTOR_RELATIVE_TO_ACTOR",
+                        "args": {
+                          "actorId": "player",
+                          "operation": "down",
+                          "otherActorId": "0",
+                          "__collapseElse": false,
+                          "__collapse": false
+                        },
+                        "children": {
+                          "true": [],
+                          "false": []
+                        },
+                        "id": "95f6aa75-ce48-42cb-ac56-b369079d2ad8"
+                      }
+                    ]
                   },
                   "id": "89a28ff2-43ae-4b63-8acf-559b5b0df033"
-                },
-                {
-                  "command": "EVENT_IF_ACTOR_RELATIVE_TO_ACTOR",
-                  "args": {
-                    "actorId": "player",
-                    "operation": "down",
-                    "otherActorId": "$self$",
-                    "__collapseElse": true,
-                    "__collapse": true
-                  },
-                  "children": {
-                    "true": [],
-                    "false": []
-                  },
-                  "id": "95f6aa75-ce48-42cb-ac56-b369079d2ad8"
                 }
               ],
-              "false": []
-            },
-            "id": "46b1d471-346e-4ecf-bff3-77b04214f65c"
-          },
-          {
-            "command": "EVENT_IF_ACTOR_AT_POSITION",
-            "args": {
-              "actorId": "$self$",
-              "x": {
-                "type": "number",
-                "value": 4
-              },
-              "y": {
-                "type": "number",
-                "value": 28
-              },
-              "__collapseElse": true
-            },
-            "children": {
-              "true": [
+              "false": [
                 {
-                  "command": "EVENT_IF_ACTOR_RELATIVE_TO_ACTOR",
+                  "command": "EVENT_IF_ACTOR_AT_POSITION",
                   "args": {
-                    "actorId": "player",
-                    "operation": "down",
-                    "otherActorId": "$self$",
-                    "__collapseElse": true,
-                    "__collapse": true
+                    "actorId": "0",
+                    "x": {
+                      "type": "number",
+                      "value": 4
+                    },
+                    "y": {
+                      "type": "number",
+                      "value": 28
+                    },
+                    "__collapseElse": true
                   },
                   "children": {
                     "true": [
                       {
-                        "command": "EVENT_CALL_CUSTOM_EVENT",
+                        "command": "EVENT_IF_ACTOR_RELATIVE_TO_ACTOR",
                         "args": {
-                          "customEventId": "421fefc8-449b-4a25-b667-2a605b9b8fdf"
+                          "actorId": "player",
+                          "operation": "down",
+                          "otherActorId": "0",
+                          "__collapseElse": true,
+                          "__collapse": false
                         },
-                        "id": "5a21864a-e250-40d5-ab01-7bbe0c6fd7aa"
+                        "children": {
+                          "true": [
+                            {
+                              "command": "EVENT_CALL_CUSTOM_EVENT",
+                              "args": {
+                                "customEventId": "421fefc8-449b-4a25-b667-2a605b9b8fdf"
+                              },
+                              "id": "5a21864a-e250-40d5-ab01-7bbe0c6fd7aa"
+                            }
+                          ],
+                          "false": []
+                        },
+                        "id": "9c2f61a0-561d-4a4f-bf55-34311fd972cb"
                       }
                     ],
                     "false": []
                   },
-                  "id": "9c2f61a0-561d-4a4f-bf55-34311fd972cb"
+                  "id": "9fadc8a2-dd07-49f1-8f3c-3a4189d1db59"
                 }
-              ],
-              "false": []
+              ]
             },
-            "id": "9fadc8a2-dd07-49f1-8f3c-3a4189d1db59"
+            "id": "46b1d471-346e-4ecf-bff3-77b04214f65c"
           }
         ]
       }

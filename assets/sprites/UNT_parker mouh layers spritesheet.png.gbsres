@@ -3,8 +3,6 @@
   "id": "1abfc238-cf96-4b08-a9e6-7303db3d053c",
   "name": "UNT_parker mouh layers spritesheet",
   "symbol": "sprite_unt_parker_mouh_laye",
-  "width": 48,
-  "height": 16,
   "states": [
     {
       "id": "536442ca-9cde-47aa-afbe-95ea6bfe753b",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_parker mouh layers spritesheet.png",
+  "width": 48,
+  "height": 16,
   "checksum": "6aad76464e3e0b8a2d1b1491b37c4938008c9575"
 }

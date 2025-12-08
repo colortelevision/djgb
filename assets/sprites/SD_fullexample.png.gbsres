@@ -3,8 +3,6 @@
   "id": "a0452d22-2672-43b0-ad47-0132f0328fad",
   "name": "SD_fullexample",
   "symbol": "sprite_sd_fullexample",
-  "width": 640,
-  "height": 96,
   "states": [
     {
       "id": "6e59e171-be3f-4142-92fb-8b6d7f0ad35f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_fullexample.png",
+  "width": 640,
+  "height": 96,
   "checksum": "f300ed6c8431205150f907593c8ac4e31e8381b5"
 }

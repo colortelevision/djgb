@@ -3,8 +3,6 @@
   "id": "181ebe7b-8694-4ee3-9beb-a6786c015d23",
   "name": "STICKDEATHSTAB",
   "symbol": "sprite_stickdeathstab",
-  "width": 96,
-  "height": 32,
   "states": [
     {
       "id": "7d6e2013-9db6-4f8b-9455-9182969d4b46",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "STICKDEATHSTAB.png",
+  "width": 96,
+  "height": 32,
   "checksum": "8e2ab3396380eb02c9b5d5b5db53c1745d0b206f"
 }

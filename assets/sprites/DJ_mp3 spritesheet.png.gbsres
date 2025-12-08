@@ -3,8 +3,6 @@
   "id": "58bb6d41-b405-40bf-95d9-5c0f984904ef",
   "name": "DJ_mp3 spritesheet",
   "symbol": "sprite_dj_mp3_spritesheet",
-  "width": 16,
-  "height": 64,
   "states": [
     {
       "id": "f6f279d3-2618-48b9-803c-8980fc77312a",
@@ -344,13 +342,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 8,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "DJ_mp3 spritesheet.png",
+  "width": 16,
+  "height": 64,
   "checksum": "e7afbe0faa796ebd879ebf502f519073a2296723"
 }

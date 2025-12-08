@@ -3,8 +3,6 @@
   "id": "ccc745d0-6a8f-4534-ba05-346d485db3ec",
   "name": "SD_112222 stick dueling RPG GB Sprite sheet 16px",
   "symbol": "sprite_sd_112222_stick_duel",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "a4c16c2d-7b29-4516-8b40-0562067fd042",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_112222 stick dueling RPG GB Sprite sheet 16px.png",
+  "width": 96,
+  "height": 16,
   "checksum": "136bb499a2dea4befb690aa2623b0eafcc4f96d7"
 }

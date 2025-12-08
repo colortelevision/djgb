@@ -3,8 +3,6 @@
   "id": "1fe1b42e-365b-42f5-933c-8723de9aa128",
   "name": "SD_PLAT_112222 STICK DUEL PLATFORM SPRITESHEET",
   "symbol": "sprite_sd_plat_112222_stick",
-  "width": 88,
-  "height": 160,
   "states": [
     {
       "id": "df4c1067-02b8-43b9-9559-8c53e6f00180",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_PLAT_112222 STICK DUEL PLATFORM SPRITESHEET.png",
+  "width": 88,
+  "height": 160,
   "checksum": "19e376e57c886e9f36e84b11fdd759cbe1a942b2"
 }

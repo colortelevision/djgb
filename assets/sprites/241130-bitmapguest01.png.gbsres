@@ -3,8 +3,6 @@
   "id": "c707d1f6-5931-4173-bc75-a348f44f3999",
   "name": "241130-bitmapguest01",
   "symbol": "sprite_241130_bitmapguest01",
-  "width": 64,
-  "height": 32,
   "states": [
     {
       "id": "b2c0fb68-a259-4505-85d1-105776da189c",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "241130-bitmapguest01.png",
+  "width": 64,
+  "height": 32,
   "checksum": "08371334c6f0bb73eea6740b46aa5fe1cfe5eaf1"
 }

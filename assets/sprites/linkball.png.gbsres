@@ -3,8 +3,6 @@
   "id": "d808b961-fdf7-401d-9d5d-4c1337d92486",
   "name": "linkball",
   "symbol": "sprite_linkball",
-  "width": 8,
-  "height": 16,
   "states": [
     {
       "id": "2a97d382-8c01-4913-806a-2c0c6ff5e0d4",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "linkball.png",
+  "width": 8,
+  "height": 16,
   "checksum": "891bd1ae9a39eda46875536ec9cead28b1f71334"
 }

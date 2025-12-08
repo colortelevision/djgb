@@ -3,8 +3,6 @@
   "id": "8bd44752-7e8e-4a7e-999e-435ed524d409",
   "name": "UNT_110122 x4 portraits and doodies",
   "symbol": "sprite_unt_110122_x4_portra",
-  "width": 160,
-  "height": 144,
   "states": [
     {
       "id": "da5648ba-ab05-42bb-88c8-bdfd487834ad",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_110122 x4 portraits and doodies.png",
+  "width": 160,
+  "height": 144,
   "checksum": "e16fd45f5ec535ae85a1610d935e2a2289ec484b"
 }

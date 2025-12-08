@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "1e03fd63-5af8-4889-bf65-60be1b50bb1c",
+  "name": "UNT_CTV_1",
+  "symbol": "sprite_unt_ctv_1",
+  "width": 16,
+  "height": 32,
+  "states": [
+    {
+      "id": "697995b9-b634-4f3a-a2fa-d274ccaa1cd8",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "33a3ed55-d09e-48d4-9f04-4596b7a5d30a",
+          "frames": [
+            {
+              "id": "9745fb3c-2648-484b-b3ab-d24846f37ba2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "54d6c0b2-d83a-4e37-91c0-3b9d2e4b209e",
+          "frames": [
+            {
+              "id": "cf711db2-da39-42e5-ab46-0ff7b028cba7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "583869f2-d1a5-4c0e-8fa9-119a45b2e54d",
+          "frames": [
+            {
+              "id": "fd6fc51c-5cf7-41b4-8195-06781a344385",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eba4e601-9304-4289-91eb-ad399f7d4a0e",
+          "frames": [
+            {
+              "id": "8963f1eb-ab74-48df-9cbc-986a33b877cc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5c42f0f6-2779-4b41-984b-847e83039946",
+          "frames": [
+            {
+              "id": "554c81f7-d30c-4952-841f-1f554e378424",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "29fd325a-ad36-4eea-883d-537143caa948",
+          "frames": [
+            {
+              "id": "9edfe9ca-8005-4e22-805c-22ca95dee486",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "41651ac5-6642-42e1-86fb-7f68505df05d",
+          "frames": [
+            {
+              "id": "231d2b42-5d60-4316-9593-a4664a4ae411",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "701de07e-f2f0-403a-8caf-130c49a5c4be",
+          "frames": [
+            {
+              "id": "c9c2b772-488f-4896-b42d-57d21f71de91",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_CTV_1.png",
+  "checksum": "0cd48fd34825c73d14adc19cb93ffc7c181b25a6"
+}

@@ -3,8 +3,6 @@
   "id": "a890a14b-e615-43e0-8314-9e2f75a6e1a2",
   "name": "GV_Accountable Ant copy",
   "symbol": "sprite_gv_accountable_ant_c",
-  "width": 32,
-  "height": 32,
   "states": [
     {
       "id": "ae6b5ca9-5645-4b24-abd2-3e580a33710f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GV_Accountable Ant copy.png",
+  "width": 32,
+  "height": 32,
   "checksum": "256b97ee20c3e1a478305f8835c542a2ef940574"
 }

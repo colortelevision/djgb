@@ -3,8 +3,6 @@
   "id": "a827b612-578f-4cb9-a2bf-fd54b197b83f",
   "name": "cursor",
   "symbol": "sprite_cursor",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "37b70c65-d4b4-4236-bcef-457378a001dc",
@@ -200,14 +198,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "cursor.png",
-  "checksum": "1f21ce7ede568c59e378eec3bce19e7abe50414a",
-  "numFrames": 2
+  "width": 32,
+  "height": 16,
+  "checksum": "1f21ce7ede568c59e378eec3bce19e7abe50414a"
 }

@@ -3,8 +3,6 @@
   "id": "336e60cc-21ef-4f9c-9bbf-b94726f8f4f2",
   "name": "UNT_Matt sprite sheet RPG ",
   "symbol": "sprite_unt_matt_sprite_shee",
-  "width": 129,
-  "height": 32,
   "states": [
     {
       "id": "9b8c9742-210f-4e23-949b-f4f31c3a69c0",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_Matt sprite sheet RPG .png",
+  "width": 129,
+  "height": 32,
   "checksum": "07a4c7030ea83fe28f60ab276c8a9ca357174758"
 }

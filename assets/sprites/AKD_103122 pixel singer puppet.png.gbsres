@@ -3,8 +3,6 @@
   "id": "c3e182df-7adc-4189-8a3d-c6ce3e3ab8b0",
   "name": "AKD_103122 pixel singer puppet",
   "symbol": "sprite_akd_103122_pixel_sin",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "3206d23d-bf68-494f-b1ca-6a424d34646d",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "AKD_103122 pixel singer puppet.png",
+  "width": 64,
+  "height": 64,
   "checksum": "3ba76e30d5bda943e98316760ab5372c12e14bd0"
 }

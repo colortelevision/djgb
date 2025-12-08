@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "09881972-28d6-4176-acc7-faa881de88c7",
+  "name": "SD_stickmanplatformer",
+  "symbol": "sprite_sd_stickmanplatforme",
+  "width": 416,
+  "height": 91,
+  "states": [
+    {
+      "id": "3c7b8469-71a3-4ea4-a115-d438e55291e4",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "ca025a6c-7c6f-4a63-97f8-b1a2a65ff3cf",
+          "frames": [
+            {
+              "id": "c47a6606-ad14-4366-a5e0-bc5fb772bedf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "99ac552c-ef1c-4afa-bffa-a6caa093b673",
+          "frames": [
+            {
+              "id": "11be7b8c-6684-4442-9115-8312b6920122",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b01273af-3f6e-4600-8dba-932057e3e370",
+          "frames": [
+            {
+              "id": "23242359-4158-4e24-9ec8-ff1d7c44f427",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e6177b21-a2a2-4a33-b6ef-9b886d1e581d",
+          "frames": [
+            {
+              "id": "a98e227b-fc1c-4d3a-b47e-52b63458cff4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a0d6417-8dff-4ccf-8a48-2909cbbeaffa",
+          "frames": [
+            {
+              "id": "e03417ee-a721-4491-8f0e-a9cd609bbd52",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0d906010-73e2-43f6-b594-b2444904d55a",
+          "frames": [
+            {
+              "id": "78758431-d8b7-4afd-a3f7-6f368bfc6e6c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a1b8263f-d174-4b96-af16-7285c7e8767c",
+          "frames": [
+            {
+              "id": "879ce7c7-fb80-4e8a-a8c9-b333e591ac76",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6a345ec9-3cf1-4c63-ac99-97efc0c84d33",
+          "frames": [
+            {
+              "id": "ce5761c3-035c-4833-9708-0b87c9a7e440",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_stickmanplatformer.png",
+  "checksum": "a88f4722ae8c8bdb7d65c84b193b8e372fa033a9"
+}

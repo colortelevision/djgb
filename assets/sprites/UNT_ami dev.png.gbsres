@@ -3,8 +3,6 @@
   "id": "1d7607df-7053-4cd1-babe-9c64d2545a08",
   "name": "UNT_ami dev",
   "symbol": "sprite_unt_ami_dev",
-  "width": 29,
-  "height": 51,
   "states": [
     {
       "id": "5666189e-113e-4c67-b1f7-bca1fc4884f1",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_ami dev.png",
+  "width": 29,
+  "height": 51,
   "checksum": "ac0a393243e2713ebf466916db19aa8e673686e8"
 }

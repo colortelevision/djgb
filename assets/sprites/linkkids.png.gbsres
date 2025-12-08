@@ -3,8 +3,6 @@
   "id": "3e50b9e3-ea5e-48cb-895c-625fac191bb4",
   "name": "linkkids",
   "symbol": "sprite_linkkids",
-  "width": 16,
-  "height": 32,
   "states": [
     {
       "id": "6aa3b7ec-8436-42d5-84ca-ee37b96fdd86",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "linkkids.png",
+  "width": 16,
+  "height": 32,
   "checksum": "48db2fd48a96ace61213c006e78693072fe4f246"
 }

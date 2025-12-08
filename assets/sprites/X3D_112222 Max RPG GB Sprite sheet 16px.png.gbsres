@@ -3,8 +3,6 @@
   "id": "cba0a3c0-3102-4e17-bbc0-67fae321823a",
   "name": "X3D_112222 Max RPG GB Sprite sheet 16px",
   "symbol": "sprite_x3d_112222_max_rpg_g",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "3ddec3ce-ee40-4118-88a6-257e846d93ea",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "X3D_112222 Max RPG GB Sprite sheet 16px.png",
+  "width": 96,
+  "height": 16,
   "checksum": "d00ac96dac56d3424608da86df80e31b49bd7060"
 }

@@ -3,8 +3,6 @@
   "id": "a9ee1856-b62b-49d8-8eb3-cdf681fa2e76",
   "name": "npc008",
   "symbol": "sprite_npc008",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "21abdb79-120a-4ec7-aacf-0872c83be15d",
@@ -374,14 +372,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "npc008.png",
-  "checksum": "70a7f36d8770fca9ac372b912a1694a5cdcdaa21",
-  "numFrames": 6
+  "width": 96,
+  "height": 16,
+  "checksum": "70a7f36d8770fca9ac372b912a1694a5cdcdaa21"
 }

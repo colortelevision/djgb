@@ -3,8 +3,6 @@
   "id": "0c4bd46f-69da-4d4f-b562-350ed5e6e156",
   "name": "DJ_note Spritesheet",
   "symbol": "sprite_dj_note_spritesheet",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "cb7eeb5d-ef18-4664-a11e-b6c4255a3786",
@@ -373,13 +371,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "DJ_note Spritesheet.png",
+  "width": 64,
+  "height": 16,
   "checksum": "738cd3059cac686e8a98c806de7a60968f7914fc"
 }

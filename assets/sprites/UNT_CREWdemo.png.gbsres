@@ -3,8 +3,6 @@
   "id": "c797dc0c-6786-42c4-8ffa-521e7fde90aa",
   "name": "UNT_CREWdemo",
   "symbol": "sprite_unt_crewdemo",
-  "width": 160,
-  "height": 144,
   "states": [
     {
       "id": "89c43045-1a17-4509-9d53-66c410b9aaa5",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_CREWdemo.png",
+  "width": 160,
+  "height": 144,
   "checksum": "4dfb241d796e65df001c61e074a093b16aa16c7e"
 }

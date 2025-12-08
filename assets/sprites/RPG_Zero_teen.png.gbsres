@@ -3,8 +3,6 @@
   "id": "4a7aad4f-3fe2-4981-b384-34c16964fc84",
   "name": "RPG_Zero_teen",
   "symbol": "sprite_rpg_zero_teen",
-  "width": 128,
-  "height": 16,
   "states": [
     {
       "id": "e20f2ce2-db40-4ad7-81c8-ef06ea27ae54",
@@ -332,13 +330,17 @@
     }
   ],
   "numTiles": 16,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "RPG_Zero_teen.png",
+  "width": 128,
+  "height": 16,
   "checksum": "26eb86fd485ad8065ed768cda15945da3a4d788b"
 }

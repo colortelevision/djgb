@@ -3,8 +3,6 @@
   "id": "8581cc56-7d3d-4fd6-9979-3c83912568b7",
   "name": "UNT_RYU PKMN style",
   "symbol": "sprite_unt_ryu_pkmn_style",
-  "width": 43,
-  "height": 56,
   "states": [
     {
       "id": "cf8c2b62-6b23-4a64-9507-994038358125",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_RYU PKMN style.png",
+  "width": 43,
+  "height": 56,
   "checksum": "c5b0fd145c0b20b51e2bd624327cdbb564d7c100"
 }

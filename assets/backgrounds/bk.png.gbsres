@@ -3,10 +3,10 @@
   "id": "93d8e2f9-db43-4de0-95e0-2e3b05501fc6",
   "name": "bk",
   "symbol": "bg_bk",
+  "tileColors": "",
   "width": 20,
   "height": 18,
   "imageWidth": 160,
   "imageHeight": 144,
-  "tileColors": "",
   "filename": "bk.png"
 }

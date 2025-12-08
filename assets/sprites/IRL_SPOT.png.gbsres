@@ -3,8 +3,6 @@
   "id": "46ec50a5-b2ff-47e2-b664-a69f3c0650c7",
   "name": "IRL_SPOT",
   "symbol": "sprite_irl_spot",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "84ec3ebd-7a44-435e-b3c4-0736bd90386f",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_SPOT.png",
+  "width": 32,
+  "height": 16,
   "checksum": "ef47e6f2bebce78c29a292c5e6e956aab426db2a"
 }

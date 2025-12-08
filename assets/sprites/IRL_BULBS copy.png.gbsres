@@ -3,8 +3,6 @@
   "id": "73282b33-fbba-43f9-b7df-c952d34e25c9",
   "name": "IRL_BULBS copy",
   "symbol": "sprite_irl_bulbs_copy",
-  "width": 112,
-  "height": 64,
   "states": [
     {
       "id": "84e9f7c4-731c-428a-820c-d29784b79d89",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_BULBS copy.png",
+  "width": 112,
+  "height": 64,
   "checksum": "9e1b537153664b62c8034ad82ea10ca4e79d7659"
 }

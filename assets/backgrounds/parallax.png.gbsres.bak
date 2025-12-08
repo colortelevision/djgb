@@ -7,7 +7,7 @@
   "height": 18,
   "imageWidth": 640,
   "imageHeight": 144,
-  "tileColors": "04320+05190+00f0+",
+  "tileColors": "02320+05190+00f0+",
   "filename": "parallax.png",
   "autoColor": false
 }

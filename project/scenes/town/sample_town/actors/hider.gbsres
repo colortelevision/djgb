@@ -5,6 +5,7 @@
   "symbol": "actor_hider",
   "prefabId": "",
   "name": "Hider",
+  "coordinateType": "tiles",
   "x": 36,
   "y": 24,
   "frame": 0,
@@ -17,6 +18,7 @@
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "script": [
     {

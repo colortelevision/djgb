@@ -3,8 +3,6 @@
   "id": "4f5fb65e-3ba9-4512-b771-6418a4c30865",
   "name": "SD_RPG_STICK",
   "symbol": "sprite_sd_rpg_stick",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "3a66b369-2858-493c-a904-cb1e5da450d6",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_RPG_STICK.png",
+  "width": 96,
+  "height": 16,
   "checksum": "e588c3465ce4624dfcfe6b8492868a1f14db4e34"
 }

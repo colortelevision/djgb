@@ -3,8 +3,6 @@
   "id": "34f64ede-bc64-455c-a8d5-76b082149a76",
   "name": "UNT_ami sprite attempt",
   "symbol": "sprite_unt_ami_sprite_attem",
-  "width": 24,
-  "height": 40,
   "states": [
     {
       "id": "a366434a-d952-4d36-bb3c-3d0eb8c378f3",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_ami sprite attempt.png",
+  "width": 24,
+  "height": 40,
   "checksum": "339417916cb9275c563bbcb6d3f27dfeba9b62fe"
 }

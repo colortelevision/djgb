@@ -3,8 +3,6 @@
   "id": "e67703ce-9721-498b-aa6f-8a97796827c1",
   "name": "blocknull",
   "symbol": "sprite_blocknull",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "8eae623f-72f3-41cb-b931-45cb6915bf80",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "blocknull.png",
+  "width": 16,
+  "height": 16,
   "checksum": "b2e5b534829c79fa23f51b746b42aba66e97da96"
 }

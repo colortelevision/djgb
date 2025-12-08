@@ -3,8 +3,6 @@
   "id": "e07eef76-56db-4703-80eb-0f5823b77d22",
   "name": "mrfuji",
   "symbol": "sprite_mrfuji",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "cbfb2db8-bcd2-43da-9d97-26d36c1f17a1",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "mrfuji.png",
+  "width": 16,
+  "height": 96,
   "checksum": "4cc10827ed58e970fad77c81f24f9f254774f38c"
 }

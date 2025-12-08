@@ -3,8 +3,6 @@
   "id": "3c0534fa-44fc-4b6e-8504-c60f9e095c8b",
   "name": "GIRLTEST",
   "symbol": "sprite_girltest",
-  "width": 64,
-  "height": 96,
   "states": [
     {
       "id": "4fb68f81-048c-495f-beb9-6f27e915fd6a",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GIRLTEST.png",
+  "width": 64,
+  "height": 96,
   "checksum": "8bce18c4944569cb9233271dcecc9364737409f0"
 }

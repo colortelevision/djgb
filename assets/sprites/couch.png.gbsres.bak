@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "956248ca-1b03-48ce-be88-fdfff61b1b94",
+  "name": "couch",
+  "symbol": "sprite_couch",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "b240ad50-e825-4fb1-af66-157b56010b69",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "435ecd58-1790-43df-b599-b12caf1b2a5e",
+          "frames": [
+            {
+              "id": "934f0f8a-0739-434c-b432-e4112eb320fd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1307225e-1236-45a2-ba2e-700d3bd5fe25",
+          "frames": [
+            {
+              "id": "c521f960-014e-4854-a01f-1f64d07e8a2b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6926ecbb-8cd0-44cf-ac15-8371f9d16e81",
+          "frames": [
+            {
+              "id": "73a281cb-a826-4410-903c-81d514168f1c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a73ed274-1861-48cf-8305-23c57b589666",
+          "frames": [
+            {
+              "id": "64039c2a-3e22-40f9-b9d9-267ea63ae784",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fac8a548-691e-4c01-bcaf-14ea4afbb38b",
+          "frames": [
+            {
+              "id": "dff31843-aa03-41fe-b025-fb2e7c5b63de",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "950b5d1e-d1ff-4c6a-b9b9-79870d114ab5",
+          "frames": [
+            {
+              "id": "85d288a7-5518-415b-b982-8c6eb383cd0d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "01d2f444-a152-4d78-8232-d4dfe3e18002",
+          "frames": [
+            {
+              "id": "f769b05f-af17-415f-bc7e-9a5be9a8a991",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a3136eca-c405-4461-8184-b4bd783e86a5",
+          "frames": [
+            {
+              "id": "0d7973c6-af99-432a-aace-e4ef7671c345",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "couch.png",
+  "checksum": "4a88ab63ed9720b1824921d575f1dc0c48ca3b3c"
+}

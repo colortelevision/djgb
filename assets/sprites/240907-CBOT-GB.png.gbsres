@@ -3,8 +3,6 @@
   "id": "92382ed4-22eb-437d-985d-1a83a1da1909",
   "name": "240907-CBOT-GB",
   "symbol": "sprite_240907_cbot_gb",
-  "width": 80,
-  "height": 16,
   "states": [
     {
       "id": "b5c70c91-371d-44c0-a7d5-a3e32c4a46ad",
@@ -564,13 +562,17 @@
     }
   ],
   "numTiles": 9,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "240907-CBOT-GB.png",
+  "width": 80,
+  "height": 16,
   "checksum": "53af323cab2d36b641f4187c0ad5c890293c071d"
 }

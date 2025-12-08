@@ -3,8 +3,6 @@
   "id": "e263b102-22ef-44fc-a5df-bc0491d71cb7",
   "name": "X3D_x3d_scanner",
   "symbol": "sprite_x3d_x3d_scanner",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "86692b17-7d42-49ef-bbce-531091b91e78",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "X3D_x3d_scanner.png",
+  "width": 16,
+  "height": 16,
   "checksum": "a8ac18aabcb2112eac4c69b7d8e9f39ad166bf70"
 }

@@ -3,8 +3,6 @@
   "id": "e20ce140-53a5-4b1b-9964-138ba0c86925",
   "name": "sage",
   "symbol": "sprite_sage",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "07a01423-84ef-48c9-8a48-585919975ffb",
@@ -115,14 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "sage.png",
-  "checksum": "0f0fec264c85a7572c4dc810b886ea4a2bf8a3f5",
-  "numFrames": 1
+  "width": 16,
+  "height": 16,
+  "checksum": "0f0fec264c85a7572c4dc810b886ea4a2bf8a3f5"
 }

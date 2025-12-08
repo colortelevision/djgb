@@ -3,8 +3,6 @@
   "id": "0febbf8c-2b97-44fd-a38d-4e2df67baf8c",
   "name": "JPJ",
   "symbol": "sprite_jpj",
-  "width": 43,
-  "height": 39,
   "states": [
     {
       "id": "8f0c6a0d-99fd-4a08-9b19-2a5867c6cc02",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "JPJ.png",
+  "width": 43,
+  "height": 39,
   "checksum": "c0bca9c52f637d40842a12264e83877ee7a81794"
 }

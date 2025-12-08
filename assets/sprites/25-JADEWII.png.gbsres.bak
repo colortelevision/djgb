@@ -66,7 +66,7 @@
                 {
                   "id": "3707be74-f0b5-42ce-a3de-b346b18ddf66",
                   "x": 8,
-                  "y": 8,
+                  "y": 1,
                   "sliceX": 88,
                   "sliceY": 0,
                   "palette": 0,
@@ -79,7 +79,7 @@
                 {
                   "id": "83167230-9216-49a4-b8d5-b705ca5a582e",
                   "x": 0,
-                  "y": 7,
+                  "y": 0,
                   "sliceX": 64,
                   "sliceY": 0,
                   "palette": 0,
@@ -1455,6 +1455,86 @@
           "frames": [
             {
               "id": "7a7a6e4f-5d87-4615-a42e-0b938a0b70d4",
+              "tiles": []
+            }
+          ]
+        }
+      ],
+      "animationType": "fixed",
+      "flipLeft": true
+    },
+    {
+      "id": "b8370a60-85a6-4725-ab73-1e12c558767b",
+      "name": "New State",
+      "animations": [
+        {
+          "id": "e4c80ff3-b07f-4303-9e3b-22c655257a5b",
+          "frames": [
+            {
+              "id": "ed472ff5-d4c7-4725-a8d4-dd178cb691af",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "09fbccd4-96d6-4d2b-9563-6c12a1929289",
+          "frames": [
+            {
+              "id": "6da34321-3ddf-4adb-9b29-f1ffa1eb50fd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1a336364-d5e5-49a4-9aea-76aec516a47c",
+          "frames": [
+            {
+              "id": "863a8c60-3bb0-4d5c-ae89-bd1e32aef5eb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "35dbb8dc-727a-4d70-b38f-516ebfd86d99",
+          "frames": [
+            {
+              "id": "e0d1c835-8a42-44be-a278-efad305c62d7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f3dde6c5-ae5e-4d1c-baef-47c55b1917fe",
+          "frames": [
+            {
+              "id": "50e7863d-bc8a-4a07-97b7-593f8417f86e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "87fa8eaa-9588-4a52-9568-97b8b2e15c01",
+          "frames": [
+            {
+              "id": "4c12e1e9-c088-42e0-9669-572ca33e1439",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "96f4e33e-1718-445c-8bf9-399d5b7e4e5d",
+          "frames": [
+            {
+              "id": "ca20ddce-755b-4231-b1d2-1de3e02e65f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "de89f6f4-d731-4eb9-ac03-62943d2a52e2",
+          "frames": [
+            {
+              "id": "4ecbcbd2-eaee-4a07-9abe-0b91bc7bf292",
               "tiles": []
             }
           ]

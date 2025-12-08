@@ -3,8 +3,6 @@
   "id": "2c9ab817-24c7-463b-abe3-781ea0cfa9df",
   "name": "IRL_DJdance",
   "symbol": "sprite_irl_djdance",
-  "width": 96,
-  "height": 64,
   "states": [
     {
       "id": "cf1e7686-6b30-465e-a429-bba7baf81b4a",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_DJdance.png",
+  "width": 96,
+  "height": 64,
   "checksum": "007632b0b55170ab3bfb90182dc5cae510114cb5"
 }

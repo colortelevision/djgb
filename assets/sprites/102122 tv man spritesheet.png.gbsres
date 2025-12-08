@@ -3,8 +3,6 @@
   "id": "5a1efe17-45cf-435b-94e1-e8be00cc71ba",
   "name": "102122 tv man spritesheet",
   "symbol": "sprite_102122_tv_man_sprite",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "7227267d-5799-49cb-8a4c-82e86a65fd7b",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "102122 tv man spritesheet.png",
+  "width": 64,
+  "height": 64,
   "checksum": "38b9ff2462ed36493da692ddb70587be0a6994c7"
 }

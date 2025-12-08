@@ -3,8 +3,6 @@
   "id": "c2659150-f51a-4877-9951-21633482d4cc",
   "name": "UNT_Ami PKMN style",
   "symbol": "sprite_unt_ami_pkmn_style",
-  "width": 34,
-  "height": 53,
   "states": [
     {
       "id": "7631c859-5eb0-4504-8519-3c131bb96b81",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_Ami PKMN style.png",
+  "width": 34,
+  "height": 53,
   "checksum": "73d11a810a6493cb664406e9b3e1f5d9f5c26df1"
 }

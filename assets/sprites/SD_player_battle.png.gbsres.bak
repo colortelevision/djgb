@@ -1,0 +1,158 @@
+{
+  "_resourceType": "sprite",
+  "id": "7fe22fb1-9ad0-487e-98c5-a5f66a4141c5",
+  "name": "SD_player_battle",
+  "symbol": "sprite_sd_player_battle",
+  "width": 32,
+  "height": 16,
+  "states": [
+    {
+      "id": "5b7c879e-67d3-4225-936e-f5bbdf9c319d",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "5fe500a5-06d0-470f-bc1b-bbb0731ede27",
+          "frames": [
+            {
+              "id": "a842c0c5-b843-4e2c-aa68-345b348f5ad5",
+              "tiles": [
+                {
+                  "id": "a4657655-ef68-4d7e-98d0-803523eba31d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "92cc7b2b-0808-4ecf-9d29-c82b6f27db10",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "9264aae5-10d8-4c04-86e4-fbe3dedf34a2",
+              "tiles": [
+                {
+                  "id": "15a88bae-09df-4e1e-9275-a7bd0789cf30",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "1ebd402c-dff8-4820-a712-9b1abbd97588",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "34342c9e-2cc9-45c4-a33e-1763c0d3f087",
+          "frames": [
+            {
+              "id": "fbe03cd9-657b-4800-b470-fa0295db2c42",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a0c2fa0f-65e8-4faa-a36e-686c7d5132b7",
+          "frames": [
+            {
+              "id": "360586a6-0dfb-4101-b5e1-6946e454ccf9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1b671656-477b-46f4-957f-50a3961806d4",
+          "frames": [
+            {
+              "id": "e3c95239-1240-4218-b944-bcadc96e0fca",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1b4d8d38-f5e0-4f6e-b9bd-6581ac33492f",
+          "frames": [
+            {
+              "id": "a728d1fb-24a4-40a7-90a7-0e3fd839f8e6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5652a88f-b0fe-45ec-b550-eee86e7b5d67",
+          "frames": [
+            {
+              "id": "28b12582-6e03-44ba-a97a-1c8f6533aa36",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f96dd411-feed-4cb3-a327-94e77252410c",
+          "frames": [
+            {
+              "id": "279f6e9b-21bc-4464-8dc3-40c6ffdeffb8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1aef10b6-a5f3-4916-a510-8b9a25580d6b",
+          "frames": [
+            {
+              "id": "b88b5664-dfe3-4b1b-b985-7f38d6e18f0f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_player_battle.png",
+  "checksum": "f296a1a7e70c526d19f47a0454f5e00c7aec29c6"
+}

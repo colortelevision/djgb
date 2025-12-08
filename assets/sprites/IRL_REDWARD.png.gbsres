@@ -3,8 +3,6 @@
   "id": "62439fda-8124-416d-931a-b5759d109eae",
   "name": "IRL_REDWARD",
   "symbol": "sprite_irl_redward",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "abb6560a-f2de-4605-9030-df33e034a494",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_REDWARD.png",
+  "width": 32,
+  "height": 16,
   "checksum": "a37c356d418116ef0ef4194056a44d766a123046"
 }

@@ -3,8 +3,6 @@
   "id": "67fc75af-741d-4bf9-ad35-5801d37d8441",
   "name": "cowgirl-gif-gb",
   "symbol": "sprite_cowgirl_gif_gb",
-  "width": 96,
-  "height": 96,
   "states": [
     {
       "id": "729e2933-8845-43b5-a077-45f82e31965f",
@@ -939,13 +937,17 @@
     }
   ],
   "numTiles": 59,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "cowgirl-gif-gb.png",
+  "width": 96,
+  "height": 96,
   "checksum": "0b6f031cb19860b892ec7160b0aeb49e9d06f3ff"
 }

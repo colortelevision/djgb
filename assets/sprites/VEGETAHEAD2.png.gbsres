@@ -3,8 +3,6 @@
   "id": "46a3b597-e892-4c99-aeca-f7a8221eff79",
   "name": "VEGETAHEAD2",
   "symbol": "sprite_vegetahead2",
-  "width": 144,
-  "height": 56,
   "states": [
     {
       "id": "207f12b8-8f28-4619-95fe-3233a71c0346",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "VEGETAHEAD2.png",
+  "width": 144,
+  "height": 56,
   "checksum": "e7262ac20d089c30030e2a8369e3fe56474ed138"
 }

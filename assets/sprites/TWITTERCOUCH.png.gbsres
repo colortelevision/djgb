@@ -3,8 +3,6 @@
   "id": "60c8275d-1709-436b-b0ff-c81b625022ed",
   "name": "TWITTERCOUCH",
   "symbol": "sprite_twittercouch",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "503a7faa-ed3c-419f-8573-4362aceef727",
@@ -208,13 +206,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "TWITTERCOUCH.png",
+  "width": 64,
+  "height": 16,
   "checksum": "d47182b8435391bcc0030c9e930853599cdd274b"
 }

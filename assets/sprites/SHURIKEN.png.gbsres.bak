@@ -9,7 +9,7 @@
     {
       "id": "d74cb919-d41f-4684-962e-944c93b1e3ab",
       "name": "",
-      "animationType": "multi_movement",
+      "animationType": "fixed",
       "flipLeft": true,
       "animations": [
         {
@@ -17,7 +17,65 @@
           "frames": [
             {
               "id": "f2bf1fa3-4b1c-402d-ba64-7071ebe12a2f",
-              "tiles": []
+              "tiles": [
+                {
+                  "id": "1755cc93-9c55-431e-9566-e825840c6ba5",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": true,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "fb1c437a-709c-41c6-a196-9f598d5f7ab4",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": true,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "bf7f2b90-6a80-408d-a5d0-bfbf5414a5ff",
+              "tiles": [
+                {
+                  "id": "a887745e-9b05-4a16-85be-0c75367c7e04",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": true,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 6,
+                  "priority": false
+                },
+                {
+                  "id": "3dd7c9b4-294e-4fe9-8ce1-995dd56a1d4d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": true,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 6,
+                  "priority": false
+                }
+              ]
             }
           ]
         },
@@ -87,7 +145,7 @@
       ]
     }
   ],
-  "numTiles": 0,
+  "numTiles": 4,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,

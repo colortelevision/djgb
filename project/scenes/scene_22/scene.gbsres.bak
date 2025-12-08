@@ -2,27 +2,28 @@
   "_resourceType": "scene",
   "id": "79dd6be1-a64c-469e-8f53-5b7d7fded41c",
   "_index": 21,
+  "type": "ADVENTURE",
   "name": "Scene 22",
-  "backgroundId": "51cc3ac2-ed2a-45df-95f6-7b80d287d898",
-  "tilesetId": "",
+  "symbol": "scene_0",
+  "x": 1448,
+  "y": 30,
   "width": 48,
   "height": 24,
-  "type": "ADVENTURE",
+  "backgroundId": "51cc3ac2-ed2a-45df-95f6-7b80d287d898",
+  "tilesetId": "",
   "paletteIds": [
     "71df34a8-cef4-4807-95d8-5b7d6bf7bd53",
     "5aa84324-9f37-47d1-9121-a3710a3c4fd3",
-    null,
-    null,
+    "",
+    "",
     "a9577501-86bc-4691-a3a4-0ab8002f7d13"
   ],
   "spritePaletteIds": [
     "default-bg-4"
   ],
-  "collisions": "00c1+0119+0016+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f19+00167+",
   "autoFadeSpeed": 1,
-  "symbol": "scene_0",
-  "x": 1448,
-  "y": 30,
+  "autoFadeEventCollapse": true,
+  "playerSpriteSheetId": "2ea6144e-df05-4fb0-b52e-d14b5078ad67",
   "script": [
     {
       "command": "EVENT_CAMERA_SET_POSITION",
@@ -180,6 +181,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "playerSpriteSheetId": "2ea6144e-df05-4fb0-b52e-d14b5078ad67",
-  "autoFadeEventCollapse": true
+  "collisions": "00c1+0119+0016+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f2+0018+0f!0015+0f19+00167+"
 }

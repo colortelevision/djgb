@@ -3,8 +3,6 @@
   "id": "a2b3fbae-e0ba-47c6-b957-1b93761f6a56",
   "name": "GV_accountable ant animation",
   "symbol": "sprite_gv_accountable_ant_a",
-  "width": 96,
-  "height": 64,
   "states": [
     {
       "id": "16a0f855-322e-499b-b352-3e0ff176c8d2",
@@ -554,13 +552,17 @@
     }
   ],
   "numTiles": 21,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GV_accountable ant animation.png",
+  "width": 96,
+  "height": 64,
   "checksum": "23e5b99649b747090d4b29630a71cd5088029c70"
 }

@@ -3,10 +3,10 @@
   "id": "5f23814e-7546-4642-812b-483b38a1a70e",
   "name": "sp",
   "symbol": "bg_sp",
+  "tileColors": "01258+",
   "width": 20,
   "height": 30,
   "imageWidth": 160,
   "imageHeight": 240,
-  "tileColors": "01258+",
   "filename": "sp.png"
 }

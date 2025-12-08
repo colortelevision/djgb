@@ -1,12 +1,13 @@
 {
   "_resourceType": "settings",
-  "startSceneId": "dd66b306-22cb-4797-9def-2f7af43c9211",
-  "startX": 16,
-  "startY": 52,
+  "startSceneId": "afbca12f-bb04-41f2-bfaf-b627a9b874ce",
+  "startX": 0,
+  "startY": 6,
   "startMoveSpeed": 2,
   "startAnimSpeed": 15,
   "startDirection": "up",
   "showCollisionExtraTiles": false,
+  "showCollisionTileValues": false,
   "collisionLayerOpacity": 50,
   "sgbEnabled": false,
   "customHead": "",
@@ -83,9 +84,14 @@
     "Shift"
   ],
   "colorMode": "color",
-  "generateDebugFilesEnabled": false,
+  "colorCorrection": "default",
+  "generateDebugFilesEnabled": true,
   "compilerPreset": 3000,
   "scriptEventPresets": {},
   "scriptEventDefaultPresets": {},
-  "runSceneSelectionOnly": false
+  "runSceneSelectionOnly": false,
+  "spriteMode": "8x16",
+  "openBuildFolderOnExport": true,
+  "showRomUsageAfterBuild": false,
+  "romFilename": ""
 }

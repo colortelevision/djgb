@@ -3,8 +3,6 @@
   "id": "956248ca-1b03-48ce-be88-fdfff61b1b94",
   "name": "couch",
   "symbol": "sprite_couch",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "b240ad50-e825-4fb1-af66-157b56010b69",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "couch.png",
+  "width": 64,
+  "height": 64,
   "checksum": "4a88ab63ed9720b1824921d575f1dc0c48ca3b3c"
 }

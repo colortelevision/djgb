@@ -3,8 +3,6 @@
   "id": "39e9e495-32ca-43d3-a7b7-740cbf12e6a9",
   "name": "abutton",
   "symbol": "sprite_abutton",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "1aeaea94-3293-49f8-a449-4142a1fd88d1",
@@ -177,13 +175,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "abutton.png",
+  "width": 32,
+  "height": 16,
   "checksum": "2a78a1b7585cc8fa4483fdfbc6dbe01989f0a176"
 }

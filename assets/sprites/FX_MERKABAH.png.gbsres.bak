@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "56486d31-9291-45c0-a7c9-5969db1a2a5f",
+  "name": "FX_MERKABAH",
+  "symbol": "sprite_fx_merkabah",
+  "width": 432,
+  "height": 48,
+  "states": [
+    {
+      "id": "a403d3b9-e2c8-47ee-acc1-bd9dd01127dc",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "dc9a7cdf-c2d5-4ad6-99b7-5cb1e7afd31b",
+          "frames": [
+            {
+              "id": "9c3c95ac-bd7c-4e44-a315-df82c5f72808",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7159b9c4-9800-4d80-8793-f07202b257e0",
+          "frames": [
+            {
+              "id": "120d4ae4-afd7-4166-852b-9bcd55d1aa1d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6cfe4b18-106f-4dca-8036-fd6feceac707",
+          "frames": [
+            {
+              "id": "6bfb3df5-3580-48cc-b608-df078f1149e4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ff46b3c4-c59e-4473-8f7c-a362333025f9",
+          "frames": [
+            {
+              "id": "0f02daa3-156e-4707-be4f-5789c65af81d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "67601899-442e-4cd9-ba6a-4f11653e54d4",
+          "frames": [
+            {
+              "id": "1997188f-7312-4b4e-94da-7ae5758f236b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f1849de-9db0-495e-82db-eab8dceb6eab",
+          "frames": [
+            {
+              "id": "6e332eb2-7863-47e8-99a7-a6b08c07afb4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "84131119-6fef-4110-a05e-2cf652844cef",
+          "frames": [
+            {
+              "id": "2d644862-5b58-4117-9480-5b080f291ff8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "58c2f155-5b07-4fc1-9b93-9c311c14020d",
+          "frames": [
+            {
+              "id": "bc11477a-c79c-40fe-a6a7-1c285e54270c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "FX_MERKABAH.png",
+  "checksum": "fd1161961a381cc9b08a0fe0dae21bd00c308827"
+}

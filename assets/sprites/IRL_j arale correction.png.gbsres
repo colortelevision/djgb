@@ -3,8 +3,6 @@
   "id": "50f8105c-459d-4e06-aa90-2bee1431fc98",
   "name": "IRL_j arale correction",
   "symbol": "sprite_irl_j_arale_correcti",
-  "width": 200,
-  "height": 50,
   "states": [
     {
       "id": "39a67786-0ff5-4289-8087-1b59b84bbe1a",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_j arale correction.png",
+  "width": 200,
+  "height": 50,
   "checksum": "f4c719eced5254e3492dfa17fa7aaf426f8b7bd0"
 }

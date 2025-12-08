@@ -3,8 +3,6 @@
   "id": "b70cf3ae-255f-4764-9d24-280b37259d4e",
   "name": "UNT_Matt",
   "symbol": "sprite_unt_matt",
-  "width": 27,
-  "height": 56,
   "states": [
     {
       "id": "f4176762-7101-439b-b98b-529f690cdfb4",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_Matt.png",
+  "width": 27,
+  "height": 56,
   "checksum": "7d185aac6c7574428e4b1328818520c78311ac00"
 }

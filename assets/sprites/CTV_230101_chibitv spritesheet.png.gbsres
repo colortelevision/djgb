@@ -3,8 +3,6 @@
   "id": "75caf170-4a01-4403-bf29-5aaf35ab0ae7",
   "name": "CTV_230101_chibitv spritesheet",
   "symbol": "sprite_ctv_230101_chibitv_s",
-  "width": 64,
-  "height": 80,
   "states": [
     {
       "id": "a25aeb0b-4a47-4d9c-9f7f-db714051874a",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "CTV_230101_chibitv spritesheet.png",
+  "width": 64,
+  "height": 80,
   "checksum": "e626251a10746593c098d785d1e93428f192a14b"
 }

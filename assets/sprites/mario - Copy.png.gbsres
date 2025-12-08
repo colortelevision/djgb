@@ -3,8 +3,6 @@
   "id": "a5faa0a6-df1c-4dd6-b0ca-1210a78c6199",
   "name": "mario - Copy",
   "symbol": "sprite_mario_copy",
-  "width": 96,
-  "height": 32,
   "states": [
     {
       "id": "c4d25c2c-027d-495f-9f36-7c482e4e2193",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "mario - Copy.png",
+  "width": 96,
+  "height": 32,
   "checksum": "c5adf7c837ba5f4a47e31ed87b398b0e5caaeaa1"
 }

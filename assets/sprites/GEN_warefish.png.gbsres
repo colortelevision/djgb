@@ -3,8 +3,6 @@
   "id": "8ca382d2-3fc4-4804-b933-bd50bb9c078d",
   "name": "GEN_warefish",
   "symbol": "sprite_gen_warefish",
-  "width": 128,
-  "height": 16,
   "states": [
     {
       "id": "cc098037-dcde-4226-84f6-61b150653c5f",
@@ -332,13 +330,17 @@
     }
   ],
   "numTiles": 16,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GEN_warefish.png",
+  "width": 128,
+  "height": 16,
   "checksum": "134d1fcbb42775c5a532fcb6341f0a52c5ed76ff"
 }

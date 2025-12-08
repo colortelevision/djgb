@@ -3,8 +3,6 @@
   "id": "58a90138-4e8b-4b21-957d-d6b31b7b156f",
   "name": "UNT_101022 Amy game 8bit sprite sheet copy 2",
   "symbol": "sprite_unt_101022_amy_game_",
-  "width": 110,
-  "height": 52,
   "states": [
     {
       "id": "057e530f-e270-4f92-9675-6db12d0a0450",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_101022 Amy game 8bit sprite sheet copy 2.png",
+  "width": 110,
+  "height": 52,
   "checksum": "1d661272aca5d3f0cd93a555ceea2478346539b1"
 }

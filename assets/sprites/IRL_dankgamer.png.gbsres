@@ -3,8 +3,6 @@
   "id": "19245208-fead-44f4-9eaa-5b8a4fb7d0da",
   "name": "IRL_dankgamer",
   "symbol": "sprite_irl_dankgamer",
-  "width": 32,
-  "height": 32,
   "states": [
     {
       "id": "699f3fd5-2932-428e-8452-b81d5d536a3e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_dankgamer.png",
+  "width": 32,
+  "height": 32,
   "checksum": "8ca1453739a18245b0a6947cf007c833986a1d89"
 }

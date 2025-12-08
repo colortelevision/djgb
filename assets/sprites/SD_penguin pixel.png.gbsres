@@ -3,8 +3,6 @@
   "id": "2a5deb12-4de5-4ae8-b7e0-280a9b9f3a5d",
   "name": "SD_penguin pixel",
   "symbol": "sprite_sd_penguin_pixel",
-  "width": 32,
-  "height": 32,
   "states": [
     {
       "id": "f642e89c-2ff7-4e47-a3bd-8bac3575a26e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_penguin pixel.png",
+  "width": 32,
+  "height": 32,
   "checksum": "4ec16f8076b70337aa30d1e17f2b33d59d2c0741"
 }

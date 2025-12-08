@@ -3,8 +3,6 @@
   "id": "27771929-044e-4c9d-8949-d320964c866f",
   "name": "SHURIKEN",
   "symbol": "sprite_shuriken",
-  "width": 16,
-  "height": 32,
   "states": [
     {
       "id": "d74cb919-d41f-4684-962e-944c93b1e3ab",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SHURIKEN.png",
+  "width": 16,
+  "height": 32,
   "checksum": "27fd654a3208426f9b46340a2c64adb70ae4dfcd"
 }

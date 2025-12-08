@@ -3,8 +3,6 @@
   "id": "d1cf9ca3-16be-4f89-a784-bacd46a9ac5f",
   "name": "BONHAM",
   "symbol": "sprite_bonham",
-  "width": 46,
-  "height": 40,
   "states": [
     {
       "id": "3f090e93-0096-45b9-b96d-bbb293f3628c",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "BONHAM.png",
+  "width": 46,
+  "height": 40,
   "checksum": "19a38a09232c8eb68ec5da518bb5255ce3f4e579"
 }

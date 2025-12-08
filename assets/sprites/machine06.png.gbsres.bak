@@ -9,7 +9,7 @@
     {
       "id": "e41b721c-cf33-4aa6-8b97-e194b2dd76b4",
       "name": "",
-      "animationType": "multi_movement",
+      "animationType": "fixed",
       "flipLeft": true,
       "animations": [
         {
@@ -17,7 +17,60 @@
           "frames": [
             {
               "id": "b3ceaeba-e067-432c-9281-7ea5ab80e02a",
-              "tiles": []
+              "tiles": [
+                {
+                  "id": "efb68465-354d-4085-80d1-ff146bb2954f",
+                  "x": 0,
+                  "y": 16,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 2,
+                  "priority": false
+                },
+                {
+                  "id": "b33b0581-40bd-4ee4-b74b-58588eb31eaa",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 2,
+                  "priority": false
+                },
+                {
+                  "id": "8d270bf2-bb2b-408d-8593-ae512c4583b0",
+                  "x": 8,
+                  "y": 16,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 2,
+                  "priority": false
+                },
+                {
+                  "id": "b215d9f8-48e6-4c38-9e2e-1d6570c6c954",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 2,
+                  "priority": false
+                }
+              ]
             }
           ]
         },
@@ -87,8 +140,8 @@
       ]
     }
   ],
-  "numTiles": 0,
-  "canvasWidth": 32,
+  "numTiles": 4,
+  "canvasWidth": 16,
   "canvasHeight": 32,
   "boundsX": 0,
   "boundsY": 0,

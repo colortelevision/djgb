@@ -3,8 +3,6 @@
   "id": "94eb6557-0cfc-453e-8e1f-ddb191ac8536",
   "name": "portal",
   "symbol": "sprite_portal",
-  "width": 48,
-  "height": 16,
   "states": [
     {
       "id": "5275b39f-e7a5-4b0b-a7a9-7017abc7380b",
@@ -231,14 +229,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "portal.png",
-  "checksum": "ce76db1c019b417a9a1c469a56fe9996249e38e4",
-  "numFrames": 3
+  "width": 48,
+  "height": 16,
+  "checksum": "ce76db1c019b417a9a1c469a56fe9996249e38e4"
 }

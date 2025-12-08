@@ -3,8 +3,6 @@
   "id": "869f3520-0134-4432-a04f-b9c7b6e043e6",
   "name": "SD_110722tagz",
   "symbol": "sprite_sd_110722_tagz",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "aebe1605-5200-48bd-be09-b9b5e4b19113",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_110722tagz.png",
+  "width": 64,
+  "height": 64,
   "checksum": "350539bd7a710e692a1cb8f04053e721db4143f5"
 }

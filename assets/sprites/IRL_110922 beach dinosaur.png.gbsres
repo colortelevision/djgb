@@ -3,8 +3,6 @@
   "id": "688a9ea5-4e1e-4093-9ec5-846da3b83eea",
   "name": "IRL_110922 beach dinosaur",
   "symbol": "sprite_irl_110922_beach_din",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "166b626c-c429-4826-b56c-a8b6dce09879",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_110922 beach dinosaur.png",
+  "width": 64,
+  "height": 64,
   "checksum": "4c91ec2b676ff775fc85272d28dd22f7a0df39bd"
 }

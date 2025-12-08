@@ -3,8 +3,6 @@
   "id": "0b51db7e-e334-478c-8a94-a583308e2b6b",
   "name": "ZOSO",
   "symbol": "sprite_zoso",
-  "width": 58,
-  "height": 44,
   "states": [
     {
       "id": "e6e307bb-8338-4ece-9f51-c945227ac42b",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "ZOSO.png",
+  "width": 58,
+  "height": 44,
   "checksum": "ba96a0bcbdc9a7824f4517f5159da2e8531145f6"
 }

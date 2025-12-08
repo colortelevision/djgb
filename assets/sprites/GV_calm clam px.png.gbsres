@@ -3,8 +3,6 @@
   "id": "4159560b-ab87-4ae3-9feb-12e16a813111",
   "name": "GV_calm clam px",
   "symbol": "sprite_gv_calm_clam_px",
-  "width": 32,
-  "height": 30,
   "states": [
     {
       "id": "04f56906-0a76-4e2e-81c3-afe541e0e745",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GV_calm clam px.png",
+  "width": 32,
+  "height": 30,
   "checksum": "66098640d65fea19db31dd9d9ae03408f63516dd"
 }

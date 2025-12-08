@@ -3,8 +3,6 @@
   "id": "ff9e4534-c209-49fb-b9a4-ee5461b09c53",
   "name": "trop",
   "symbol": "sprite_trop",
-  "width": 24,
-  "height": 24,
   "states": [
     {
       "id": "d2d14712-e3d4-4059-896b-8cc49af62124",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "trop.png",
+  "width": 24,
+  "height": 24,
   "checksum": "7ff947b517c70cc860639ec69d63e6b77a259d03"
 }

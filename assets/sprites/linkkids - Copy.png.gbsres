@@ -3,8 +3,6 @@
   "id": "e942ce51-e9f7-4bc8-bfe4-53b80eb39de3",
   "name": "linkkids - Copy",
   "symbol": "sprite_linkkids_copy",
-  "width": 16,
-  "height": 32,
   "states": [
     {
       "id": "a25380b0-b550-45c2-b439-4aecdb7f827e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "linkkids - Copy.png",
+  "width": 16,
+  "height": 32,
   "checksum": "48db2fd48a96ace61213c006e78693072fe4f246"
 }

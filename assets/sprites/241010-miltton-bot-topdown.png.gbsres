@@ -3,8 +3,6 @@
   "id": "20cd414e-83f3-4122-8a63-ed6c1bf0758e",
   "name": "241010-miltton-bot-topdown",
   "symbol": "sprite_241010_miltton_bot_t",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "4df4f5d7-9c59-4636-b5e6-7f82d0cdda26",
@@ -208,13 +206,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "241010-miltton-bot-topdown.png",
+  "width": 64,
+  "height": 16,
   "checksum": "783de3c724cafe6f5aadf1c3b5b95ecf0fc23167"
 }

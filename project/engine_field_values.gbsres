@@ -40,6 +40,14 @@
     {
       "id": "plat_dec",
       "value": 340
+    },
+    {
+      "id": "FEAT_PLATFORM_COYOTE_TIME",
+      "value": 0
+    },
+    {
+      "id": "FEAT_PLATFORM_DROP_THROUGH",
+      "value": 0
     }
   ]
 }

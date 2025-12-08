@@ -3,8 +3,6 @@
   "id": "a8e23b87-9855-4bfc-a132-0ce30434eaaf",
   "name": "GV_calm clam px gameboy",
   "symbol": "sprite_gv_calm_clam_px_game",
-  "width": 32,
-  "height": 30,
   "states": [
     {
       "id": "3834b01a-9334-47e3-8ed6-7f1e9e422c67",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GV_calm clam px gameboy.png",
+  "width": 32,
+  "height": 30,
   "checksum": "588ad10f1a68b1a63e29323729c51ba7b44fed83"
 }

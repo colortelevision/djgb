@@ -7,7 +7,7 @@
   "height": 18,
   "imageWidth": 160,
   "imageHeight": 144,
-  "tileColors": "0050+0213+00!0213+002+0212+002+023+04b+023+006+04c+008+04b+005c+026+00e+036+002f+",
+  "tileColors": "0290+04b+029+04c+028+04b+0270+036+022f+",
   "filename": "titlescreen.png",
   "autoColor": false
 }

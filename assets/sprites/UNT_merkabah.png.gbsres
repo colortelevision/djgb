@@ -3,8 +3,6 @@
   "id": "0f19759f-ecce-4a29-ae55-e1d7af740a02",
   "name": "UNT_merkabah",
   "symbol": "sprite_unt_merkabah",
-  "width": 192,
-  "height": 192,
   "states": [
     {
       "id": "36b3e596-3721-409a-8f0f-2a42f9e5ac1c",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_merkabah.png",
+  "width": 192,
+  "height": 192,
   "checksum": "6687fc84f40677351260ecf9da8e01e40ef8c7cf"
 }

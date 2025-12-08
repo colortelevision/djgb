@@ -3,8 +3,6 @@
   "id": "6ede9028-4bd5-4c8b-8080-098382582b47",
   "name": "241010-MILTON-BO.png",
   "symbol": "sprite_241010_milton_bo_png",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "4d53918a-7fcd-446d-b01f-ca8fa0516656",
@@ -208,13 +206,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "241010-MILTON-BOTpng.png",
+  "width": 64,
+  "height": 16,
   "checksum": "0d15b3f6acf621dca4e2c260a0976f4374e16a71"
 }

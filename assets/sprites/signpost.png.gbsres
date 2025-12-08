@@ -3,8 +3,6 @@
   "id": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
   "name": "signpost",
   "symbol": "sprite_signpost",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "c5b6c113-b861-4bba-89fa-6b6825824a98",
@@ -115,14 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "signpost.png",
-  "checksum": "dfe9e69e950460ad1235405937d86c2de3a6df12",
-  "numFrames": 1
+  "width": 16,
+  "height": 16,
+  "checksum": "dfe9e69e950460ad1235405937d86c2de3a6df12"
 }

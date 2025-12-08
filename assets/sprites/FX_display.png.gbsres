@@ -3,8 +3,6 @@
   "id": "d6743f3a-7b6a-40fb-bf25-bb9729e80a54",
   "name": "FX_display",
   "symbol": "sprite_fx_display",
-  "width": 58,
-  "height": 14,
   "states": [
     {
       "id": "8ab9a3c9-0d42-48cc-905d-e63b7bcb400b",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "FX_display.png",
+  "width": 58,
+  "height": 14,
   "checksum": "141c4962245918236f21014df38b772c16bc684d"
 }

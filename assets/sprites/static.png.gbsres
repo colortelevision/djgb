@@ -3,8 +3,6 @@
   "id": "73212564-1665-4ff4-b558-d93914591011",
   "name": "static",
   "symbol": "sprite_static",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "b7cf713e-4166-4089-b5af-70e937071b1f",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "static.png",
+  "width": 16,
+  "height": 16,
   "checksum": "ed08d198cc3dd48f9bfba000769904ae41b36db8"
 }

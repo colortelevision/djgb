@@ -3,8 +3,6 @@
   "id": "465eed5c-e923-43aa-a8c7-7fd7f582ed76",
   "name": "240917-BBOTS-EYES",
   "symbol": "sprite_240917_bbots_eyes",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "efd742f7-48e9-4769-a41e-64635b2d5205",
@@ -208,13 +206,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "240917-BBOTS-EYES.png",
+  "width": 64,
+  "height": 16,
   "checksum": "892262875308eb060dd4ab891d205daefb224716"
 }

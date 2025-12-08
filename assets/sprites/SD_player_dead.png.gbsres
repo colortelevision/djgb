@@ -3,8 +3,6 @@
   "id": "c774470b-9994-4ab7-b77e-edca9b43e68e",
   "name": "SD_player_dead",
   "symbol": "sprite_sd_player_dead",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "66433a9d-f86f-48d6-83f4-eb978cbb6290",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_player_dead.png",
+  "width": 16,
+  "height": 16,
   "checksum": "71d71289587e8788a017ea10a5f46d578567a7fc"
 }

@@ -3,8 +3,6 @@
   "id": "5b1b0425-69da-40df-b836-0dee001d4fa2",
   "name": "25-BIRDS",
   "symbol": "sprite_25_birds",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "3a2a5da6-8548-4090-9c04-da9e7c56cd67",
@@ -208,13 +206,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "25-BIRDS.png",
+  "width": 64,
+  "height": 16,
   "checksum": "da43da2d2e6b7a3a156733d6c32cd7206a203ceb"
 }

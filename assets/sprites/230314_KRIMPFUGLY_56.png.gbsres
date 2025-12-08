@@ -3,8 +3,6 @@
   "id": "cd62a848-157c-48a7-a53a-0b46d5098c06",
   "name": "230314_KRIMPFUGLY_56",
   "symbol": "sprite_230314_krimpfugly_56",
-  "width": 56,
-  "height": 56,
   "states": [
     {
       "id": "ad2fc82f-98d6-473d-978d-8e8625931930",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "230314_KRIMPFUGLY_56.png",
+  "width": 56,
+  "height": 56,
   "checksum": "8048407516ca71257c9e40af21a202999951eb84"
 }

@@ -3,8 +3,6 @@
   "id": "16d4a1c4-31b0-4314-a3f0-863413bde927",
   "name": "UNT_parker",
   "symbol": "sprite_unt_parker",
-  "width": 20,
-  "height": 54,
   "states": [
     {
       "id": "034c9fd6-2b5a-480b-ad34-251e9275449b",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_parker.png",
+  "width": 20,
+  "height": 54,
   "checksum": "fec0514c4104ae852c45bb7bff617baf4a6970e0"
 }

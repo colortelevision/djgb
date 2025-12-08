@@ -9,7 +9,7 @@
     {
       "id": "75e2bd34-088b-43b1-84d4-e964666fc98f",
       "name": "",
-      "animationType": "multi_movement",
+      "animationType": "platform_player",
       "flipLeft": true,
       "animations": [
         {
@@ -21,7 +21,7 @@
                 {
                   "id": "113932e4-d5d4-45d3-8ec3-0d00abee8e8a",
                   "x": 0,
-                  "y": 1,
+                  "y": 0,
                   "sliceX": 56,
                   "sliceY": 0,
                   "palette": 0,
@@ -57,7 +57,7 @@
                 {
                   "id": "431534b4-fdf1-4205-95b3-62bbc1b37fc5",
                   "x": 0,
-                  "y": 1,
+                  "y": 0,
                   "sliceX": 56,
                   "sliceY": 0,
                   "palette": 0,

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "b03c819d-f68f-42fc-a738-5c032f28d683",
+  "name": "230301_RPG_17",
+  "symbol": "sprite_230301_rpg_17",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "89538518-8a49-44d9-9a15-281da01bc7d6",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "6a08dfa0-dc72-4bf4-aeb1-58024b829b5a",
+          "frames": [
+            {
+              "id": "7c4edfde-f0ed-4fe9-bc9c-798e3848f320",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1b340de3-af68-4055-9418-f30874de493c",
+          "frames": [
+            {
+              "id": "188eb1f1-bcf8-45d7-9c3f-ef63be365316",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "519e006a-9cdf-416e-86b4-a3d1d8a8f8e3",
+          "frames": [
+            {
+              "id": "5c5388ab-6d1f-44dd-971f-0394c88159c8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d93451ce-8601-48ad-a40e-6c60ff84e671",
+          "frames": [
+            {
+              "id": "a4ecf2b5-9f75-4dd9-ab38-7da90482a5cf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5fdc23bf-3eb0-49c1-ba3b-105eb8a51b7a",
+          "frames": [
+            {
+              "id": "d32ad6fd-ae4f-4b63-b89c-394bb600cba1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6149b74f-d09d-4d13-9b1e-e9e3e316451d",
+          "frames": [
+            {
+              "id": "4a2ae185-3c30-4311-ba21-2b201e4d8381",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b1bc5084-29c5-48c9-a4c5-02b44851959b",
+          "frames": [
+            {
+              "id": "f62db32a-7457-4da1-b171-61de138f5bc7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "245c068f-bf41-4dc8-a629-267af9827f42",
+          "frames": [
+            {
+              "id": "0815f264-0f9a-4d11-901e-ee5e0873169f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "230301_RPG_17.png",
+  "checksum": "d593f9c95a3548716ab9bc171947748c3ac66b71"
+}

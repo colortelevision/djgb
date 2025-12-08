@@ -1,8 +1,8 @@
 {
   "_resourceType": "settings",
-  "worldScrollX": 8446.90234375,
-  "worldScrollY": 1987.4630126953125,
-  "zoom": 319.7221984863281,
+  "worldScrollX": 2331.8583984375,
+  "worldScrollY": 598.8200073242188,
+  "zoom": 100,
   "navigatorSplitSizes": [
     41,
     205,
@@ -23,7 +23,7 @@
   "debuggerScriptType": "gbvm",
   "debuggerVariablesFilter": "all",
   "debuggerCollapsedPanes": [],
-  "debuggerPauseOnScriptChanged": false,
+  "debuggerPauseOnScriptChanged": true,
   "debuggerPauseOnWatchedVariableChanged": false,
   "debuggerBreakpoints": [],
   "debuggerWatchedVariables": [],

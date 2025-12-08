@@ -3,8 +3,6 @@
   "id": "1e03fd63-5af8-4889-bf65-60be1b50bb1c",
   "name": "UNT_CTV_1",
   "symbol": "sprite_unt_ctv_1",
-  "width": 16,
-  "height": 32,
   "states": [
     {
       "id": "697995b9-b634-4f3a-a2fa-d274ccaa1cd8",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_CTV_1.png",
+  "width": 16,
+  "height": 32,
   "checksum": "0cd48fd34825c73d14adc19cb93ffc7c181b25a6"
 }

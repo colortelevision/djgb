@@ -3,8 +3,6 @@
   "id": "7292498e-e29a-4f26-9f25-b73a9f218b54",
   "name": "CTV_RPG_player 2",
   "symbol": "sprite_ctv_rpg_player_2",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "3ba8b396-2bae-4c3f-a1ee-18cd23e3c159",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "CTV_RPG_player 2.png",
+  "width": 96,
+  "height": 16,
   "checksum": "f9bac527ef0e17c111bcfe3dcf1a8afa24cf046f"
 }

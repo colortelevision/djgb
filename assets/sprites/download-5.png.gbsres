@@ -3,8 +3,6 @@
   "id": "e6fb3506-a8cf-42f3-949a-3b01965dd11f",
   "name": "download-5",
   "symbol": "sprite_download_5",
-  "width": 56,
-  "height": 56,
   "states": [
     {
       "id": "0341b7e4-736b-4b91-8660-fcf038553276",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "download-5.png",
+  "width": 56,
+  "height": 56,
   "checksum": "487129c105d98097d6d514554631dfe294ec1bd4"
 }

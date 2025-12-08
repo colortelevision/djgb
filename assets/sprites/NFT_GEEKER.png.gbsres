@@ -3,8 +3,6 @@
   "id": "df544153-5bf3-4dc0-bbd8-82d29b235f0c",
   "name": "NFT_GEEKER",
   "symbol": "sprite_nft_geeker",
-  "width": 171,
-  "height": 170,
   "states": [
     {
       "id": "8b142f1c-a7c1-4388-b8f2-c0490f085437",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "NFT_GEEKER.png",
+  "width": 171,
+  "height": 170,
   "checksum": "22fda987e66d4569467c371ee0d3f15b9ad6094f"
 }

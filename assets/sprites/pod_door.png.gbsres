@@ -3,8 +3,6 @@
   "id": "058c0142-0c1e-4762-b5ac-e085d84fc734",
   "name": "pod_door",
   "symbol": "sprite_pod_door",
-  "width": 48,
-  "height": 16,
   "states": [
     {
       "id": "0d347ac0-57ca-4104-898e-add3868c6239",
@@ -231,14 +229,17 @@
     }
   ],
   "numTiles": 3,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "pod_door.png",
-  "checksum": "b8f3e928d6ed27502f5a431e4a35496ecebb614a",
-  "numFrames": 3
+  "width": 48,
+  "height": 16,
+  "checksum": "b8f3e928d6ed27502f5a431e4a35496ecebb614a"
 }

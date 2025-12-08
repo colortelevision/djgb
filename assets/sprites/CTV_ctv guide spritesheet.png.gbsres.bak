@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "2d6b70d2-be33-4022-9179-8bb7255288e5",
+  "name": "CTV_ctv guide spritesheet",
+  "symbol": "sprite_ctv_ctv_guide_sprite",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "ffc790bc-7a29-423d-b162-8f8f86e0256e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "a1d5c916-6d72-4da0-a340-ffe0ee0c19cd",
+          "frames": [
+            {
+              "id": "316df549-a780-4b20-b77a-599b3915135f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "581b546c-7f95-40b7-92be-12bbe9f1c032",
+          "frames": [
+            {
+              "id": "fa23032c-9a09-45fb-b63a-a597d1fca04d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d98ebd1b-263a-492f-b9c8-9cbcf61ea088",
+          "frames": [
+            {
+              "id": "5bc115d1-1754-46b9-9ab6-36757a7b54d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "afd77539-33b7-4930-8d1c-b0361050a965",
+          "frames": [
+            {
+              "id": "ca56649c-70ce-463d-887e-9845300dcca4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9e6b6c3c-68cb-463c-be4d-dbe0a4dc68ee",
+          "frames": [
+            {
+              "id": "2dac17bc-0be4-427f-bdba-3c2509ecc395",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aa68a875-c810-40f4-b01a-7d100c6d622a",
+          "frames": [
+            {
+              "id": "92dadbba-c841-4a6d-bd93-b10edcd0b6a3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b2d3c825-8142-427a-9193-b988bca3cffd",
+          "frames": [
+            {
+              "id": "c4cb4356-ce7c-4734-bbf3-243ec05c35ae",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5c8c05a4-cddc-413e-b497-e0869fba319e",
+          "frames": [
+            {
+              "id": "e9d2fba4-9921-49fd-a78b-bd2da8302769",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "CTV_ctv guide spritesheet.png",
+  "checksum": "2e79380c56c5ac4f9b25e24263867c94a8b6e5aa"
+}

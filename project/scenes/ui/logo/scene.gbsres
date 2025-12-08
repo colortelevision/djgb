@@ -11,6 +11,7 @@
   "height": 18,
   "backgroundId": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [],
   "spritePaletteIds": [],
   "autoFadeSpeed": 1,
@@ -44,21 +45,28 @@
       "id": "0677a82b-f7cf-429e-9259-dba979146cc5",
       "command": "EVENT_WAIT",
       "args": {
-        "time": 2
+        "time": {
+          "type": "number",
+          "value": 2
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        }
       }
     },
     {
       "id": "9daba1e6-c056-494a-babc-caa87913aa32",
       "command": "EVENT_SWITCH_SCENE",
       "args": {
-        "sceneId": "4912bee2-387a-472f-ae4f-6679b6149517",
+        "sceneId": "afbca12f-bb04-41f2-bfaf-b627a9b874ce",
         "x": {
           "type": "number",
-          "value": 0
+          "value": 1
         },
         "y": {
           "type": "number",
-          "value": 0
+          "value": 9
         },
         "direction": "",
         "fadeSpeed": "2"

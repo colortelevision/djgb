@@ -43,7 +43,8 @@
               },
               "moveType": "horizontal",
               "useCollisions": false,
-              "__collapse": false
+              "__collapse": false,
+              "collideWith": []
             },
             "id": "551b7bd3-d1f0-4c6c-a18a-8c0c2469f0c9"
           }
@@ -64,7 +65,8 @@
               "moveType": "horizontal",
               "useCollisions": false,
               "__collapse": false,
-              "__comment": false
+              "__comment": false,
+              "collideWith": []
             },
             "id": "d45c28a5-48f1-49ca-a79a-c9c6978bb235"
           }

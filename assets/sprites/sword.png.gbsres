@@ -3,8 +3,6 @@
   "id": "31074667-6952-49f4-b915-fe89a19d6d2f",
   "name": "sword",
   "symbol": "sprite_sword",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "81235784-c09c-4925-9033-0a7bc357d2c8",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "sword.png",
+  "width": 32,
+  "height": 16,
   "checksum": "cce70fe59cd21483251fb5c384db099e09792ca1"
 }

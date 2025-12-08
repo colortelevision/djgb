@@ -3,8 +3,6 @@
   "id": "fef6d6dd-a1ac-472d-b846-01dd75e03731",
   "name": "CTV_110522 television sprite",
   "symbol": "sprite_ctv_110522_televisio",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "4216aa7d-4cbd-41f0-b054-526809a22fc2",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "CTV_110522 television sprite.png",
+  "width": 64,
+  "height": 64,
   "checksum": "80620a43cb3515825996d622e5afb1091a7febfc"
 }

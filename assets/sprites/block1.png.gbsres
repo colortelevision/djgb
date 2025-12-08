@@ -3,8 +3,6 @@
   "id": "76f7a201-18f5-414f-9af8-eb54aceb06a2",
   "name": "block1",
   "symbol": "sprite_block1",
-  "width": 16,
-  "height": 32,
   "states": [
     {
       "id": "08bb4447-ac81-4f41-8f98-ec313e875fe1",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "block1.png",
+  "width": 16,
+  "height": 32,
   "checksum": "6a6913a91a6191ecafcc436c84a51e6e1594b591"
 }

@@ -3,8 +3,6 @@
   "id": "75bd9743-6198-4fed-b19c-b537ffdca8e9",
   "name": "mario2",
   "symbol": "sprite_mario2",
-  "width": 96,
-  "height": 32,
   "states": [
     {
       "id": "0ec328ea-6033-4438-a374-6cbdc06fdd4f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "mario2.png",
+  "width": 96,
+  "height": 32,
   "checksum": "ac304ffa397f2c5ed3914932fe986ec2e22506fa"
 }

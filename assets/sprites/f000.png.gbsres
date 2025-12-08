@@ -3,8 +3,6 @@
   "id": "79165a9c-625d-424b-8067-a1c6e47c1d99",
   "name": "f000",
   "symbol": "sprite_f000",
-  "width": 86,
-  "height": 32,
   "states": [
     {
       "id": "ae3e2243-d235-4b50-805d-307f4633362d",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "f000.png",
+  "width": 86,
+  "height": 32,
   "checksum": "759db835f8d5a38974aa345128a8480ce6060c1d"
 }

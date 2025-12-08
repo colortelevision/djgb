@@ -3,8 +3,6 @@
   "id": "1c49a89a-6bcd-4491-b407-71dd56995525",
   "name": "SD_",
   "symbol": "sprite_sd_",
-  "width": 32,
-  "height": 32,
   "states": [
     {
       "id": "a6c406e2-c0ea-44fc-a3b3-b7269acfd17d",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_.png",
+  "width": 32,
+  "height": 32,
   "checksum": "4e55a1ea7c680c0fa7f82b0b0f487e317fa1c9f5"
 }

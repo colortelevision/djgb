@@ -113,16 +113,16 @@
                   "priority": false
                 },
                 {
-                  "id": "226ad2e0-5f37-410c-99a8-2887b2907dfe",
+                  "id": "1f5a2a5c-add6-48d2-a3bf-cef6ba32776d",
                   "x": 8,
                   "y": 0,
-                  "sliceX": 8,
+                  "sliceX": 24,
                   "sliceY": 0,
+                  "palette": 0,
                   "flipX": false,
                   "flipY": false,
-                  "palette": 0,
-                  "paletteIndex": 0,
                   "objPalette": "OBP0",
+                  "paletteIndex": 0,
                   "priority": false
                 }
               ]

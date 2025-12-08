@@ -5,6 +5,7 @@
   "symbol": "actor_turnip_2",
   "prefabId": "5fa52cd0-57cd-414c-8b93-5601c6e9636f",
   "name": "Turnip 2",
+  "coordinateType": "tiles",
   "x": 95,
   "y": 13,
   "frame": 0,
@@ -17,6 +18,7 @@
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "1",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "script": [
     {
@@ -97,7 +99,14 @@
                   "id": "62c64cfe-f09c-46e4-b32e-7df038ae083d",
                   "command": "EVENT_WAIT",
                   "args": {
-                    "time": 0.5
+                    "time": {
+                      "type": "number",
+                      "value": 0.5
+                    },
+                    "frames": {
+                      "type": "number",
+                      "value": 30
+                    }
                   }
                 },
                 {
@@ -235,7 +244,11 @@
                       "value": 0
                     },
                     "moveType": "horizontal",
-                    "useCollisions": true
+                    "useCollisions": true,
+                    "collideWith": [
+                      "walls",
+                      "actors"
+                    ]
                   }
                 }
               ],
@@ -254,7 +267,11 @@
                       "value": 0
                     },
                     "moveType": "horizontal",
-                    "useCollisions": true
+                    "useCollisions": true,
+                    "collideWith": [
+                      "walls",
+                      "actors"
+                    ]
                   }
                 }
               ]
@@ -264,7 +281,14 @@
             "id": "19eacd42-ec0b-4def-ac07-68c79e1b675f",
             "command": "EVENT_WAIT",
             "args": {
-              "time": 1
+              "time": {
+                "type": "number",
+                "value": 1
+              },
+              "frames": {
+                "type": "number",
+                "value": 30
+              }
             }
           }
         ]

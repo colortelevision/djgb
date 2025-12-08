@@ -3,8 +3,6 @@
   "id": "9116e70e-bf4f-4f0e-8f54-ccdc49154f52",
   "name": "230310_MAURICIO_RUNNING",
   "symbol": "sprite_230310_mauricio_runn",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "b02b4636-1031-4639-93ce-b050a05ebbda",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "230310_MAURICIO_RUNNING.png",
+  "width": 64,
+  "height": 64,
   "checksum": "74fc6bdc84069f0301760210933becdc0c504eb8"
 }

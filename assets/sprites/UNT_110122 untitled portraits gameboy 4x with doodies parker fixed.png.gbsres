@@ -3,8 +3,6 @@
   "id": "8c6b9474-8632-4605-8f0a-5e0f5a95407d",
   "name": "UNT_110122 untitled portraits gameboy 4x with doodies parker fixed",
   "symbol": "sprite_unt_110122_untitled_",
-  "width": 160,
-  "height": 144,
   "states": [
     {
       "id": "3d002b46-515f-4f00-a816-906ab01cbd55",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_110122 untitled portraits gameboy 4x with doodies parker fixed.png",
+  "width": 160,
+  "height": 144,
   "checksum": "9f5263e3217baa9deb21febde52de04b12b44528"
 }

@@ -18,7 +18,7 @@
         "actorId": "0",
         "x": {
           "type": "number",
-          "value": 14
+          "value": 12
         },
         "y": {
           "type": "number",
@@ -35,7 +35,7 @@
               "actorId": "0",
               "x": {
                 "type": "number",
-                "value": 13
+                "value": 14
               },
               "y": {
                 "type": "number",
@@ -43,7 +43,7 @@
               },
               "moveType": "horizontal",
               "useCollisions": false,
-              "__collapse": true
+              "__collapse": false
             },
             "id": "551b7bd3-d1f0-4c6c-a18a-8c0c2469f0c9"
           }
@@ -55,14 +55,16 @@
               "actorId": "0",
               "x": {
                 "type": "number",
-                "value": 14
+                "value": 12
               },
               "y": {
                 "type": "number",
                 "value": 15
               },
               "moveType": "horizontal",
-              "useCollisions": false
+              "useCollisions": false,
+              "__collapse": false,
+              "__comment": false
             },
             "id": "d45c28a5-48f1-49ca-a79a-c9c6978bb235"
           }

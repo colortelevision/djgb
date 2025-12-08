@@ -3,8 +3,6 @@
   "id": "cab52c43-faf5-4c51-b420-c3000e76c0e9",
   "name": "240917-BOTS-TEST-EYES",
   "symbol": "sprite_240917_bots_test_eye",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "7f59fd2a-d0af-44e2-bf50-48f5962635a3",
@@ -208,13 +206,17 @@
     }
   ],
   "numTiles": 7,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "240917-BOTS-TEST-EYES.png",
+  "width": 64,
+  "height": 16,
   "checksum": "7ac67f3cb235a66cc6f3a097a5fa946562e003b1"
 }

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "869f3520-0134-4432-a04f-b9c7b6e043e6",
+  "name": "SD_110722tagz",
+  "symbol": "sprite_sd_110722_tagz",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "aebe1605-5200-48bd-be09-b9b5e4b19113",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "976fbb02-b75c-447d-99cb-e76422525220",
+          "frames": [
+            {
+              "id": "6baa3742-a9d6-4d2d-b510-3d8affd27757",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "22bb5df3-d65a-403e-bb64-8d45a75513c2",
+          "frames": [
+            {
+              "id": "dc7a3045-86ad-40b8-a539-92a5a5021b55",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ea02165b-049c-4634-bfdd-14268cfbfbf7",
+          "frames": [
+            {
+              "id": "75f24058-014d-493b-b307-15e279f10459",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1d0f0c0d-8d4b-47b6-a5a8-95f7660d9178",
+          "frames": [
+            {
+              "id": "fabb2917-ea9d-4c09-b994-d236a68aca0f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4b9fef28-6e00-48f2-809b-e2c363a57384",
+          "frames": [
+            {
+              "id": "57cf9939-9683-499d-9026-d7a24d2bcc01",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "68930534-7e22-43b7-8728-926f33a96da0",
+          "frames": [
+            {
+              "id": "3f53b3de-4cea-4fe2-82c3-5e07d5de1896",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dcb86d0b-6431-48c9-b300-d40ddeb02146",
+          "frames": [
+            {
+              "id": "a6ff6bb3-214e-495b-bbaf-bb11026ce111",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d8862be7-f817-4855-88b8-c53b0a546b6f",
+          "frames": [
+            {
+              "id": "9feade42-ea6f-4adc-8bcb-2093db8ea723",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_110722tagz.png",
+  "checksum": "350539bd7a710e692a1cb8f04053e721db4143f5"
+}

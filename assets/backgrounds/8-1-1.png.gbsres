@@ -3,10 +3,10 @@
   "id": "5c095b3f-319b-4a22-bd59-7a336af66434",
   "name": "8-1-1",
   "symbol": "bg_8_1_1",
+  "tileColors": "",
   "width": 220,
   "height": 18,
   "imageWidth": 1760,
   "imageHeight": 144,
-  "tileColors": "",
   "filename": "8-1-1.png"
 }

@@ -3,8 +3,6 @@
   "id": "090190ac-b3ac-4a4e-881a-8e3666dfa44d",
   "name": "CTV_VIDEOTA1",
   "symbol": "sprite_ctv_videota1",
-  "width": 180,
-  "height": 180,
   "states": [
     {
       "id": "417bebea-ab48-4720-83a6-3cda40d3ae4f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "CTV_VIDEOTA1.png",
+  "width": 180,
+  "height": 180,
   "checksum": "62d29146e44ef1eacac3fa950a27d0a2d68fd38f"
 }

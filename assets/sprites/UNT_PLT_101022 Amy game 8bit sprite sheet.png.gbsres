@@ -3,8 +3,6 @@
   "id": "5ed9045b-0e35-4bdd-ba76-5e62e654f46f",
   "name": "UNT_PLT_101022 Amy game 8bit sprite sheet",
   "symbol": "sprite_unt_plt_101022_amy_g",
-  "width": 110,
-  "height": 279,
   "states": [
     {
       "id": "09921526-086e-4549-bc83-be3a9f8b4184",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_PLT_101022 Amy game 8bit sprite sheet.png",
+  "width": 110,
+  "height": 279,
   "checksum": "682fac60fc123fa1561dc4d49a8a2aafe43eb250"
 }

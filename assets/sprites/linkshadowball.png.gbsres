@@ -3,8 +3,6 @@
   "id": "e184299e-d35a-4705-8b85-c0ba58c7ee5e",
   "name": "linkshadowball",
   "symbol": "sprite_linkshadowball",
-  "width": 8,
-  "height": 16,
   "states": [
     {
       "id": "4392ac0a-46aa-48be-a4c0-df6b704ffbd3",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "linkshadowball.png",
+  "width": 8,
+  "height": 16,
   "checksum": "dea21ccdcf38d6e1da1c2d257e0eb355f96233a4"
 }

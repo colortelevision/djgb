@@ -3,8 +3,6 @@
   "id": "59ff77a5-11c6-4947-b1c6-2c78c93eb8d8",
   "name": "004",
   "symbol": "sprite_004",
-  "width": 768,
-  "height": 128,
   "states": [
     {
       "id": "4dd59d7c-d00f-41af-a59a-9fcd5fb4b19f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "004.png",
+  "width": 768,
+  "height": 128,
   "checksum": "20ba451dab7978d5793a1342161fdc5e43c1c411"
 }

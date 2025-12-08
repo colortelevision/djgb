@@ -3,8 +3,6 @@
   "id": "f13f967e-a3f5-4fac-a945-77b481ada26d",
   "name": "240917-BOTS-HANDS-3",
   "symbol": "sprite_240917_bots_hands_3",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "42dfb5b8-815e-403f-a273-a75e12dc2772",
@@ -208,13 +206,17 @@
     }
   ],
   "numTiles": 7,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "240917-BOTS-HANDS-3.png",
+  "width": 64,
+  "height": 16,
   "checksum": "03adea6682c9ae1c1f710763722bce1e6025de12"
 }

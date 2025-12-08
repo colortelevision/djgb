@@ -3,8 +3,6 @@
   "id": "c2088be1-e810-4b32-bd12-300332d3fc00",
   "name": "230311_CTV_YELLOW",
   "symbol": "sprite_230311_ctv_yellow",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "2a0055ab-ec65-4d49-b995-2e44ab5df0a5",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "230311_CTV_YELLOW.png",
+  "width": 16,
+  "height": 96,
   "checksum": "8671c02a7b82c51d2857ec4b73cf82abcf8fee6b"
 }

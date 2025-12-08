@@ -3,8 +3,6 @@
   "id": "56486d31-9291-45c0-a7c9-5969db1a2a5f",
   "name": "FX_MERKABAH",
   "symbol": "sprite_fx_merkabah",
-  "width": 432,
-  "height": 48,
   "states": [
     {
       "id": "a403d3b9-e2c8-47ee-acc1-bd9dd01127dc",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "FX_MERKABAH.png",
+  "width": 432,
+  "height": 48,
   "checksum": "fd1161961a381cc9b08a0fe0dae21bd00c308827"
 }

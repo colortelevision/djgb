@@ -3,8 +3,6 @@
   "id": "f2610e3c-8ff9-42fa-a9bb-d1591031fa17",
   "name": "fire",
   "symbol": "sprite_fire",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "c7914156-69fb-4b37-8cd3-f8f9d22a5729",
@@ -208,14 +206,17 @@
     }
   ],
   "numTiles": 8,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "fire.png",
-  "checksum": "178804359d94af9d2cd342cf77f92f4fb6373589",
-  "numFrames": 4
+  "width": 64,
+  "height": 16,
+  "checksum": "178804359d94af9d2cd342cf77f92f4fb6373589"
 }

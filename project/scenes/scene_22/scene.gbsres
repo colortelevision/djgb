@@ -6,11 +6,12 @@
   "name": "Scene 22",
   "symbol": "scene_0",
   "x": 1448,
-  "y": 30,
+  "y": 56,
   "width": 48,
   "height": 24,
   "backgroundId": "51cc3ac2-ed2a-45df-95f6-7b80d287d898",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "71df34a8-cef4-4807-95d8-5b7d6bf7bd53",
     "5aa84324-9f37-47d1-9121-a3710a3c4fd3",
@@ -106,7 +107,8 @@
               },
               "moveType": "horizontal",
               "useCollisions": false,
-              "__collapse": false
+              "__collapse": false,
+              "collideWith": []
             },
             "id": "0ed32ebc-1a56-46d2-b9d2-c25afaacdfe8"
           }
@@ -153,7 +155,8 @@
                       "value": 3
                     },
                     "moveType": "horizontal",
-                    "useCollisions": false
+                    "useCollisions": false,
+                    "collideWith": []
                   },
                   "id": "328f501f-81b0-485c-a9f8-f20851759d88"
                 }

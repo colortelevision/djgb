@@ -3,8 +3,6 @@
   "id": "450a3571-cc76-41be-8c95-818d60b83c59",
   "name": "bullet_right",
   "symbol": "sprite_bullet_right",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "44700239-638d-4e7c-a896-e0e25a63e01d",
@@ -146,14 +144,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "bullet_right.png",
-  "checksum": "8314b3c3b8f067e20f49bf3bd3cb63e03a457cc0",
-  "numFrames": 2
+  "width": 32,
+  "height": 16,
+  "checksum": "8314b3c3b8f067e20f49bf3bd3cb63e03a457cc0"
 }

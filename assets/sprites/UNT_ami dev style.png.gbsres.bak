@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "99b252b0-6436-4531-b980-1c645cd0206f",
+  "name": "UNT_ami dev style",
+  "symbol": "sprite_unt_ami_dev_style",
+  "width": 32,
+  "height": 56,
+  "states": [
+    {
+      "id": "31ff0f85-1e88-40eb-aa18-3850b2f0f6e5",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "777abff5-cdb9-486f-8fb0-0721de55f953",
+          "frames": [
+            {
+              "id": "864f0918-3e97-4ba2-b023-6a7c64ccdf69",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ac47cdad-d07d-4e31-8e5b-720398f52662",
+          "frames": [
+            {
+              "id": "e8f1c220-f158-455c-b63e-7941591be7d8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e5cabc0d-883c-4dca-a573-61731794dcb5",
+          "frames": [
+            {
+              "id": "b368e26b-15f2-44ee-bd00-dc0d0a982288",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d71a5864-b0f2-4db9-abe7-fec06d40b644",
+          "frames": [
+            {
+              "id": "4dfed120-443d-4751-9bf1-3c5f4dd51801",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ad9d1c4d-24ac-49be-987f-9a588da11ae1",
+          "frames": [
+            {
+              "id": "6dbca1aa-3353-47f5-b952-d5d0209fb312",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cc2101ea-92a8-4259-9f25-3c446756a7cf",
+          "frames": [
+            {
+              "id": "68862791-9eb7-4475-85b1-8fb87a833979",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "32c8e2da-a50a-4f34-bb1c-17b5f23e1aef",
+          "frames": [
+            {
+              "id": "8babb239-fd8f-4101-88b7-952e488bfb54",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "61cdad34-367e-43a6-b3bf-77733b1bc2db",
+          "frames": [
+            {
+              "id": "5b43eaa8-df77-4eb9-acf9-5b91e71b9cca",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_ami dev style.png",
+  "checksum": "41f7f364a2d2ee8163577a2f0813dd3de8d07d42"
+}

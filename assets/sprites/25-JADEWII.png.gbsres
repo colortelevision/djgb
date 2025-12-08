@@ -3,8 +3,6 @@
   "id": "2ea6144e-df05-4fb0-b52e-d14b5078ad67",
   "name": "25-JADEWII",
   "symbol": "sprite_25_jadewii",
-  "width": 144,
-  "height": 144,
   "states": [
     {
       "id": "070cdd91-81d5-4aca-be05-6ad91ce0bb01",
@@ -1545,13 +1543,17 @@
     }
   ],
   "numTiles": 27,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "25-JADEWII.png",
+  "width": 144,
+  "height": 144,
   "checksum": "5a0d549219c543faf737e775edbbaad118381d81"
 }

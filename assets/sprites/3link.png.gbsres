@@ -3,8 +3,6 @@
   "id": "9c77ef11-46ce-40da-99e0-0ae5d07ebad6",
   "name": "3link",
   "symbol": "sprite_3link",
-  "width": 80,
-  "height": 64,
   "states": [
     {
       "id": "3e46665f-8c59-4e86-8f80-5ace4656f1fc",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "3link.png",
+  "width": 80,
+  "height": 64,
   "checksum": "59ae7ed83c982a2c715327f7390a44eafe34e2a3"
 }

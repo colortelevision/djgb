@@ -148,7 +148,8 @@
                     },
                     "moveType": "vertical",
                     "useCollisions": false,
-                    "__collapse": false
+                    "__collapse": false,
+                    "collideWith": []
                   },
                   "id": "68783827-114f-4c19-b066-bf7cea90ac28"
                 }

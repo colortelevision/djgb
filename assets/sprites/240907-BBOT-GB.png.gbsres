@@ -3,8 +3,6 @@
   "id": "733c13dc-db05-4025-b735-d52a1df71f74",
   "name": "240907-BBOT-GB",
   "symbol": "sprite_240907_bbot_gb",
-  "width": 80,
-  "height": 16,
   "states": [
     {
       "id": "115f1ed3-a733-47a0-8ead-4efa6a1f344d",
@@ -239,13 +237,17 @@
     }
   ],
   "numTiles": 9,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "240907-BBOT-GB.png",
+  "width": 80,
+  "height": 16,
   "checksum": "4e8c5c1d002c83a1626b61f50eded36b4e908683"
 }

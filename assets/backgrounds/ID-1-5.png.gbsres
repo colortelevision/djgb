@@ -3,10 +3,10 @@
   "id": "d2cd9a49-300d-497c-b67e-e947f07dcdce",
   "name": "ID-1-5",
   "symbol": "bg_id_1_5",
+  "tileColors": "",
   "width": 30,
   "height": 18,
   "imageWidth": 240,
   "imageHeight": 144,
-  "tileColors": "",
   "filename": "ID-1-5.png"
 }

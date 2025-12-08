@@ -3,8 +3,6 @@
   "id": "f7877d93-09b7-4c71-9c44-01a36c8b047e",
   "name": "UNT_ORLANDO_RPG",
   "symbol": "sprite_unt_orlando_rpg",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "b1dc97ac-513e-485a-89de-71b1c5df7d38",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_ORLANDO_RPG.png",
+  "width": 16,
+  "height": 96,
   "checksum": "959f7d8cedca422d8c6343deea807d3a154a3f93"
 }

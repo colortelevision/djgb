@@ -3,8 +3,6 @@
   "id": "1c7e69b3-2f34-4a42-bfdd-cead1fcf2ed2",
   "name": "jadewiibig-platformer",
   "symbol": "sprite_jadewiibig_platforme",
-  "width": 128,
-  "height": 16,
   "states": [
     {
       "id": "7177fab4-cb83-4870-8e9c-3a7d89a8c432",
@@ -310,13 +308,17 @@
     }
   ],
   "numTiles": 9,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 8,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "jadewiibig-platformer.png",
+  "width": 128,
+  "height": 16,
   "checksum": "e54e6aefca516f8bc038193844b6e9010a7faa46"
 }

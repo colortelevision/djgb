@@ -3,8 +3,6 @@
   "id": "edc6eb8b-4c3e-4c27-bc5c-7abe0d2f16eb",
   "name": "LINKWATERTILES",
   "symbol": "sprite_linkwatertiles",
-  "width": 64,
-  "height": 16,
   "states": [
     {
       "id": "432614ca-78b8-47da-9d9a-b4a26db5ab7f",
@@ -208,13 +206,17 @@
     }
   ],
   "numTiles": 3,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "LINKWATERTILES.png",
+  "width": 64,
+  "height": 16,
   "checksum": "d3cbe9580f75dfeb089f647df75cacc2b01cc47b"
 }

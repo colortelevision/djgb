@@ -3,8 +3,6 @@
   "id": "67a9968c-7d12-453b-aefd-14f0f00b39ec",
   "name": "D01_122822 WHEELROBO",
   "symbol": "sprite_d01_122822_wheelrobo",
-  "width": 128,
-  "height": 16,
   "states": [
     {
       "id": "461858bf-0c63-40bd-9c52-1a21b422fa0a",
@@ -432,13 +430,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 8,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "D01_122822 WHEELROBO.png",
+  "width": 128,
+  "height": 16,
   "checksum": "21b5648d1c16e667e993d72b12551b7d684f3d30"
 }

@@ -3,8 +3,6 @@
   "id": "1317d0a9-a0ac-476a-a7a6-d7aedf39afb0",
   "name": "SD_230111 mu ninja spritesheet",
   "symbol": "sprite_sd_230111_mu_ninja_s",
-  "width": 64,
-  "height": 32,
   "states": [
     {
       "id": "94d010af-9dcf-45fb-b9e5-fbfbeed41980",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_230111 mu ninja spritesheet.png",
+  "width": 64,
+  "height": 32,
   "checksum": "c5d611435d0251ed7530a80a7b14ac86613da1e6"
 }

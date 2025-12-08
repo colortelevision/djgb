@@ -3,8 +3,6 @@
   "id": "976f46a4-0b1e-4b18-83ef-17a3255692f5",
   "name": "robotsandsheetmusic",
   "symbol": "sprite_robotsandsheetmusic",
-  "width": 64,
-  "height": 64,
   "states": [
     {
       "id": "cf412acd-c61a-41fe-bc42-2ec492f453c1",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "robotsandsheetmusic.png",
+  "width": 64,
+  "height": 64,
   "checksum": "5761ac6090dce45eab10fb1b03bdebf48d2bda14"
 }

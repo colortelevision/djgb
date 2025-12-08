@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "75bd9743-6198-4fed-b19c-b537ffdca8e9",
+  "name": "mario2",
+  "symbol": "sprite_mario2",
+  "width": 96,
+  "height": 32,
+  "states": [
+    {
+      "id": "0ec328ea-6033-4438-a374-6cbdc06fdd4f",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "371564d0-c80a-4c3b-ad75-7929c507dbba",
+          "frames": [
+            {
+              "id": "21c0e58f-ed23-405e-bf63-8a7e2751344e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2657e475-826c-4357-974a-67e1eac5f92c",
+          "frames": [
+            {
+              "id": "bc74d492-3521-4ea2-ad49-b3ef88d95b6f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "97c0e3be-89eb-44ad-81ba-6361b102a0eb",
+          "frames": [
+            {
+              "id": "cbb043eb-2cc6-4b65-b2c1-6782b40899e5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "68abddb9-3343-4a7c-83f3-43e9371fd4fe",
+          "frames": [
+            {
+              "id": "24c8aead-0ecd-4b16-b54d-fd709e24d020",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1f98dcbf-d490-4aa8-8114-3504008d933d",
+          "frames": [
+            {
+              "id": "539483d7-d459-4585-a07e-89c1c8341600",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3236ebe9-0cd5-4c45-b9e9-e6abb02d815d",
+          "frames": [
+            {
+              "id": "b67aceb7-6d7e-4b81-9638-c4a08064428e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "44b56415-df57-4d09-8661-05c48774b5a8",
+          "frames": [
+            {
+              "id": "345ad91d-8330-4d87-9aad-5f72b9e914a7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "10084c64-9f73-486d-8a98-44a394295272",
+          "frames": [
+            {
+              "id": "713a4a85-a539-4468-981f-771acecf02e4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "mario2.png",
+  "checksum": "ac304ffa397f2c5ed3914932fe986ec2e22506fa"
+}

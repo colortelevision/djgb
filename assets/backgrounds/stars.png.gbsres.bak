@@ -7,7 +7,7 @@
   "height": 32,
   "imageWidth": 256,
   "imageHeight": 256,
-  "tileColors": "",
+  "tileColors": "02400+",
   "filename": "stars.png",
   "autoColor": false
 }

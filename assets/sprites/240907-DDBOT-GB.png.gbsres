@@ -3,8 +3,6 @@
   "id": "af8b98fe-6e87-42e1-814b-e67241abe019",
   "name": "240907-DDBOT-GB",
   "symbol": "sprite_240907_ddbot_gb",
-  "width": 80,
-  "height": 16,
   "states": [
     {
       "id": "2d6e5776-e888-4664-9158-5f40f611e7ed",
@@ -440,13 +438,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "240907-DDBOT-GB.png",
+  "width": 80,
+  "height": 16,
   "checksum": "7a3e6b5f9028553a2ec0d1163cc034aa735c4dbe"
 }

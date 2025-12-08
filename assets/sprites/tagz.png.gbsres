@@ -3,8 +3,6 @@
   "id": "b69bd60d-e429-4785-97cf-39bdbf3ebd82",
   "name": "tagz",
   "symbol": "sprite_tagz",
-  "width": 128,
-  "height": 64,
   "states": [
     {
       "id": "75e2bd34-088b-43b1-84d4-e964666fc98f",
@@ -370,13 +368,17 @@
     }
   ],
   "numTiles": 5,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 8,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "tagz.png",
+  "width": 128,
+  "height": 64,
   "checksum": "1f0bce816392531de1cc6e683fe6deab803fd697"
 }

@@ -3,8 +3,6 @@
   "id": "64849a99-37ef-42b8-aefd-f404452f8ed7",
   "name": "tv",
   "symbol": "sprite_tv",
-  "width": 32,
-  "height": 32,
   "states": [
     {
       "id": "c65e76e1-e831-44e2-8d28-8751e669c5c0",
@@ -193,13 +191,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "tv.png",
+  "width": 32,
+  "height": 32,
   "checksum": "fc9e805884b0df6cbc91125090e63d8270356334"
 }

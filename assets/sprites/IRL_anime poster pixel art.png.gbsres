@@ -3,8 +3,6 @@
   "id": "29eb2235-1ffa-4083-a327-ae65f51f5072",
   "name": "IRL_anime poster pixel art",
   "symbol": "sprite_irl_anime_poster_pix",
-  "width": 94,
-  "height": 144,
   "states": [
     {
       "id": "97c001fe-c355-4bda-8932-106461fb15d0",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_anime poster pixel art.png",
+  "width": 94,
+  "height": 144,
   "checksum": "94a27c3b00072ff0397585026d67709590ced6c9"
 }

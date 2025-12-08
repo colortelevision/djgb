@@ -3,8 +3,6 @@
   "id": "c4b5f35e-6fdb-488e-aa91-713556d7107a",
   "name": "CTV_102222 nickey spritesheet",
   "symbol": "sprite_ctv_102222_nickey_sp",
-  "width": 112,
-  "height": 32,
   "states": [
     {
       "id": "a05fe0cc-6920-48d0-9a79-7bedf4218da0",
@@ -479,13 +477,17 @@
     }
   ],
   "numTiles": 16,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "CTV_102222 nickey spritesheet.png",
+  "width": 112,
+  "height": 32,
   "checksum": "e00b5956d91734f4ad473006685569ff26ed02ad"
 }

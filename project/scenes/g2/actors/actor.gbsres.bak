@@ -70,16 +70,26 @@
         "actorId": "$self$",
         "spriteStateId": "dance",
         "loopAnim": false,
-        "__collapse": true
+        "__collapse": false
       },
       "id": "36a89290-fc57-4004-ae6c-25175013d486"
     },
     {
       "command": "EVENT_ACTOR_START_UPDATE",
       "args": {
-        "actorId": "$self$"
+        "actorId": "$self$",
+        "__comment": true,
+        "__collapse": true
       },
       "id": "fcb50c42-b14e-44f3-b61c-8525bb7e8d9e"
+    },
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "59fa2756-56ce-41b6-b269-40b02b08f16d",
+        "__collapse": true
+      },
+      "id": "077392b0-71eb-4961-bd0c-4175bf76a1fd"
     }
   ],
   "startScript": [
@@ -98,7 +108,8 @@
       "id": "ee3865f6-b866-4218-9009-0b6bd25974e8",
       "command": "EVENT_GROUP",
       "args": {
-        "__collapse": false
+        "__collapse": true,
+        "__comment": true
       },
       "children": {
         "true": [

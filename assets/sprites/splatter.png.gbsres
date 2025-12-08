@@ -3,8 +3,6 @@
   "id": "16f35c43-4e53-415c-bb0b-1decf317fc4f",
   "name": "splatter",
   "symbol": "sprite_splatter",
-  "width": 16,
-  "height": 32,
   "states": [
     {
       "id": "6139bf8a-437d-4ed8-ad89-6a98b4f9426e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "splatter.png",
+  "width": 16,
+  "height": 32,
   "checksum": "65bfcac0afa54ea39cfa6be2f408d4f1f506b3b8"
 }

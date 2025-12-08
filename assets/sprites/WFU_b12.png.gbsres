@@ -3,8 +3,6 @@
   "id": "9e564ba2-fb4b-4252-9c34-f4d1c5120788",
   "name": "WFU_b12",
   "symbol": "sprite_wfu_b12",
-  "width": 80,
-  "height": 32,
   "states": [
     {
       "id": "d6a4ad9e-fce7-4bf3-b885-883866ae864d",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "WFU_b12.png",
+  "width": 80,
+  "height": 32,
   "checksum": "cad562545bd29a80fe98e58833c89e427abf42a5"
 }

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "7b03dffb-4135-426a-ad93-8e7793a9bbe2",
+  "name": "GV_background calm clam",
+  "symbol": "sprite_gv_background_calm_c",
+  "width": 160,
+  "height": 144,
+  "states": [
+    {
+      "id": "1c63081b-a740-4e9f-9422-c8931c8fc218",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "dcd01f09-b98c-4896-98d3-a1bda441b297",
+          "frames": [
+            {
+              "id": "c831c081-f62e-4408-a2dc-833a6f5bdad3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c116b498-1e5c-43d6-8be2-d826255173f6",
+          "frames": [
+            {
+              "id": "2f59c5bb-4d49-4778-addf-b7ae2333afd6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7891c28e-5fd7-457d-9072-f5bfb636de73",
+          "frames": [
+            {
+              "id": "7cdba57b-99bc-4f8d-91ae-5623f3a1689e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ca669073-d475-4ba9-b4c7-3d68f7c266ca",
+          "frames": [
+            {
+              "id": "20dcbf7a-e94b-462e-b936-f240c2976832",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "50568345-52f7-49e9-9e2c-873976dec894",
+          "frames": [
+            {
+              "id": "f1583097-05c1-44be-9799-69dda87b2d78",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5a685035-4fc3-435a-83b5-7982d9ac659b",
+          "frames": [
+            {
+              "id": "58d4454b-022e-451b-8ad0-bf53b37815d1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5ec3484a-13b3-46bf-ba14-c021cac5783a",
+          "frames": [
+            {
+              "id": "fd253c45-a3a0-4d0e-90df-919b2f3517b1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c74de005-bf1e-4072-9658-be6bbebcc0ce",
+          "frames": [
+            {
+              "id": "902b18ab-2759-434c-90b2-adf4a913347a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "GV_background calm clam.png",
+  "checksum": "8c202f536654f43d3ab101910d57ddf5d753f3d9"
+}

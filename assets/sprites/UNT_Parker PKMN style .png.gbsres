@@ -3,8 +3,6 @@
   "id": "67e8ebe1-0705-4203-aaa3-02d60345ba6f",
   "name": "UNT_Parker PKMN style ",
   "symbol": "sprite_unt_parker_pkmn_styl",
-  "width": 20,
-  "height": 54,
   "states": [
     {
       "id": "e9c85772-da81-4295-8301-0459c05099e9",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_Parker PKMN style .png",
+  "width": 20,
+  "height": 54,
   "checksum": "fec0514c4104ae852c45bb7bff617baf4a6970e0"
 }

@@ -3,8 +3,6 @@
   "id": "8cb9c002-1abc-458c-9588-9b55af8efb08",
   "name": "machine",
   "symbol": "sprite_machine",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "4a2c4f69-c9f1-4cb8-9b16-299ec6eddec4",
@@ -146,14 +144,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "machine.png",
-  "checksum": "10e86bdc2747f98c29c83028783152acac542177",
-  "numFrames": 2
+  "width": 32,
+  "height": 16,
+  "checksum": "10e86bdc2747f98c29c83028783152acac542177"
 }

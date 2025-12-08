@@ -3,8 +3,6 @@
   "id": "d4206af4-4d12-4cfd-a4a8-faa11d4aff34",
   "name": "chest",
   "symbol": "sprite_chest",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "3e1824a8-22f5-4460-88a6-f07f548bdffc",
@@ -222,14 +220,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "chest.png",
-  "checksum": "c5d44f84742b12cbac9318755055a7965edb4ea3",
-  "numFrames": 2
+  "width": 32,
+  "height": 16,
+  "checksum": "c5d44f84742b12cbac9318755055a7965edb4ea3"
 }

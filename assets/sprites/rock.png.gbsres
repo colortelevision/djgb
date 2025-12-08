@@ -3,8 +3,6 @@
   "id": "3939e8d2-3987-4a22-953e-f1d82134eccf",
   "name": "rock",
   "symbol": "sprite_rock",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "88ddee56-287c-4abd-adc2-da19da19136f",
@@ -115,14 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "rock.png",
-  "checksum": "b7cf1ef0e7291494c1aff13493d447801316d6e8",
-  "numFrames": 1
+  "width": 16,
+  "height": 16,
+  "checksum": "b7cf1ef0e7291494c1aff13493d447801316d6e8"
 }

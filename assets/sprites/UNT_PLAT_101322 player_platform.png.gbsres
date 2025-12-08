@@ -3,8 +3,6 @@
   "id": "32a40769-7399-4f0c-b7ba-e83c8e912b25",
   "name": "UNT_PLAT_101322 player_platform",
   "symbol": "sprite_unt_plat_101322_play",
-  "width": 88,
-  "height": 160,
   "states": [
     {
       "id": "8c569789-0fbc-4215-ace8-4f2e67527ee3",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_PLAT_101322 player_platform.png",
+  "width": 88,
+  "height": 160,
   "checksum": "ae0234cc4524585dd9c6ac83d2e439130eaebe78"
 }

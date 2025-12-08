@@ -3,8 +3,6 @@
   "id": "8e17312f-4ae9-48b0-bca2-9dc6fe3374ee",
   "name": "1-12",
   "symbol": "sprite_1_12",
-  "width": 960,
-  "height": 256,
   "states": [
     {
       "id": "1cba7a59-7172-4e47-8181-100e33a26104",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "1-12.png",
+  "width": 960,
+  "height": 256,
   "checksum": "30fd57f801d43c4ec3c28c443ade19488742f50d"
 }

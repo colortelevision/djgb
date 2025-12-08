@@ -3,8 +3,6 @@
   "id": "54da405a-2191-4994-a378-18a890d10237",
   "name": "UNT_parker mouth sprites",
   "symbol": "sprite_unt_parker_mouth_spr",
-  "width": 48,
-  "height": 16,
   "states": [
     {
       "id": "17c9040a-b3b8-4df7-83d6-eb0b30dbf368",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_parker mouth sprites.png",
+  "width": 48,
+  "height": 16,
   "checksum": "f79567f751e20041e6fec8e1254f9af899f4873f"
 }

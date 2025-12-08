@@ -3,8 +3,6 @@
   "id": "76e8adc8-8a2f-4dcf-803c-98ef7fb74283",
   "name": "click (2)",
   "symbol": "sprite_click_2_",
-  "width": 48,
-  "height": 16,
   "states": [
     {
       "id": "cdadce98-69fd-42be-8c6a-0f4210f8b23a",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "click (2).png",
+  "width": 48,
+  "height": 16,
   "checksum": "dc77046126e69dbfa8320db4d5cb6c7e1de7cd4b"
 }

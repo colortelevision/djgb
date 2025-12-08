@@ -1,20 +1,25 @@
 {
   "_resourceType": "actor",
   "id": "cefb776a-35cb-4df9-bb85-a512950d44be",
+  "_index": 0,
+  "symbol": "actor_30",
+  "prefabId": "",
   "name": "qBot",
+  "coordinateType": "tiles",
+  "x": 13,
+  "y": 15,
   "frame": 0,
   "animate": false,
   "spriteSheetId": "67a9968c-7d12-453b-aefd-14f0f00b39ec",
-  "prefabId": "",
+  "paletteId": "",
   "direction": "left",
   "moveSpeed": 4,
   "animSpeed": 1,
-  "paletteId": "",
   "isPinned": false,
   "persistent": true,
   "collisionGroup": "1",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_30",
   "script": [
     {
       "id": "f4a1ed6f-1078-4b83-aaa1-677e1e9b870f",
@@ -113,7 +118,8 @@
               },
               "moveType": "horizontal",
               "useCollisions": false,
-              "__collapse": true
+              "__collapse": true,
+              "collideWith": []
             },
             "id": "770d6cd4-8e32-4064-9bd0-f83c11f9a60e"
           }
@@ -175,7 +181,8 @@
                 "value": 15
               },
               "moveType": "horizontal",
-              "useCollisions": false
+              "useCollisions": false,
+              "collideWith": []
             },
             "id": "65fdcd89-38e7-4ddf-9035-148e39add2ac"
           }
@@ -234,7 +241,8 @@
               },
               "moveType": "horizontal",
               "useCollisions": false,
-              "__collapse": true
+              "__collapse": true,
+              "collideWith": []
             },
             "id": "24db1d02-a63d-4144-b958-aad5f30aff22"
           }
@@ -246,8 +254,5 @@
   ],
   "hit1Script": [],
   "hit2Script": [],
-  "hit3Script": [],
-  "x": 13,
-  "y": 15,
-  "_index": 0
+  "hit3Script": []
 }

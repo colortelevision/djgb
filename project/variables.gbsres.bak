@@ -185,6 +185,11 @@
       "id": "71",
       "name": "g2-checkin",
       "symbol": "var_g2_checkin"
+    },
+    {
+      "id": "72",
+      "name": "gatesCleared",
+      "symbol": "var_gatescleared"
     }
   ],
   "constants": [

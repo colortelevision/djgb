@@ -5,6 +5,7 @@
   "symbol": "actor_oblivious_guy",
   "prefabId": "",
   "name": "Oblivious Guy",
+  "coordinateType": "tiles",
   "x": 18,
   "y": 16,
   "frame": 0,
@@ -17,6 +18,7 @@
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "script": [
     {

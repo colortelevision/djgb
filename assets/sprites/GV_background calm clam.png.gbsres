@@ -3,8 +3,6 @@
   "id": "7b03dffb-4135-426a-ad93-8e7793a9bbe2",
   "name": "GV_background calm clam",
   "symbol": "sprite_gv_background_calm_c",
-  "width": 160,
-  "height": 144,
   "states": [
     {
       "id": "1c63081b-a740-4e9f-9422-c8931c8fc218",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "GV_background calm clam.png",
+  "width": 160,
+  "height": 144,
   "checksum": "8c202f536654f43d3ab101910d57ddf5d753f3d9"
 }

@@ -3,8 +3,6 @@
   "id": "f88eea80-c5b4-4e10-b49f-7a8aa8bd477e",
   "name": "turnip",
   "symbol": "sprite_turnip",
-  "width": 48,
-  "height": 16,
   "states": [
     {
       "id": "4d561aab-2bc3-4180-8fc1-a9546b3c0087",
@@ -253,14 +251,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "turnip.png",
-  "checksum": "f2d6d2342a30bf409c629b4d1e7f8f09cd26c856",
-  "numFrames": 3
+  "width": 48,
+  "height": 16,
+  "checksum": "f2d6d2342a30bf409c629b4d1e7f8f09cd26c856"
 }

@@ -3,8 +3,6 @@
   "id": "4c1f84e1-4d2d-45b2-8c71-29c3be79519d",
   "name": "250209-sprites",
   "symbol": "sprite_250209_sprites",
-  "width": 96,
-  "height": 32,
   "states": [
     {
       "id": "60b1eb4b-067e-41ed-a700-3b775034c1db",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "250209-sprites.png",
+  "width": 96,
+  "height": 32,
   "checksum": "1973b3822d4b31cb739b1d7a2c804ed30ad95e08"
 }

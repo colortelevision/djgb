@@ -3,8 +3,6 @@
   "id": "ac1e9255-c4da-4b44-a50b-249c0fd9917a",
   "name": "untitledplats",
   "symbol": "sprite_untitledplats",
-  "width": 88,
-  "height": 160,
   "states": [
     {
       "id": "f76e85b3-ed16-4253-917f-b0a3b24bf024",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "untitledplats.png",
+  "width": 88,
+  "height": 160,
   "checksum": "6c866e97a5393e92a573953ce1aba1c44da4169a"
 }

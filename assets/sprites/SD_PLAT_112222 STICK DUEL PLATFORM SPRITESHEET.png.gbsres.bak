@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "1fe1b42e-365b-42f5-933c-8723de9aa128",
+  "name": "SD_PLAT_112222 STICK DUEL PLATFORM SPRITESHEET",
+  "symbol": "sprite_sd_plat_112222_stick",
+  "width": 88,
+  "height": 160,
+  "states": [
+    {
+      "id": "df4c1067-02b8-43b9-9559-8c53e6f00180",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "de5b4e1c-81de-4019-8a65-2db8a0c80ca4",
+          "frames": [
+            {
+              "id": "8078857a-8d2f-46dc-8e04-97d0f4b626c0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "993e2276-f7a6-422e-8a06-a2cfa0620957",
+          "frames": [
+            {
+              "id": "0e0598b8-17a5-42cc-957c-9b664c714089",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d4b24724-ce6b-4245-a2aa-1bf105cf4518",
+          "frames": [
+            {
+              "id": "bfc1206d-853b-4eb9-bbfb-c3b2e8d72793",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bfdcf8f8-8e57-4086-ae4a-8e7f44f53b4b",
+          "frames": [
+            {
+              "id": "777db72f-d960-42e5-9846-85eda1006890",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6065164b-52ac-47e1-89ad-2c7e50139cdc",
+          "frames": [
+            {
+              "id": "72e8fc37-8405-459a-8bb8-aae84ac25235",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9c13f88c-f9f1-465d-a82a-874f460e80e0",
+          "frames": [
+            {
+              "id": "fec97b6b-d702-4fd2-b711-c9469f8a378a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b88bbf69-6752-4da4-b95f-048d353c8fd2",
+          "frames": [
+            {
+              "id": "1b74842c-6fba-456b-8cae-43a67d34a9ff",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07ecdfa7-25a4-4ff3-86b0-0f71f38a59e9",
+          "frames": [
+            {
+              "id": "cf79a174-f66a-415e-801d-6d7c33d6b4bc",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_PLAT_112222 STICK DUEL PLATFORM SPRITESHEET.png",
+  "checksum": "19e376e57c886e9f36e84b11fdd759cbe1a942b2"
+}

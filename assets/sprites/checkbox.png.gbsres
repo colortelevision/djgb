@@ -3,8 +3,6 @@
   "id": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
   "name": "checkbox",
   "symbol": "sprite_checkbox",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "26754c86-b91e-4fae-ab59-babdbdfe1b9e",
@@ -120,14 +118,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "checkbox.png",
-  "checksum": "47fd516f3adb10b1cfde24450b5c7c928abf643e",
-  "numFrames": 2
+  "width": 32,
+  "height": 16,
+  "checksum": "47fd516f3adb10b1cfde24450b5c7c928abf643e"
 }

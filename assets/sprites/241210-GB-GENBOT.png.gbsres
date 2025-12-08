@@ -3,8 +3,6 @@
   "id": "65cb3890-d8a8-4d24-b654-8813a70daf47",
   "name": "241210-GB-GENBOT",
   "symbol": "sprite_241210_gb_genbot",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "63fc1be5-893a-4f85-a6e4-6a730e67046c",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "241210-GB-GENBOT.png",
+  "width": 96,
+  "height": 16,
   "checksum": "0a53c5ff2657caf35c5c3ab1e5f3c740d20cbf0f"
 }

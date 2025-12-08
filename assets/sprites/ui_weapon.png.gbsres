@@ -3,8 +3,6 @@
   "id": "735c26e5-eee4-43ad-a668-a2ab93f84bd8",
   "name": "ui_weapon",
   "symbol": "sprite_ui_weapon",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "581b33db-119d-430c-86ca-d4077cb2a64d",
@@ -115,14 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "ui_weapon.png",
-  "checksum": "696a0c2153ca67099513669b7c04c4af32ddacfa",
-  "numFrames": 1
+  "width": 16,
+  "height": 16,
+  "checksum": "696a0c2153ca67099513669b7c04c4af32ddacfa"
 }

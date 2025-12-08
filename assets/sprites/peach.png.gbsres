@@ -3,8 +3,6 @@
   "id": "9afc663d-36d9-4363-9c18-6fe2afac5a81",
   "name": "peach",
   "symbol": "sprite_peach",
-  "width": 48,
-  "height": 32,
   "states": [
     {
       "id": "a177425f-2b37-4108-9b7a-be36bce00080",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "peach.png",
+  "width": 48,
+  "height": 32,
   "checksum": "8a7e944bf48acd06b1143bc2018f0ae23f3ca542"
 }

@@ -3,8 +3,6 @@
   "id": "88d4fea3-22fb-4292-b62d-1703f5c1d4a9",
   "name": "actor_animated",
   "symbol": "sprite_actor_animated",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "34508dc8-2d3c-43ff-9772-a2076153d751",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "actor_animated.png",
+  "width": 96,
+  "height": 16,
   "checksum": "cd6c8ebac31ccd6a325b8a7e94a05d442ae6725e"
 }

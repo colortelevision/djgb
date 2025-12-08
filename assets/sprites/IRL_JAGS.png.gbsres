@@ -3,8 +3,6 @@
   "id": "f11058a7-dfd3-4841-8a66-abf82d1e7aed",
   "name": "IRL_JAGS",
   "symbol": "sprite_irl_jags",
-  "width": 32,
-  "height": 32,
   "states": [
     {
       "id": "77cc34fb-4b8e-472f-b604-164004947dee",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "IRL_JAGS.png",
+  "width": 32,
+  "height": 32,
   "checksum": "4a2d4bd1b7a80235ddf422fde55547f93d95a1cb"
 }

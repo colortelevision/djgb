@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "73282b33-fbba-43f9-b7df-c952d34e25c9",
+  "name": "IRL_BULBS copy",
+  "symbol": "sprite_irl_bulbs_copy",
+  "width": 112,
+  "height": 64,
+  "states": [
+    {
+      "id": "84e9f7c4-731c-428a-820c-d29784b79d89",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "06e86745-fc41-4456-a463-40ae56e22d8e",
+          "frames": [
+            {
+              "id": "ae4e72e1-4b56-46b1-b2dd-1c8328dac425",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "80c67e0e-53ce-4203-876f-52b09989ac1f",
+          "frames": [
+            {
+              "id": "fc87ae66-9a49-4b6a-bbe8-8d90f610d892",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ccf973e1-9f2c-430f-a07c-728ab998f569",
+          "frames": [
+            {
+              "id": "9dd5e895-1844-4ec1-801d-8f860f781b42",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e195bd9d-8909-4304-9b97-15783aad122d",
+          "frames": [
+            {
+              "id": "138361aa-bb37-427e-ab9e-6017599c2509",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "73c3fd55-2295-4851-917d-9e04ccde7c82",
+          "frames": [
+            {
+              "id": "5b328ca1-12e0-4d63-bd3e-68a3ce06acbb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c979bf74-31d3-438b-8ecc-304cf5e3efd1",
+          "frames": [
+            {
+              "id": "6a30833e-4732-41bf-81d3-6c246e762379",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "28734b75-540d-46ae-a75e-a5f5b0900b1a",
+          "frames": [
+            {
+              "id": "ffa3650f-86d0-4b99-8134-afda47f6e42e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "84cefacc-910a-4fe4-a7f1-944f17387e05",
+          "frames": [
+            {
+              "id": "90c6eb24-bfd8-4cb9-93fa-076108347997",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_BULBS copy.png",
+  "checksum": "9e1b537153664b62c8034ad82ea10ca4e79d7659"
+}

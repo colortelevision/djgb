@@ -3,10 +3,10 @@
   "id": "cb8830e1-265d-4c61-93e0-9069684dbc23",
   "name": "240917-BOTS-TEST6-BACKGROUND",
   "symbol": "bg_240917_bots_test6_backgr",
+  "tileColors": "",
   "width": 20,
   "height": 18,
   "imageWidth": 160,
   "imageHeight": 144,
-  "tileColors": "",
   "filename": "240917-BOTS-TEST6-BACKGROUND.png"
 }

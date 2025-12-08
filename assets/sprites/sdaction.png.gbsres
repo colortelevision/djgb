@@ -3,8 +3,6 @@
   "id": "83d2e99f-ab9e-48f1-a980-32fccf9aa72e",
   "name": "sdaction",
   "symbol": "sprite_sdaction",
-  "width": 288,
-  "height": 32,
   "states": [
     {
       "id": "8c76597f-80e8-44d7-b997-3af065105791",
@@ -1288,13 +1286,17 @@
     }
   ],
   "numTiles": 16,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "sdaction.png",
+  "width": 288,
+  "height": 32,
   "checksum": "5bbf6b61707f7b062837b0eb348d4a9cf99c9cea"
 }

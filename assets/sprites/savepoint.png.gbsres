@@ -3,8 +3,6 @@
   "id": "000a6dde-cb60-436e-b357-30a529daa139",
   "name": "savepoint",
   "symbol": "sprite_savepoint",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "a363a1c8-3329-4af3-bb80-f815035ec876",
@@ -146,14 +144,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "savepoint.png",
-  "checksum": "0b8c6d14622922a2e3ea2f90add3ed89353a7a9b",
-  "numFrames": 2
+  "width": 32,
+  "height": 16,
+  "checksum": "0b8c6d14622922a2e3ea2f90add3ed89353a7a9b"
 }

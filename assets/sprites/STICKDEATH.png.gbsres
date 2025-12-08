@@ -3,8 +3,6 @@
   "id": "9c2e6bb5-3b9d-4c11-8527-2a8fb28aef83",
   "name": "STICKDEATH",
   "symbol": "sprite_stickdeath",
-  "width": 96,
-  "height": 32,
   "states": [
     {
       "id": "f8dc4cc2-50f7-4c6d-9b3f-60ed385ded75",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "STICKDEATH.png",
+  "width": 96,
+  "height": 32,
   "checksum": "8e2ab3396380eb02c9b5d5b5db53c1745d0b206f"
 }

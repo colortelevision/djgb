@@ -5,6 +5,7 @@
   "symbol": "actor_17",
   "prefabId": "9ffef1be-e9d3-4121-bc18-b83a844ffa38",
   "name": "",
+  "coordinateType": "tiles",
   "x": 206,
   "y": 9,
   "frame": 0,
@@ -17,6 +18,7 @@
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "1",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
   "script": [
     {
@@ -73,7 +75,14 @@
             "id": "4a48b3df-897a-4d7c-bff7-d677cfa54b2b",
             "command": "EVENT_WAIT",
             "args": {
-              "time": 0.5
+              "time": {
+                "type": "number",
+                "value": 0.5
+              },
+              "frames": {
+                "type": "number",
+                "value": 30
+              }
             }
           },
           {
@@ -112,7 +121,8 @@
                 "value": -4
               },
               "moveType": "diagonal",
-              "useCollisions": false
+              "useCollisions": false,
+              "collideWith": []
             }
           },
           {
@@ -129,7 +139,8 @@
                 "value": 4
               },
               "moveType": "diagonal",
-              "useCollisions": false
+              "useCollisions": false,
+              "collideWith": []
             }
           },
           {
@@ -168,7 +179,8 @@
                 "value": 4
               },
               "moveType": "diagonal",
-              "useCollisions": false
+              "useCollisions": false,
+              "collideWith": []
             }
           },
           {
@@ -185,7 +197,8 @@
                 "value": -4
               },
               "moveType": "diagonal",
-              "useCollisions": false
+              "useCollisions": false,
+              "collideWith": []
             }
           }
         ]
@@ -247,7 +260,14 @@
             "id": "8aa92606-6c8f-43ab-8973-d30c7f732ea8",
             "command": "EVENT_WAIT",
             "args": {
-              "time": 0.5
+              "time": {
+                "type": "number",
+                "value": 0.5
+              },
+              "frames": {
+                "type": "number",
+                "value": 30
+              }
             }
           },
           {

@@ -3,8 +3,6 @@
   "id": "adc39a94-c767-470f-9a9f-effc6b2f6d53",
   "name": "RPG_zero_kid",
   "symbol": "sprite_rpg_zero_kid",
-  "width": 96,
-  "height": 16,
   "states": [
     {
       "id": "e3fd752d-20e5-4b0c-9560-7c2cf182a30a",
@@ -343,13 +341,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "RPG_zero_kid.png",
+  "width": 96,
+  "height": 16,
   "checksum": "52290fea5bfa3e37370b975667adf0c7202643de"
 }

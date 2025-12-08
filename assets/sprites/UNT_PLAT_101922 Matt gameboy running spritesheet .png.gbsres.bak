@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "070a70d7-e0d9-41a8-8e24-1ff78b79dc18",
+  "name": "UNT_PLAT_101922 Matt gameboy running spritesheet ",
+  "symbol": "sprite_unt_plat_101922_matt",
+  "width": 120,
+  "height": 120,
+  "states": [
+    {
+      "id": "aaeea08c-9e89-44c8-8cae-a3b2dc1c0999",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "7901f753-895a-460e-92df-7c4ab0f46e01",
+          "frames": [
+            {
+              "id": "ee46ce6a-0b33-470c-97b6-912ed3caa4fe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa55888d-ff16-486f-9b96-93e3ad3a86de",
+          "frames": [
+            {
+              "id": "6208a9bb-9bc2-4ee6-8364-566255ada7c2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07f47fbb-24d7-40c2-920a-c3797d4b4915",
+          "frames": [
+            {
+              "id": "10efcd25-37c4-4711-a428-34a12f00a008",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3a276a79-cd21-4de5-8d4f-fd713a063776",
+          "frames": [
+            {
+              "id": "b4fb4cce-c031-4b0d-b1cf-2d254bcd8231",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d6db7457-f59c-483f-92bb-445a9e163104",
+          "frames": [
+            {
+              "id": "8b63ef93-ff0f-44ea-86dd-acdf18491f25",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a38118a6-84d3-49e0-94bd-972f4f30346f",
+          "frames": [
+            {
+              "id": "1f0a4501-df4d-44ff-9a7d-09c83ab16148",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2948b5bd-fbee-4d8f-9848-ec8290ab9db3",
+          "frames": [
+            {
+              "id": "c257aea7-f0e2-4a06-a83f-d63a603e9d8a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fc713267-6ce3-4e36-b713-e50ecbe5a4b7",
+          "frames": [
+            {
+              "id": "ce442829-ec08-449b-9e23-4da0369c17e8",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_PLAT_101922 Matt gameboy running spritesheet .png",
+  "checksum": "a3aabced059513823e08200032c0d246a7dcea0f"
+}

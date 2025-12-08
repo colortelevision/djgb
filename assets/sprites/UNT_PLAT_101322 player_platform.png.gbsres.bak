@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "32a40769-7399-4f0c-b7ba-e83c8e912b25",
+  "name": "UNT_PLAT_101322 player_platform",
+  "symbol": "sprite_unt_plat_101322_play",
+  "width": 88,
+  "height": 160,
+  "states": [
+    {
+      "id": "8c569789-0fbc-4215-ace8-4f2e67527ee3",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "3c6d6e22-0410-4411-ae4c-e234697bfac3",
+          "frames": [
+            {
+              "id": "3a36c247-4852-4d6f-a19e-e4efcd24923c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dda9c357-a82e-4ff3-81b7-a36ee31a59ec",
+          "frames": [
+            {
+              "id": "1e9aa286-366c-4e81-bc11-344b1bdbe468",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "028ca8a7-fda2-455f-aae0-bf93eea5e270",
+          "frames": [
+            {
+              "id": "146ecf14-89ec-444f-9d0a-6ad4f4add80c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bf597861-7da5-48b4-827e-d390a582bc25",
+          "frames": [
+            {
+              "id": "f98f3c33-f19b-4178-bfef-5e2dd313dd31",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "da8041d1-ec5b-4e4a-8f4d-bbcaf61f1871",
+          "frames": [
+            {
+              "id": "d8180265-0df0-4d17-87e3-f758f37b599a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b36e7171-b309-4684-818a-ca8d2afba348",
+          "frames": [
+            {
+              "id": "e266731d-ebae-4d30-9a87-05af0bc2bae1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4e4bbaa7-689c-4a16-9b22-07ff01ec778d",
+          "frames": [
+            {
+              "id": "a8d2f57f-dafd-412d-9a64-4ead197f169b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f11272f2-f05a-49e2-885c-5fd212d44efe",
+          "frames": [
+            {
+              "id": "4bb8a1af-32bb-4030-81f5-75261374ac9a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_PLAT_101322 player_platform.png",
+  "checksum": "ae0234cc4524585dd9c6ac83d2e439130eaebe78"
+}

@@ -3,8 +3,6 @@
   "id": "a2c7bc31-e764-4b18-aade-3cec147c903b",
   "name": "230919-ishtargb",
   "symbol": "sprite_230919_ishtargb",
-  "width": 16,
-  "height": 32,
   "states": [
     {
       "id": "3275487b-9d35-4b9f-9484-d68d14e96780",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "230919-ishtargb.png",
+  "width": 16,
+  "height": 32,
   "checksum": "a732440d166fe9011a809872ee1d952ab823b991"
 }

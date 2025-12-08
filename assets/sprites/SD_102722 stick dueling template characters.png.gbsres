@@ -3,8 +3,6 @@
   "id": "5121cbf7-a1e2-4fb4-9cc8-b532f3a82437",
   "name": "SD_102722 stick dueling template characters",
   "symbol": "sprite_sd_102722_stick_duel",
-  "width": 640,
-  "height": 96,
   "states": [
     {
       "id": "85003007-d297-46b5-982d-cc4f03d1df2a",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "SD_102722 stick dueling template characters.png",
+  "width": 640,
+  "height": 96,
   "checksum": "599543ebdd2b7a4fd1e53f50c44a53dca0fc4864"
 }

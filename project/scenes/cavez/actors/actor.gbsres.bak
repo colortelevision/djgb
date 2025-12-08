@@ -30,7 +30,7 @@
             "value": 0
           }
         },
-        "__collapseElse": true
+        "__collapseElse": false
       },
       "children": {
         "true": [
@@ -47,7 +47,7 @@
                 "radio shack, toys r us\nblockbuster, circuit city",
                 "so yeah\nimma be a skr8 \nchillionaire\n8)  "
               ],
-              "__section": "layout",
+              "__section": "text",
               "avatarId": "",
               "minHeight": 4,
               "maxHeight": 7,
@@ -63,7 +63,7 @@
               "closeButton": "a",
               "closeDelayTime": 0.5,
               "closeDelayFrames": 30,
-              "__collapse": true
+              "__collapse": false
             },
             "id": "8814922e-702a-43eb-9195-66920aac31cb"
           },
@@ -72,7 +72,7 @@
             "args": {
               "actorId": "$self$",
               "emoteId": "a410a4c7-a37d-48ea-917b-f531ba557841",
-              "__collapse": true
+              "__collapse": false
             },
             "id": "82d95fbd-4b67-49d3-b4e3-e0d8bb813e70"
           },
@@ -80,12 +80,65 @@
             "command": "EVENT_INC_VALUE",
             "args": {
               "variable": "L0",
-              "__collapse": true
+              "__collapse": false
             },
             "id": "b329092d-d4cc-47e4-b1a5-2800e4da4eff"
           }
         ],
-        "false": []
+        "false": [
+          {
+            "command": "EVENT_IF",
+            "args": {
+              "condition": {
+                "type": "eq",
+                "valueA": {
+                  "type": "variable",
+                  "value": "L0"
+                },
+                "valueB": {
+                  "type": "number",
+                  "value": 1
+                }
+              },
+              "__collapseElse": true
+            },
+            "children": {
+              "true": [
+                {
+                  "command": "EVENT_TEXT",
+                  "args": {
+                    "text": [
+                      "no worries, there'll be\na handsome reward\nfor ur troubles",
+                      "i invested in hella stonks\nbefore i fell in here",
+                      "radio shack,\ntoys r us,\nblockbuster, \ncircuit city",
+                      "so yeah...\nimma be a skr8 \nchillionaire\n8)  "
+                    ],
+                    "__section": "layout",
+                    "avatarId": "",
+                    "minHeight": 4,
+                    "maxHeight": 7,
+                    "textX": 1,
+                    "textY": 1,
+                    "textHeight": 5,
+                    "position": "bottom",
+                    "clearPrevious": true,
+                    "showFrame": "true",
+                    "speedIn": -1,
+                    "speedOut": -1,
+                    "closeWhen": "key",
+                    "closeButton": "a",
+                    "closeDelayTime": 0.5,
+                    "closeDelayFrames": 30,
+                    "__collapse": false
+                  },
+                  "id": "b93f4445-d5b0-4c2c-a1bf-701d21e3eb18"
+                }
+              ],
+              "false": []
+            },
+            "id": "f1293902-b802-4865-b480-5f8bf5b358e5"
+          }
+        ]
       },
       "id": "f3247dc3-4258-4462-a62f-4c2d5eb6a92c"
     },

@@ -3,8 +3,6 @@
   "id": "b32fd131-acc5-4ed3-8c97-dabf1034ba5d",
   "name": "UNT_CONNER_PLATFORMER",
   "symbol": "sprite_unt_conner_platforme",
-  "width": 88,
-  "height": 160,
   "states": [
     {
       "id": "465be659-a936-41d3-97b2-c17262733ace",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_CONNER_PLATFORMER.png",
+  "width": 88,
+  "height": 160,
   "checksum": "d7cb10df6575a126dfae118b3d52318534742be2"
 }

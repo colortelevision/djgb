@@ -3,8 +3,6 @@
   "id": "7a2e9518-fbeb-41fe-ba4b-6fe1fb0b76ed",
   "name": "UNT_mattyuyu",
   "symbol": "sprite_unt_mattyuyu",
-  "width": 48,
-  "height": 48,
   "states": [
     {
       "id": "28267b55-f95f-435c-a277-be8cd67eb999",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "UNT_mattyuyu.png",
+  "width": 48,
+  "height": 48,
   "checksum": "78f27ac40a95db6ec9f794d36003c51585c4373a"
 }

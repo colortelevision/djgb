@@ -3,8 +3,6 @@
   "id": "1c20a77d-5022-4e4f-ab24-d6bb7fcbc7d6",
   "name": "230301_rpg_03",
   "symbol": "sprite_230301_rpg_03",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "f1299ce8-f683-420f-b356-d05702d5b961",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "230301_rpg_03.png",
+  "width": 16,
+  "height": 96,
   "checksum": "7fb3b76ed58dee856e91ecb0b11be685244dea83"
 }

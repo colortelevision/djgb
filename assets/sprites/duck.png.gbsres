@@ -3,8 +3,6 @@
   "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
   "name": "duck",
   "symbol": "sprite_duck",
-  "width": 32,
-  "height": 16,
   "states": [
     {
       "id": "aba87994-ea8f-4ab0-b6fc-1b9a76ee5d05",
@@ -146,14 +144,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "duck.png",
-  "checksum": "478ef3a9a69777125e9dd4431884adb5c7f079b3",
-  "numFrames": 2
+  "width": 32,
+  "height": 16,
+  "checksum": "478ef3a9a69777125e9dd4431884adb5c7f079b3"
 }

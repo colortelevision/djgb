@@ -65,7 +65,11 @@
                     },
                     "moveType": "horizontal",
                     "useCollisions": true,
-                    "__collapse": false
+                    "__collapse": false,
+                    "collideWith": [
+                      "walls",
+                      "actors"
+                    ]
                   },
                   "id": "828cb7bc-f354-47fb-85ff-c12b8fd500cc"
                 }
@@ -95,7 +99,11 @@
                           },
                           "moveType": "horizontal",
                           "useCollisions": true,
-                          "__collapse": false
+                          "__collapse": false,
+                          "collideWith": [
+                            "walls",
+                            "actors"
+                          ]
                         },
                         "id": "5af83eb5-986c-4cae-ac7c-c6f62dbd9644"
                       }

@@ -3,8 +3,6 @@
   "id": "3f6e7a7f-efe3-40a8-a98e-0daf79aa0c6d",
   "name": "z",
   "symbol": "sprite_z",
-  "width": 612,
-  "height": 612,
   "states": [
     {
       "id": "c1174160-7b4a-45b9-be44-6288f9bfb312",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "z.png",
+  "width": 612,
+  "height": 612,
   "checksum": "2e8173ccd0f40bd25bb6dfd7cdc2fdd337150af4"
 }
